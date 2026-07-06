@@ -43,12 +43,19 @@ function buildLogEntry(logDate, payloadData, issueList) {
     `- 时间：${logDate}`,
     `- 场景：${payloadData.context ?? 'review-or-production'}`,
     `- 评分：${payloadData.result ?? 'unspecified'}`,
-    '',
+    ''
+  ];
+
+  if (payloadData.sourceText) {
+    lines.push('#### 中文原文', '', payloadData.sourceText, '');
+  }
+
+  lines.push(
     '#### 用户原句',
     '',
     payloadData.userText,
     ''
-  ];
+  );
 
   if (payloadData.correctedText) {
     lines.push('#### 建议表达', '', payloadData.correctedText, '');

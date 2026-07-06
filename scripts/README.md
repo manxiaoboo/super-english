@@ -25,6 +25,12 @@ npm run log-production -- --file scripts/examples/production-diagnostic.json
 Logs one sentence-production diagnostic, appends `learning/production-log.md`, and updates the aggregate table in `learning/diagnostics.md`.
 
 ```text
+npm run log-production -- --file scripts/examples/translation-diagnostic.json --dry-run
+```
+
+Previews a Chinese-to-English translation diagnostic record with the original Chinese source sentence.
+
+```text
 npm run diagnostic-summary -- --limit 5
 ```
 

@@ -73,6 +73,9 @@ Use this structure:
 3.
 
 间隔复习建议：
+
+是否入库：
+是否要把这个 vocabulary 保存到项目知识库？回复“保存”或“不保存”。
 ```
 
 ## Output Format For Multiple Words
@@ -98,6 +101,9 @@ Use this structure:
 1.
 2.
 3.
+
+是否入库：
+是否要把这些 vocabulary 保存到项目知识库？可以回复“全部保存”、“只保存 ...”或“不保存”。
 ```
 
 ## Fable Rules
@@ -219,7 +225,13 @@ During review, show the fable image or hook first, ask the user to recall the wo
 
 ## Persistence Rules
 
-When the user asks to save, persist, record, or keep a learned word, update the project learning files after generating the card.
+After every new vocabulary card, phrase card, phrasal verb, idiom, or multi-word vocabulary session, ask whether the user wants to save it to the project knowledge base.
+
+Do not automatically save immediately after generating the card. First ask the save question in the output.
+
+If the user says yes, save, persist, record, keep, 入库, 存入项目, 保存, or chooses specific items from a multi-word session, update the project learning files.
+
+If the user says no, 不保存, 暂不保存, or skips saving, do not write files.
 
 Prefer the Node script for persistence instead of manually editing Markdown:
 
