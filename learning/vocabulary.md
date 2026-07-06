@@ -13,3 +13,5 @@
 | inexpensive | not costing much money | new | 2026-07-06 | 2026-07-07 | 0 | learned |
 | reliable | able to work well or be trusted again and again | new | 2026-07-06 | 2026-07-07 | 0 | learned |
 | loyal | staying faithful and supportive to a person, group, or idea | new | 2026-07-06 | 2026-07-07 | 0 | learned |
+| expression | something that shows or communicates an idea, feeling, or quality | new | 2026-07-06 | 2026-07-07 | 0 | learned |
+| essential | absolutely necessary; most important | new | 2026-07-06 | 2026-07-07 | 0 | learned |
