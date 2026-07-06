@@ -2,6 +2,16 @@
 
 ## 2026-07-06
 
+- learned grammar `because of + noun / because + clause`; next review: 2026-07-07
+- learned phrase `care more about`; next review: 2026-07-07
+- learned word `loyal`; next review: 2026-07-07
+- learned word `reliable`; next review: 2026-07-07
+- learned word `inexpensive`; next review: 2026-07-07
+- learned word `durable`; next review: 2026-07-07
+- learned phrase `top of the range`; next review: 2026-07-07
+- learned word `well-made`; next review: 2026-07-07
+- updated word `timeless`; next review: 2026-07-07
+- learned word `timeless`; next review: 2026-07-07
 - learned word `luxurious`; next review: 2026-07-07
 - learned phrase `value for money`; next review: 2026-07-07
 - learned `fable`; next review: 2026-07-07

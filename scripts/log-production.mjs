@@ -121,12 +121,17 @@ function appendProductionLog(logDate, entry) {
   let markdown = existsSync(file) ? readFileSync(file, 'utf8') : '# Production Log\n';
 
   if (markdown.includes(`## ${logDate}`)) {
-    markdown = markdown.replace(new RegExp(`(## ${logDate}\\n)`), `$1\n${entry}\n\n`);
+    const headingPattern = new RegExp(`(## ${escapeRegExp(logDate)}\\r?\\n(?:\\r?\\n)?)`);
+    markdown = markdown.replace(headingPattern, `$1${entry}\n\n`);
   } else {
     markdown = `${markdown.trim()}\n\n## ${logDate}\n\n${entry}\n`;
   }
 
   writeFileSync(file, markdown, 'utf8');
+}
+
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 function normalizeIssues(value) {
