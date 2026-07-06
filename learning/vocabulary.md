@@ -15,3 +15,9 @@
 | loyal | staying faithful and supportive to a person, group, or idea | new | 2026-07-06 | 2026-07-07 | 0 | learned |
 | expression | something that shows or communicates an idea, feeling, or quality | new | 2026-07-06 | 2026-07-07 | 0 | learned |
 | essential | absolutely necessary; most important | new | 2026-07-06 | 2026-07-07 | 0 | learned |
+| loyalty | steady support or faithfulness to a person, group, or idea | new | 2026-07-06 | 2026-07-07 | 0 | learned |
+| stretching | making something longer or wider; in daily life, especially moving your body to make muscles longer | new | 2026-07-06 | 2026-07-07 | 0 | learned |
+| awareness | knowing or noticing something clearly | new | 2026-07-06 | 2026-07-07 | 0 | learned |
+| placement | putting something or someone in a particular place or position | new | 2026-07-06 | 2026-07-07 | 0 | learned |
+| endorsement | public support or approval of someone or something | new | 2026-07-06 | 2026-07-07 | 0 | learned |
+| advantages | good points or benefits that make something better | new | 2026-07-06 | 2026-07-07 | 0 | learned |
