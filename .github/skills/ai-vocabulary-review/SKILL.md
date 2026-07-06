@@ -132,6 +132,29 @@ After the user answers, score the review as one of:
 
 Give concise feedback. Correct grammar and usage when needed.
 
+When the user writes a sentence as part of the answer, implicitly diagnose the production quality.
+
+Classify recurring issues into stable categories, for example:
+
+- `noun-number`
+- `article-usage`
+- `verb-tense`
+- `subject-verb-agreement`
+- `word-choice`
+- `natural-collocation`
+- `missing-main-clause`
+- `incomplete-sentence`
+- `word-order`
+- `preposition-choice`
+
+If at least one meaningful issue appears, save a production diagnostic record with:
+
+```text
+npm run log-production -- --file <payload.json>
+```
+
+The payload should include the user's original sentence, a corrected sentence when needed, issue categories, short notes, and improvement suggestions.
+
 ## Next Review Schedule
 
 Use this simple schedule:
@@ -162,8 +185,12 @@ Prefer scripts for mechanical work:
 - due item discovery: `npm run due -- --date <YYYY-MM-DD>`
 - category-specific review: `npm run due -- --date <YYYY-MM-DD> --type grammar`
 - review persistence: `npm run update-review -- --type word --id fable --result good --date <YYYY-MM-DD>`
+- production diagnostics: `npm run log-production -- --file <payload.json>`
+- diagnostic summaries: `npm run diagnostic-summary -- --limit 5`
 
 Avoid reading every file in `learning/` for routine review. The script output is the compact working context.
+
+During longer review sessions, consult `npm run diagnostic-summary -- --limit 5` to identify the user's most frequent sentence-production weaknesses and adapt feedback accordingly.
 
 ## Vocabulary Index Schema
 

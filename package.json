@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "add-item": "node scripts/add-item.mjs",
+    "diagnostic-summary": "node scripts/diagnostic-summary.mjs",
     "due": "node scripts/due-items.mjs",
+    "log-production": "node scripts/log-production.mjs",
     "update-review": "node scripts/update-review.mjs",
     "next-sentence-id": "node scripts/next-sentence-id.mjs"
   }

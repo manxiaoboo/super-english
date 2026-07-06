@@ -19,6 +19,18 @@ npm run add-item -- --type word --id example --meaning "a sample word" --date 20
 Previews an add/update without writing files.
 
 ```text
+npm run log-production -- --file scripts/examples/production-diagnostic.json
+```
+
+Logs one sentence-production diagnostic, appends `learning/production-log.md`, and updates the aggregate table in `learning/diagnostics.md`.
+
+```text
+npm run diagnostic-summary -- --limit 5
+```
+
+Prints the most frequent production issues so the AI can summarize the user's weak points quickly.
+
+```text
 npm run due -- --date 2026-07-07
 ```
 

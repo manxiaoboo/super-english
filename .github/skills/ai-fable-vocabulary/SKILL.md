@@ -173,6 +173,37 @@ Use questions that test different directions:
 
 Do not only ask recognition questions. Include at least one production question.
 
+When the user answers with their own English sentence, diagnose the production quality implicitly.
+
+Classify recurring issues into stable categories, for example:
+
+- `noun-number`
+- `article-usage`
+- `verb-tense`
+- `subject-verb-agreement`
+- `word-choice`
+- `natural-collocation`
+- `word-order`
+- `preposition-choice`
+- `incomplete-sentence`
+
+If at least one meaningful issue appears in the user's sentence, save a production diagnostic record with:
+
+```text
+npm run log-production -- --file <payload.json>
+```
+
+The payload should include:
+
+- the reviewed word as `sourceId`
+- the user's original sentence
+- a corrected sentence when needed
+- stable issue categories
+- concise problem notes
+- one or two improvement suggestions
+
+Do this especially when the user is attempting active recall or personal example sentences.
+
 ## Review Schedule
 
 Recommend this default review rhythm:
@@ -224,6 +255,14 @@ If a word already exists, update the existing card instead of creating a duplica
 Do not overwrite user review history. Append new notes under the card's review history.
 
 Avoid reading all of `learning/vocabulary.md` or all word files for routine saves. Let `add-item` handle table updates.
+
+For sentence-production diagnostics during word learning or review, prefer:
+
+```text
+npm run log-production -- --file <payload.json>
+```
+
+so the project accumulates long-term evidence about the user's sentence habits.
 
 ## Quality Checklist
 

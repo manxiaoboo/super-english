@@ -163,6 +163,16 @@ Use this structure:
 请你用自己的话说出这句话的意思。
 ```
 
+If the user paraphrases the sentence or writes a new example sentence, diagnose sentence-production issues implicitly.
+
+When there are clear issues in completeness, word order, grammar choice, collocation, or article/number usage, save them with:
+
+```text
+npm run log-production -- --file <payload.json>
+```
+
+This should build a long-term record of the user's sentence-production habits, not just one-off corrections.
+
 ### 6. Persist The Study Record
 
 When the user asks to save, record, persist, or make this today's learning content, save the sentence and all selected learning items.

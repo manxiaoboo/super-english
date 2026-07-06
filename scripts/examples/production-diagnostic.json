@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-06",
+  "sourceType": "word",
+  "sourceId": "fable",
+  "context": "review",
+  "result": "good",
+  "userText": "I learn English with fable.",
+  "correctedText": "I learn English with fables.",
+  "generalAdvice": "你已经能表达核心意思，但名词单复数和更自然的搭配还不稳定。",
+  "issues": [
+    {
+      "category": "noun-number",
+      "note": "泛指时把可数名词单数直接放在 with 后面，缺少复数形式。",
+      "suggestion": "表达泛指时，检查可数名词是否需要复数，比如 fables, books, sentences。"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "句子可以表达意思，但搭配还不够自然。",
+      "suggestion": "优先模仿锚定句和高频搭配，比如 learn vocabulary through fables。"
+    }
+  ]
+}
