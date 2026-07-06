@@ -2,6 +2,13 @@
 
 ## 2026-07-06
 
+- learned word `advantages`; next review: 2026-07-07
+- learned word `endorsement`; next review: 2026-07-07
+- learned word `placement`; next review: 2026-07-07
+- learned phrase `raise awareness`; next review: 2026-07-07
+- learned word `awareness`; next review: 2026-07-07
+- learned word `stretching`; next review: 2026-07-07
+- learned word `loyalty`; next review: 2026-07-07
 - learned word `essential`; next review: 2026-07-07
 - learned sentence `2026-07-06-001`; next review: 2026-07-07
 - learned grammar `A is the expression of B`; next review: 2026-07-07
