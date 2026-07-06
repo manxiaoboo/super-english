@@ -241,12 +241,17 @@ function appendLearningLog(learnedAt, itemType, itemId, nextReviewDate, action) 
   let markdown = existsSync(file) ? readFileSync(file, 'utf8') : '# Review Log\n';
 
   if (markdown.includes(`## ${learnedAt}`)) {
-    markdown = markdown.replace(new RegExp(`(## ${learnedAt}\\n)`), `$1\n${line}\n`);
+    const headingPattern = new RegExp(`(## ${escapeRegExp(learnedAt)}\\r?\\n(?:\\r?\\n)?)`);
+    markdown = markdown.replace(headingPattern, `$1${line}\n`);
   } else {
     markdown = `${markdown.trim()}\n\n## ${learnedAt}\n\n${line}\n`;
   }
 
   writeFileSync(file, markdown, 'utf8');
+}
+
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 function formatList(values) {
