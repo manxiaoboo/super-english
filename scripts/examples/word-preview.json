@@ -1,0 +1,27 @@
+{
+  "type": "word",
+  "id": "preview",
+  "meaning": "to see something before it happens or before it is shown fully",
+  "pronunciation": "/ˈpriːvjuː/",
+  "partOfSpeech": "noun or verb",
+  "coreMeaning": "to see something before the full version",
+  "coreImage": "先打开一扇小窗，看见正式内容的一角",
+  "chineseMeaning": "预览；预先查看",
+  "fable": "上课前，黑板悄悄打开一扇小窗，让学生先看到明天故事的一角。小窗说：我不是正式演出，我只是 preview，让你提前知道将要发生什么。",
+  "moral": "预览让人先看见重点，正式学习时更容易理解。",
+  "memoryHook": "preview = pre + view，提前看一眼。",
+  "anchorSentence": "I preview textbook sentences before class.",
+  "collocations": [
+    "preview a lesson",
+    "preview a book",
+    "a quick preview"
+  ],
+  "personalExample": "I use AI to preview difficult English sentences.",
+  "notes": "preview 强调正式开始前先看；review 是复习、回顾。",
+  "recallQuestions": [
+    "那扇上课前提前打开的小窗，对应哪个英文单词？",
+    "preview 和 review 有什么区别？",
+    "用 preview 写一句和教材预习有关的英文句子。"
+  ],
+  "learnedAt": "2026-07-06"
+}

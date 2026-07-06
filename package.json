@@ -1,0 +1,12 @@
+{
+  "name": "super-english",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "add-item": "node scripts/add-item.mjs",
+    "due": "node scripts/due-items.mjs",
+    "update-review": "node scripts/update-review.mjs",
+    "next-sentence-id": "node scripts/next-sentence-id.mjs"
+  }
+}
