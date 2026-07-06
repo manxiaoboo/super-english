@@ -2,6 +2,34 @@
 
 ## 2026-07-06
 
+### word-review: essential
+
+- 时间：2026-07-06
+- 场景：active-recall-sentence
+- 评分：needs-improvement
+
+#### 用户原句
+
+In a development team, frontend developer is essential.
+
+#### 建议表达
+
+On a development team, frontend developers are essential.
+A frontend developer is essential on a small team.
+
+#### 诊断问题
+
+- article-usage：frontend developer 是可数名词单数，这里前面缺少冠词。
+  建议：如果说单个岗位，用 a frontend developer。
+- noun-number：这里是在泛指这类岗位，通常更自然地用复数 frontend developers。
+  建议：表达一般情况时，可说 frontend developers are essential。
+- natural-collocation：表示团队成员归属时，on a development team 往往比 in a development team 更自然。
+  建议：优先记住 on a team / on a development team。
+
+#### 总体建议
+
+你已经正确用出了 essential 的核心意思。下一步重点是：可数名词单数要配冠词；泛指职业类别时多用复数。
+
 ### translation-play: brand-preference-trust-value
 
 - ???2026-07-06

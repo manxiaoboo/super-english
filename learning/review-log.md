@@ -2,6 +2,10 @@
 
 ## 2026-07-06
 
+- learned word `essential`; next review: 2026-07-07
+- learned sentence `2026-07-06-001`; next review: 2026-07-07
+- learned grammar `A is the expression of B`; next review: 2026-07-07
+- learned word `expression`; next review: 2026-07-07
 - learned grammar `because of + noun / because + clause`; next review: 2026-07-07
 - learned phrase `care more about`; next review: 2026-07-07
 - learned word `loyal`; next review: 2026-07-07
