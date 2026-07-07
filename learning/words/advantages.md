@@ -54,4 +54,5 @@ One of the advantages of AI study tools is instant feedback.
 
 ## 复习记录
 
+- 2026-07-07：forgot，Could not fully recall the word from the image.。下次复习：2026-07-08。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

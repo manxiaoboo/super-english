@@ -54,4 +54,5 @@ I like well-made learning materials because they are easier to use for daily rev
 
 ## 复习记录
 
+- 2026-07-07：good，Recalled meaning and produced a natural sentence with only a spelling slip.。下次复习：2026-07-14。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

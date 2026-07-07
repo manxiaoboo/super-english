@@ -54,4 +54,5 @@ A teacher's endorsement can give students more confidence.
 
 ## 复习记录
 
+- 2026-07-07：hard，Recalled meaning, but sentence structure and word form were weak.。下次复习：2026-07-10。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

@@ -28,4 +28,5 @@ People buy famous brands because they trust them.
 
 ## 复习记录
 
+- 2026-07-07：hard，Remembered cause meaning, but form distinction and sentence production were weak.。下次复习：2026-07-10。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

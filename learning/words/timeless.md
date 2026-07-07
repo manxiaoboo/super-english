@@ -54,4 +54,5 @@ A timeless story makes vocabulary easier to remember.
 
 ## 复习记录
 
+- 2026-07-07：hard，Recalled meaning, but sentence had spelling and clause-form issues.。下次复习：2026-07-10。
 - 2026-07-06：首次学习。下次复习：2026-07-07。
