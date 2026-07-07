@@ -52,4 +52,5 @@ I want to expand my vocabulary by learning words through fables.
 
 ## 复习记录
 
+- 2026-07-07：hard，Recalled meaning, but sentence used vocabulary unnaturally for countable words.。下次复习：2026-07-10。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

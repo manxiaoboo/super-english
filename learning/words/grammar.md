@@ -52,4 +52,5 @@ I want to learn grammar through textbook sentences.
 
 ## 复习记录
 
+- 2026-07-07：forgot，Could not recall the word from the image.。下次复习：2026-07-08。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

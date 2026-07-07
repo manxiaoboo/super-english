@@ -212,3 +212,332 @@ Super English is a project that uses AI to make English learning more efficient.
 #### æ€»ä½“å»ºè®®
 
 é‡ç‚¹ç»ƒä¹ è‹±æ–‡é¡¹ç›®ä»‹ç»å¥åž‹ã€åŠ¨è¯ä¸å®šå¼ç»“æž„ã€å¹¶åˆ—åŠ¨è¯ç»“æž„ï¼Œä»¥åŠå­¦ä¹ åœºæ™¯ä¸­çš„è‡ªç„¶æ­é…ã€‚
+
+## 2026-07-07
+
+### word: fable
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：good
+
+#### 用户原句
+
+I like learn English words through fables
+
+#### 建议表达
+
+I like learning English words through fables.
+
+#### 诊断问题
+
+- natural-collocation：like learn 不自然，更常说 like learning 或 like to learn。
+  建议：把它记成固定骨架：I like learning ... / I like to learn ...。
+
+#### 总体建议
+
+你已经能自然用 through fables 了，这很好。现在只要把 like 后面的结构固定成 like doing 或 like to do。
+
+### word: endorsement
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：hard
+
+#### 用户原句
+
+We need find a famous star to be endorsement
+
+#### 建议表达
+
+We need to find a famous star's endorsement.
+
+#### 诊断问题
+
+- incomplete-sentence：need 后面少了 to，to be endorsement 结构也不成立。
+  建议：先套用完整骨架：need to do something。
+- word-choice：endorsement 是名词，这里不能直接说 to be endorsement。
+  建议：如果要用这个词，优先说 get/need someone's endorsement。
+
+#### 总体建议
+
+你记住了大意，但 endorsement 是名词，句子里要给它一个自然的位置。
+
+### word: stretching
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：hard
+
+#### 用户原句
+
+I have a stretching this morning
+
+#### 建议表达
+
+I did some stretching this morning.
+
+#### 诊断问题
+
+- natural-collocation：have a stretching 不自然，更常说 do some stretching。
+  建议：把 stretching 当运动活动时，优先记住 do some stretching。
+- article-usage：stretching 这里通常不和 a 连用。
+  建议：活动类名词先判断是不是不可数或习惯说法，比如 some stretching, some exercise。
+
+#### 总体建议
+
+你记住了词义，但 stretching 当活动说时，更自然的是 do some stretching。
+
+### word: expression
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：hard
+
+#### 用户原句
+
+It is a popular phone, It can expression of social position
+
+#### 建议表达
+
+It is a popular phone, and it can be an expression of social status.
+
+#### 诊断问题
+
+- incomplete-sentence：It can expression of ... 结构不成立，缺少 be 和冠词。
+  建议：优先套用完整骨架：something can be an expression of ...。
+- word-choice：social position 在这里不如 social status 自然。
+  建议：谈‘社会地位’时，优先记住 social status 这个搭配。
+
+#### 总体建议
+
+你已经抓到 expression 和‘体现’有关，但句子骨架还不稳。先记住固定结构：be an expression of ...。
+
+### word: loyal
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：hard
+
+#### 用户原句
+
+I'm loyal for Casio watchs
+
+#### 建议表达
+
+I'm loyal to Casio watches.
+
+#### 诊断问题
+
+- preposition-choice：loyal 后面通常接 to，不接 for。
+  建议：把它当固定块记：be loyal to someone/something。
+- spelling：watchs 拼写错误，应为 watches。
+  建议：以 ch 结尾的常见名词变复数时，优先想到 +es，如 watch → watches。
+
+#### 总体建议
+
+你记住了词义，但 loyal 后面的固定搭配要记成 loyal to。
+
+### word: inexpensive
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：forgot
+
+#### 用户原句
+
+I like Casio watches because it give me the value for money
+
+#### 建议表达
+
+I like Casio watches because they give me good value for money.
+
+#### 诊断问题
+
+- subject-verb-agreement：主语是 Casio watches，后面不能用 it give，应改为 they give。
+  建议：先看主语是单数还是复数：watches → they give。
+- natural-collocation：the value for money 不自然，更常说 give good value for money。
+  建议：把它当固定块记：something gives good value for money。
+
+#### 总体建议
+
+这题目标词是 inexpensive，不是 value for money。你已经会用 value for money 这个意思场景，但句子里代词、动词和固定搭配还要更稳。
+
+### word: well-made
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：good
+
+#### 用户原句
+
+I perfer to buy a well-made watch
+
+#### 建议表达
+
+I prefer to buy a well-made watch.
+
+#### 诊断问题
+
+- spelling：perfer 拼写错误，应为 prefer。
+  建议：写 prefer 时记住顺序是 pre-fer，不是 per-fer。
+
+#### 总体建议
+
+这句已经很自然了，主要问题只是 prefer 的拼写。
+
+### word: timeless
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：hard
+
+#### 用户原句
+
+I like this watche because its timeless
+
+#### 建议表达
+
+I like this watch because it's timeless.
+
+#### 诊断问题
+
+- spelling：watche 拼写错误，应为 watch。
+  建议：this 后面通常接单数名词，写完后顺手检查名词拼写。
+- word-choice：its timeless 这里应是 it's timeless，表示 it is timeless。
+  建议：看到 because 后面要接完整从句时，先检查是否有主语 + be 动词，如 it's timeless。
+
+#### 总体建议
+
+你已经会用 because 连接原因了，这很好。现在要更稳地控制单词拼写和句子细节。
+
+### word: luxurious
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：hard
+
+#### 用户原句
+
+I never seen this kind of watches, there are so luxurious
+
+#### 建议表达
+
+I have never seen this kind of watch. It looks so luxurious.
+
+#### 诊断问题
+
+- verb-tense：I never seen 缺少助动词，应用现在完成时 I have never seen。
+  建议：遇到 never seen 这类结构时，先检查前面是否需要 have/has。
+- noun-number：this kind of watches 不自然，通常说 this kind of watch。
+  建议：看到 this kind of ... 时，优先先套用单数名词，如 this kind of watch。
+- incomplete-sentence：there are so luxurious 结构不成立，缺少明确主语承接。
+  建议：可以拆成两个完整句子，例如 It looks so luxurious.
+
+#### 总体建议
+
+你记住了词义，但造句时主句时态和名词形式还不稳定。先用简单稳定骨架：I have never seen ... / It looks ...。
+
+### word: phrases
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：hard
+
+#### 用户原句
+
+I think speak with phrases is better than seperate word.
+
+#### 建议表达
+
+I think speaking in phrases is better than using separate words.
+
+#### 诊断问题
+
+- natural-collocation：speak with phrases 不自然，更自然的是 speak in phrases 或 speaking in phrases。
+  建议：表达‘用短语说话/表达’时，优先记住 in phrases 这个搭配。
+- noun-number：seperate word 这里应是 separate words。
+  建议：比较一类事物时，检查是否需要复数，如 words, phrases, sentences。
+- spelling：seperate 拼写错误，应为 separate。
+  建议：高频词 separate 可以拆着记：sep-a-rate。写完后回看一眼。
+
+#### 总体建议
+
+你记住了词义，但造句里有搭配、词形和拼写问题。优先模仿固定骨架，比如 speaking in phrases / separate words。
+
+### word: vocabulary
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：hard
+
+#### 用户原句
+
+I learn at least 10 vocabularies every day
+
+#### 建议表达
+
+I learn at least 10 new words every day.
+
+#### 诊断问题
+
+- word-choice：vocabulary 更常表示一个人掌握的整体词汇量，不适合这里直接表示 10 个具体单词。
+  建议：说具体几个单词时，优先用 words；说整体词汇能力时，用 vocabulary，如 build my vocabulary。
+- noun-number：vocabularies 虽然有复数形式，但这里不自然，因为你不是在说多套词汇体系。
+  建议：先判断你要表达的是若干具体单词，还是整体词汇量；具体数量通常用 words。
+
+#### 总体建议
+
+你回忆出了词义，但 vocabulary 在这里不适合直接表示一个个可数单词。更自然的是用 words，或者说 build my vocabulary。
+
+### grammar: because of + noun / because + clause
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：hard
+
+#### 用户原句
+
+I want to eat more vegetables because of good for healthy
+
+#### 建议表达
+
+I want to eat more vegetables because they are good for my health.
+
+#### 诊断问题
+
+- incomplete-sentence：because of 后面没有接完整、自然的名词短语，整段原因表达没有成型。
+  建议：优先套用骨架：because of + noun phrase / because + subject + verb。
+- word-choice：healthy 是形容词，这里应改成 health，或直接改成 because they are good for my health。
+  建议：看到 for health / for my health 这类搭配时，优先用名词 health，不要用形容词 healthy。
+
+#### 总体建议
+
+你知道这是表达原因的结构，但 because of 和 because 后面接什么还不稳定。先牢牢记住：because of + 名词短语；because + 主语 + 动词。
+
+### phrase: value for money
+
+- 时间：2026-07-07
+- 场景：review
+- 评分：hard
+
+#### 用户原句
+
+I like Carsio watche because it always let me feel good value for money
+
+#### 建议表达
+
+I like Casio watches because they always give me good value for money.
+
+#### 诊断问题
+
+- spelling：Carsio 和 watche 都有拼写问题。
+  建议：写品牌名和常见可数名词时，先慢一点检查拼写，比如 Casio, watches。
+- noun-number：watche 这里需要复数 watches。
+  建议：说一类产品时，优先检查是否要用复数，如 watches, courses, apps。
+- natural-collocation：feel good value for money 不自然，更自然的是 give me good value for money。
+  建议：把 value for money 记成固定搭配：something gives good value for money。
+
+#### 总体建议
+
+你已经记住了核心意思，但造句时要特别注意拼写、名词单复数，以及 value for money 的自然搭配。

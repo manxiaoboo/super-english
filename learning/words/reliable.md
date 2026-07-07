@@ -55,4 +55,5 @@ I want a reliable laptop for daily study.
 
 ## 复习记录
 
+- 2026-07-07：good，Recalled meaning and produced a natural sentence.。下次复习：2026-07-14。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

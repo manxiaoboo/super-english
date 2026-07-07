@@ -29,3 +29,51 @@
 - learned `vocabulary`; next review: 2026-07-07
 - learned `grammar`; next review: 2026-07-07
 - learned `phrases`; next review: 2026-07-07
+
+## 2026-07-07
+
+- reviewed word `fable`: good; next review: 2026-07-14
+
+- reviewed word `advantages`: forgot; next review: 2026-07-08
+
+- reviewed word `endorsement`: hard; next review: 2026-07-10
+
+- reviewed word `placement`: forgot; next review: 2026-07-08
+
+- reviewed word `awareness`: forgot; next review: 2026-07-08
+
+- reviewed word `stretching`: hard; next review: 2026-07-10
+
+- reviewed word `loyalty`: good; next review: 2026-07-14
+
+- reviewed word `essential`: good; next review: 2026-07-14
+
+- reviewed word `expression`: hard; next review: 2026-07-10
+
+- reviewed word `loyal`: hard; next review: 2026-07-10
+
+- reviewed word `reliable`: good; next review: 2026-07-14
+
+- reviewed word `inexpensive`: forgot; next review: 2026-07-08
+
+- reviewed word `durable`: good; next review: 2026-07-14
+
+- reviewed word `well-made`: good; next review: 2026-07-14
+
+- reviewed word `timeless`: hard; next review: 2026-07-10
+
+- reviewed word `luxurious`: hard; next review: 2026-07-10
+
+- reviewed word `phrases`: hard; next review: 2026-07-10
+
+- reviewed word `grammar`: forgot; next review: 2026-07-08
+
+- reviewed word `vocabulary`: hard; next review: 2026-07-10
+
+- reviewed sentence `2026-07-06-001`: hard; next review: 2026-07-10
+
+- reviewed grammar `because of + noun / because + clause`: hard; next review: 2026-07-10
+
+- reviewed phrase `value for money`: hard; next review: 2026-07-10
+
+- reviewed word `fable`: good; next review: 2026-07-14

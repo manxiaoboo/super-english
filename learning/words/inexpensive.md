@@ -54,4 +54,5 @@ I want an inexpensive bag that is still durable.
 
 ## 复习记录
 
+- 2026-07-07：forgot，Did not recall the target word and answered with a different phrase.。下次复习：2026-07-08。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

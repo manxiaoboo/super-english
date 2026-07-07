@@ -54,4 +54,5 @@ I want a durable backpack that I can use for many years.
 
 ## 复习记录
 
+- 2026-07-07：good，Recalled meaning and produced a natural sentence after self-correction.。下次复习：2026-07-14。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

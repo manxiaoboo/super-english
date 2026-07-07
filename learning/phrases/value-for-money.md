@@ -26,4 +26,5 @@ This online course is good value for money.
 
 ## 复习记录
 
+- 2026-07-07：hard，Recalled meaning, but sentence had spelling and collocation problems.。下次复习：2026-07-10。
 - 2026-07-06：首次学习。下次复习：2026-07-07。
