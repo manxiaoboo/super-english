@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "phrase-review",
+  "sourceId": "raise awareness",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "We should raise awareness of effects bring to AI",
+  "correctedText": "We should raise awareness of the effects that AI is bringing to our lives.",
+  "generalAdvice": "你已经能取回 raise awareness of... 这个骨架。下一步重点是把后面的名词短语补完整，说清楚‘谁带来什么影响’。",
+  "issues": [
+    {
+      "category": "article-usage",
+      "note": "effects 前通常需要限定词，这里更自然的是 the effects。",
+      "suggestion": "抽象复数名词前先检查是否需要 the，比如 the effects, the changes, the risks。"
+    },
+    {
+      "category": "word-order",
+      "note": "effects bring to AI 结构不对，没有清楚表达是谁带来影响。",
+      "suggestion": "先稳住完整块：the effects that AI is bringing to our lives。"
+    },
+    {
+      "category": "meaning-shift",
+      "note": "原句想表达的是 AI 带来的影响，不是‘带给 AI 的影响’。",
+      "suggestion": "注意方向：AI brings changes to our lives，不是 changes bring to AI。"
+    }
+  ]
+}

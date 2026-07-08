@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "put a new learning approach in place",
+  "intention": "把一个新的学习方法落实到位",
+  "naturalChunk": "put a new learning approach in place",
+  "avoidSaying": ["put an new learning approch in place"],
+  "sentencePatterns": [
+    "I need to put ... in place ...",
+    "We should put ... in place before ..."
+  ],
+  "realLifeExamples": [
+    "I need to put a new learning approach in place right now.",
+    "We should put a new review system in place before the semester starts."
+  ],
+  "usageNotes": "put ... in place 强调把某个系统、计划或方法建立并落实好，让它能正常运转。need to put 是固定骨架，不能省略 to。",
+  "productionPrompts": [
+    "用 I need to put ... in place 造一句和学习计划、工作流程或系统有关的英文句子。"
+  ],
+  "reviewInDays": 1
+}

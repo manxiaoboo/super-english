@@ -78,4 +78,5 @@ Once the new review system kicks in, the team should work more efficiently.
 
 ## 复习记录
 
+- 2026-07-08：easy，Recalled phrase and meaning instantly; sentence natural and creative.。下次复习：2026-07-22。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

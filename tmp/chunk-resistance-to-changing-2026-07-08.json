@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "resistance to changing our workflow",
+  "intention": "对改变工作流程的抗拒",
+  "naturalChunk": "resistance to changing our workflow",
+  "avoidSaying": ["resistance to change our workflow"],
+  "sentencePatterns": [
+    "There is strong resistance to ...",
+    "We met with resistance to ..."
+  ],
+  "realLifeExamples": [
+    "There is strong resistance to changing our workflow.",
+    "We met with resistance to changing the old system."
+  ],
+  "usageNotes": "resistance to 后面接动名词（-ing），不接动词原形。这是介词 to 的规则，同样适用于 committed to, opposed to, accustomed to。",
+  "productionPrompts": [
+    "用 There is strong resistance to ... 造一句和团队、政策或系统改变有关的英文句子，注意 to 后面用 -ing。"
+  ],
+  "reviewInDays": 1
+}

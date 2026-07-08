@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "translation-play",
+  "sourceId": "panzura-server-access",
+  "context": "translation-play",
+  "result": "needs-improvement",
+  "sourceText": "你可以查找你能访问的Panzura server",
+  "userText": "you can look up the Panzura server which you can visit.",
+  "correctedText": "You can find the Panzura server that you have access to.",
+  "generalAdvice": "你这次的核心问题不是语法大错，而是技术语境里的动词选择。说服务器、系统、资源时，要优先想到 access / have access to，而不是 visit。",
+  "issues": [
+    {
+      "category": "word-choice",
+      "note": "visit 不适合用来表示‘访问服务器权限’，这里更自然的是 access。",
+      "suggestion": "遇到 server, system, file, platform 这类对象时，优先想 access / have access to。"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "look up 更像查资料、查信息，不太适合这里‘查找某台服务器’的动作。",
+      "suggestion": "这里优先用 find 或 look for。"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "which you can visit 语法上能懂，但技术语境里不自然。",
+      "suggestion": "优先用 that you have access to 或 you can access。"
+    }
+  ]
+}

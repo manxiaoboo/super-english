@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "equipment for programming",
+  "intention": "用于编程的设备",
+  "naturalChunk": "equipment for programming",
+  "avoidSaying": ["a computer equipment for programming"],
+  "sentencePatterns": [
+    "... has ... equipment for programming.",
+    "I need better equipment for ..."
+  ],
+  "realLifeExamples": [
+    "The developer has professional computer equipment for programming.",
+    "I need better equipment for video editing."
+  ],
+  "usageNotes": "equipment 常作不可数名词使用，不和 a/an 连用。",
+  "productionPrompts": [
+    "用 ... has ... equipment for ... 造一句和工作或学习有关的句子。"
+  ],
+  "reviewInDays": 1
+}

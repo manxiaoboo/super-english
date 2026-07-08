@@ -60,4 +60,5 @@ I do not need a top-of-the-range laptop for vocabulary study.
 
 ## 复习记录
 
+- 2026-07-08：good，Recalled the phrase, meaning, and produced a natural sentence.。下次复习：2026-07-15。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

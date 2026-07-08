@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "an inexpensive way to",
+  "intention": "一种便宜的做某事的方法",
+  "naturalChunk": "an inexpensive way to",
+  "avoidSaying": ["a cheap method to"],
+  "sentencePatterns": [
+    "This is an inexpensive way to ...",
+    "... is an inexpensive way to ..."
+  ],
+  "realLifeExamples": [
+    "This is an inexpensive way to have lunch.",
+    "Cooking at home is an inexpensive way to eat well."
+  ],
+  "usageNotes": "比 cheap 更稳，更适合中性描述价格不高。",
+  "productionPrompts": [
+    "用 This is an inexpensive way to ... 造一句和生活或学习有关的句子。"
+  ],
+  "reviewInDays": 1
+}

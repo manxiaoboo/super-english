@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "advantages",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "One of the advantages of learn English is that can raise my brain ability.",
+  "correctedText": "One of the advantages of learning English is that it can improve my thinking ability.",
+  "generalAdvice": "你已经抓住了 one of the advantages of ... is ... 这个骨架。下一步重点是介词后接动名词，以及更自然的能力表达。",
+  "issues": [
+    {
+      "category": "sentence-pattern",
+      "note": "of 后面这里不能直接接动词原形 learn，要改成 learning。",
+      "suggestion": "记住介词后常接名词或动名词：of learning English, by reading more, for improving writing。"
+    },
+    {
+      "category": "incomplete-sentence",
+      "note": "is that can raise... 缺少形式主语 it，更完整的是 is that it can ...。",
+      "suggestion": "用 is that it can ... 这个小骨架来稳住后半句。"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "raise my brain ability 不自然。这里更自然的是 improve my thinking ability 或 improve my English ability。",
+      "suggestion": "表达能力提升时，优先用 improve my ... ability / skills。"
+    }
+  ]
+}

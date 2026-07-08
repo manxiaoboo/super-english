@@ -544,6 +544,639 @@ I like Casio watches because they always give me good value for money.
 
 ## 2026-07-08
 
+### phrase-review: raise awareness
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：forgot
+
+#### 用户原句
+
+I did so many exercises to raise awareness of English.
+
+#### 建议表达
+
+I did many exercises to improve my English.
+
+#### 诊断问题
+
+- word-choice：raise awareness of English 不自然。raise awareness of 的对象通常是社会问题，如 climate change, mental health。
+  建议：想表达提高英语水平，优先用 improve my English 或 build my awareness of natural English patterns。
+
+#### 总体建议
+
+raise awareness of 通常用于公开唤起社会对某个议题的关注，不用来表达个人提升英语水平。
+
+### word-review: conducting
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+My teacher is conducting survey to realize his students.
+
+#### 建议表达
+
+My teacher is conducting a survey to understand his students better.
+
+#### 诊断问题
+
+- article-usage：conducting survey 缺少不定冠词：conducting a survey。
+  建议：可数名词单数前检查是否需要 a / an：a survey, a plan, an experiment。
+- word-choice：realize 是'意识到、突然明白'，不是'了解'。了解学生应该用 understand his students 或 get to know his students。
+  建议：realize = suddenly understand or become aware of something. 想表达'了解某人'时，优先用 understand 或 get to know。
+
+#### 总体建议
+
+这次记住了 conducting，是进步。两个问题：survey 前缺冠词，realize 在英文里是'意识到/突然明白'，不是'了解'。
+
+### phrase-review: put in place
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：good
+
+#### 用户原句
+
+I need put an new learning approch in place right now.
+
+#### 建议表达
+
+I need to put a new learning approach in place right now.
+
+#### 诊断问题
+
+- sentence-pattern：need 后面要接不定式 to + 动词，不能直接跟动词原形：I need to put，不是 I need put。
+  建议：把 need to do 当成一个固定骨架整体记住。
+- article-usage：new 以辅音音素开头，所以是 a new，不是 an new。
+  建议：an 用在元音音素开头的词前：an hour, an idea, an approach；a 用在辅音音素前：a new, a plan, a system。
+- spelling：approch 拼写错误，应为 approach。
+  建议：approach = ap-proach，注意中间是 -proach。
+
+#### 总体建议
+
+短语和意思都答对了，句子骨架也对。三个小问题：need 后面要加 to，an 要改成 a，approach 拼写要检查。
+
+### word-review: resistance
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：good
+
+#### 用户原句
+
+There is strong resistance to change our workflow.
+
+#### 建议表达
+
+There is strong resistance to changing our workflow.
+
+#### 诊断问题
+
+- sentence-pattern：resistance to change 里的 to 是介词，后面要用动名词：resistance to changing，不是 resistance to change our workflow。
+  建议：介词 to 后面检查是否要用 -ing：resistance to changing, committed to improving, opposed to doing。
+
+#### 总体建议
+
+你答出了单词、意思和骨架，整体很稳。唯一需要注意的是：to 在这里是介词，后面要跟动名词，不能跟动词原形。
+
+### phrase-review: in a way
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：good
+
+#### 用户原句
+
+In a way, AI help me improve my working efficiency.
+
+#### 建议表达
+
+In a way, AI helps me work more efficiently.
+
+#### 诊断问题
+
+- subject-verb-agreement：主语是 AI，后面要用 helps，不是 help。
+  建议：看到单数主语时，快速检查动词是否需要 -s：AI helps, the system works, the tool makes。
+- natural-collocation：improve my working efficiency 能懂，但更自然的是 work more efficiently，或 improve my work efficiency。
+  建议：表达“更高效地工作”时，优先想 work more efficiently。
+
+#### 总体建议
+
+你已经把短语、意思和整体句意都答对了。下一步重点是稳住第三人称单数，并优先用更自然的表达 like work more efficiently。
+
+### word-review: awareness
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+I gradually awareness of the powers of the AI.
+
+#### 建议表达
+
+I am gradually becoming aware of the power of AI.
+
+#### 诊断问题
+
+- word-choice：awareness 是名词，不能直接放在 I gradually 后面充当动词。
+  建议：想表达“逐渐意识到”时，优先用 become aware of ...。
+- sentence-pattern：I gradually awareness of ... 缺少自然的动词骨架。
+  建议：先套用 I am gradually becoming aware of ... 这个句型。
+
+#### 总体建议
+
+你把单词和核心意思取回来了，但句子里把 awareness 当成了动词用。这里更自然的是 become aware of，或 build awareness of。
+
+### word-review: conducting
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：forgot
+
+#### 用户原句
+
+we are conducting a plan that can improve our development effiency.
+
+#### 建议表达
+
+We are conducting a review to improve our development efficiency.
+
+#### 诊断问题
+
+- natural-collocation：conducting a plan 不自然；conduct 更常和 review, survey, research, experiment, interview 搭配。
+  建议：优先记固定块：conduct a review, conduct research, conduct a survey, conduct an experiment。
+- spelling：effiency 拼写错误，应为 efficiency。
+  建议：注意 efficiency 是 effi-cien-cy。可以顺手连成块记：improve efficiency。
+
+#### 总体建议
+
+你对 conducting 的核心感觉还不稳，而且 conducting 后面的搭配需要更自然。先把 conducting a review / conducting research / conducting a survey 这些固定块记住。
+
+### phrase-review: raise awareness
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+we need to raise awareness of changes that AI bringning to our lives.
+
+#### 建议表达
+
+We need to raise awareness of the changes that AI is bringing to our lives.
+
+#### 诊断问题
+
+- article-usage：changes 前更自然的是 the changes，因为这里说的是一类具体变化。
+  建议：说某类正在发生的具体变化时，优先想 the changes, the effects, the problems。
+- verb-tense：bringning 需要改成 is bringing，才能自然表达 AI 正在带来的变化。
+  建议：遇到“正在带来变化”时，先套用 AI is bringing ... to our lives 这个骨架。
+
+#### 总体建议
+
+你已经把 raise awareness of 这个骨架取回来了。下一步重点是把后面的名词短语说完整，并稳住 AI is bringing 这个表达。
+
+### translation-play: panzura-server-access
+
+- 时间：2026-07-08
+- 场景：translation-play
+- 评分：needs-improvement
+
+#### 中文原文
+
+你可以查找你能访问的Panzura server
+
+#### 用户原句
+
+you can look up the Panzura server which you can visit.
+
+#### 建议表达
+
+You can find the Panzura server that you have access to.
+
+#### 诊断问题
+
+- word-choice：visit 不适合用来表示‘访问服务器权限’，这里更自然的是 access。
+  建议：遇到 server, system, file, platform 这类对象时，优先想 access / have access to。
+- natural-collocation：look up 更像查资料、查信息，不太适合这里‘查找某台服务器’的动作。
+  建议：这里优先用 find 或 look for。
+- natural-collocation：which you can visit 语法上能懂，但技术语境里不自然。
+  建议：优先用 that you have access to 或 you can access。
+
+#### 总体建议
+
+你这次的核心问题不是语法大错，而是技术语境里的动词选择。说服务器、系统、资源时，要优先想到 access / have access to，而不是 visit。
+
+### word-review: recognises
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+I recognised you when you say hi to me this morning
+
+#### 建议表达
+
+I recognised you when you said hi to me this morning.
+
+#### 诊断问题
+
+- verb-tense：主句用 recognised 表示过去发生的事，从句里也应说 said，而不是 say。
+  建议：讲今天早上已经发生的事时，整句通常都用过去时。
+
+#### 总体建议
+
+你已经能取回 recognise 的意思，也会用 when 结构造句。下一步重点是过去时间线要前后一致。
+
+### word-review: advantages
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+One of the advantages of have breakfast is it can provide the energy to you to support your working whole day.
+
+#### 建议表达
+
+One of the advantages of having breakfast is that it can give you the energy to work through the whole day.
+
+#### 诊断问题
+
+- sentence-pattern：of 后面这里不能直接接动词原形 have，要改成 having。
+  建议：介词后优先检查是否要用动名词，比如 of having breakfast, by reading more。
+- incomplete-sentence：is it can ... 不自然，这里更完整的是 is that it can ...。
+  建议：把 is that it can ... 当成一个小骨架整体记住。
+- natural-collocation：provide the energy to you to support your working whole day 不自然。
+  建议：更自然地说 give you the energy to work through the whole day 或 give you energy for the day。
+
+#### 总体建议
+
+你已经抓住了 one of the advantages of ... is ... 这个骨架。下一步重点是 of 后面用动名词，以及更自然的能量表达。
+
+### phrase-review: raise awareness
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+We should raise awareness of effects bring to AI
+
+#### 建议表达
+
+We should raise awareness of the effects that AI is bringing to our lives.
+
+#### 诊断问题
+
+- article-usage：effects 前通常需要限定词，这里更自然的是 the effects。
+  建议：抽象复数名词前先检查是否需要 the，比如 the effects, the changes, the risks。
+- word-order：effects bring to AI 结构不对，没有清楚表达是谁带来影响。
+  建议：先稳住完整块：the effects that AI is bringing to our lives。
+- meaning-shift：原句想表达的是 AI 带来的影响，不是‘带给 AI 的影响’。
+  建议：注意方向：AI brings changes to our lives，不是 changes bring to AI。
+
+#### 总体建议
+
+你已经能取回 raise awareness of... 这个骨架。下一步重点是把后面的名词短语补完整，说清楚‘谁带来什么影响’。
+
+### phrase-review: in a way
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+In a way, if your grammar skill is good, and you can say the full sentence easier
+
+#### 建议表达
+
+In a way, if your grammar is solid, you can say full sentences more easily.
+
+#### 诊断问题
+
+- natural-collocation：grammar skill is good 不够自然，这里更自然的是 your grammar is solid 或 your grammar is good。
+  建议：谈英语能力时，优先用 your grammar is solid / good，少用 grammar skill。
+- sentence-pattern：if 从句后面不需要再用 and 直接硬接完整分句。
+  建议：先稳住骨架：If ..., you can ...。
+- natural-collocation：say the full sentence easier 不自然，更自然的是 say full sentences more easily。
+  建议：表达“更容易地说完整句子”时，优先用 say full sentences more easily。
+
+#### 总体建议
+
+你已经抓住了 in a way 的意思，也会把它放在句首。下一步重点是后半句的自然搭配和比较级表达。
+
+### word-review: equipment
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+The developer has a perfessional computer equipment for programming.
+
+#### 建议表达
+
+The developer has professional computer equipment for programming.
+
+#### 诊断问题
+
+- article-usage：equipment 通常是不可数名词，这里不说 a equipment。
+  建议：把 equipment 当成集合名词来记，常说 have equipment, need equipment, buy new equipment。
+- spelling：perfessional 拼写错误，应为 professional。
+  建议：注意 professional 中间是 -fes-，后面是 -sional。
+
+#### 总体建议
+
+你已经能取回 equipment 的核心意思。下一步重点是 equipment 的不可数用法，以及 professional 的拼写。
+
+### phrase-review: raise awareness
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：forgot
+
+#### 用户原句
+
+We should raise awareness of the life changes what bring from AI.
+
+#### 建议表达
+
+We should raise awareness of the changes that AI is bringing to our lives.
+
+#### 诊断问题
+
+- natural-collocation：the life changes 这里不自然，更自然的是 the changes that AI is bringing to our lives 或 AI-driven changes in daily life。
+  建议：描述‘AI 带来的变化’时，优先用 the changes that AI is bringing to our lives 这类完整名词短语。
+- word-order：what bring from AI 结构不对。这里需要一个修饰 changes 的定语从句，如 that AI is bringing ...。
+  建议：先稳住核心骨架：the changes that AI is bringing to ...。
+
+#### 总体建议
+
+你已经抓住了 raise awareness of... 这个大骨架。下一步重点是后面名词短语的自然组织方式。
+
+### word-review: perfume
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+I usually wear perfume when I need to attend party.
+
+#### 建议表达
+
+I usually wear perfume when I need to attend a party.
+
+#### 诊断问题
+
+- article-usage：attend party 这里缺少冠词，通常说 attend a party。
+  建议：可数名词单数前先检查 a/an/the，比如 attend a party, join a class, buy a gift。
+
+#### 总体建议
+
+你已经记住了 perfume 的核心意思，也能用在自然句子里。下一步只要稳住 attend a party 这种可数名词前的冠词。
+
+### phrase-review: consists of
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+A entire equipment is consist of multipe modules.
+
+#### 建议表达
+
+The equipment consists of multiple modules.
+
+#### 诊断问题
+
+- article-usage：entire 前面不能用 a，应该是 an entire ...；但 equipment 通常是不可数名词，这里更自然的是 the equipment。
+  建议：equipment 通常不和 a/an 连用；说整套设备时，常用 the equipment 或 a piece of equipment。
+- sentence-pattern：is consist of 结构不对，应该直接说 consists of。
+  建议：把 consist of 当成固定结构整体记：A consists of B。
+- spelling：multipe 拼写错误，应为 multiple。
+  建议：注意 multiple 里有 -le 结尾。
+
+#### 总体建议
+
+你已经记住了 consist of 的核心意思。下一步重点是 equipment 的用法，以及 consist of 本身的句型。
+
+### word-review: grammar
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：good
+
+#### 用户原句
+
+Studying grammar helps me to improve my pronunciation.
+
+#### 建议表达
+
+Studying grammar helps me improve my pronunciation.
+
+#### 诊断问题
+
+- sentence-pattern：help me to improve 没错，但更常见、更紧凑的是 help me improve。
+  建议：优先熟悉 help + 人 + 动词原形，比如 help me remember, help us write, help students learn。
+
+#### 总体建议
+
+这句整体自然，骨架也对。下一步只要更熟悉 help + object + base verb 这个结构。
+
+### word-review: recognises
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+I recognised you when you say hello to me this morning
+
+#### 建议表达
+
+I recognised you when you said hello to me this morning.
+
+#### 诊断问题
+
+- verb-tense：主句用 recognised 表示过去发生的事，从句里也应说 said，而不是 say。
+  建议：讲今天早上已经发生的事时，整句通常都用过去时。
+
+#### 总体建议
+
+你已经抓住了 recognise 的核心意思。下一步重点是时间一致：主句过去时后，从句也要跟过去时间线。
+
+### phrase-review: care more about
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+I care more about the value than name.
+
+#### 建议表达
+
+I care more about value for money than brand names.
+
+#### 诊断问题
+
+- word-choice：the value 单独这样说不够具体，这里更自然的是 value for money。
+  建议：谈消费选择时，优先用 value for money 表达“性价比”。
+- noun-number：than name 不自然，这里通常说 brand names 或 famous brands。
+  建议：比较“名牌”时，优先用 brand names / famous brands。
+
+#### 总体建议
+
+你已经记住了 care more about ... than ... 这个核心结构。下一步重点是把后面的名词搭配说得更自然。
+
+### word-review: advantages
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+One of the advantages of learn English is that can raise my brain ability.
+
+#### 建议表达
+
+One of the advantages of learning English is that it can improve my thinking ability.
+
+#### 诊断问题
+
+- sentence-pattern：of 后面这里不能直接接动词原形 learn，要改成 learning。
+  建议：记住介词后常接名词或动名词：of learning English, by reading more, for improving writing。
+- incomplete-sentence：is that can raise... 缺少形式主语 it，更完整的是 is that it can ...。
+  建议：用 is that it can ... 这个小骨架来稳住后半句。
+- natural-collocation：raise my brain ability 不自然。这里更自然的是 improve my thinking ability 或 improve my English ability。
+  建议：表达能力提升时，优先用 improve my ... ability / skills。
+
+#### 总体建议
+
+你已经抓住了 one of the advantages of ... is ... 这个骨架。下一步重点是介词后接动名词，以及更自然的能力表达。
+
+### word-review: placement
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+The placement of picture on the wall makes room looks good.
+
+#### 建议表达
+
+The placement of the picture on the wall makes the room look better.
+
+#### 诊断问题
+
+- article-usage：picture 和 room 这里都需要冠词，应该说 the picture 和 the room。
+  建议：可数名词单数前先检查是否需要 a/an/the。
+- sentence-pattern：makes room looks good 结构不对。这里要用 make + object + base verb，所以应为 makes the room look better。
+  建议：重点熟悉 make the room look..., make it easier..., make the sentence clearer 这类结构。
+- natural-collocation：look good 可以表达意思，但在家具摆放语境里 look better 或 look bigger 更贴切。
+  建议：描述布局效果时，优先用 make the room look bigger/better/brighter。
+
+#### 总体建议
+
+你已经抓住了 the placement of... makes... 这个核心框架。下一步重点是名词前的冠词，以及 make + object + base verb 这个句型。
+
+### word-review: advertising
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：good
+
+#### 用户原句
+
+Good adverising can help the company to sell its products
+
+#### 建议表达
+
+Good advertising can help the company sell its products.
+
+#### 诊断问题
+
+- spelling：adverising 拼写错误，应为 advertising。
+  建议：把 advertising 和 advertise 放在一起记，注意中间是 -tis-。
+- sentence-pattern：help the company to sell 没错，但在日常表达里更常见的是 help the company sell。
+  建议：优先熟悉 help + 人/事物 + 动词原形，比如 help customers save time。
+
+#### 总体建议
+
+这句整体已经自然。下一步主要是稳住 advertising 的拼写，并熟悉 help + object + base verb 这个结构。
+
+### word-review: inexpensive
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：good
+
+#### 用户原句
+
+This is an inexpensive way to have a lunch
+
+#### 建议表达
+
+This is an inexpensive way to have lunch.
+
+#### 诊断问题
+
+- article-usage：在固定三餐表达里，通常说 have lunch，不说 have a lunch。
+  建议：把 have breakfast, have lunch, have dinner 当成固定块整体记。
+
+#### 总体建议
+
+这句整体已经自然了。下一步只要稳住固定搭配 have lunch 就行。
+
+### word-review: awareness
+
+- 时间：2026-07-08
+- 场景：active-recall-sentence
+- 评分：hard
+
+#### 用户原句
+
+Build awareness of procution information helps me to grow up the development skill.
+
+#### 建议表达
+
+Building awareness of production problems helps me improve my writing skills.
+
+#### 诊断问题
+
+- spelling：procuction 拼写错误，应为 production。
+  建议：把 production 和 produce 放在一起记，重点检查 -duction 这一段。
+- natural-collocation：awareness 后面接 production information 不自然，这里更像是在说写作或表达中的问题。
+  建议：优先用 awareness of problems, awareness of mistakes, awareness of learning habits 这类高频搭配。
+- word-choice：grow up the development skill 不是自然表达。这里更自然的是 improve my writing skills 或 develop stronger production skills。
+  建议：表达能力提升时，优先用 improve my ... skills 或 develop ... skills。
+
+#### 总体建议
+
+你已经抓住了 awareness of... 这个核心框架。下一步要重点稳住拼写、名词搭配和更自然的动词表达。
+
 ### translation-play: access-review-system-efficiency
 
 - 时间：2026-07-08

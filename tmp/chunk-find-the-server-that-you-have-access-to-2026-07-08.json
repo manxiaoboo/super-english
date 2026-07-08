@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "find the server that you have access to",
+  "intention": "查找你有权限访问的服务器",
+  "naturalChunk": "find the server that you have access to",
+  "avoidSaying": ["look up the server which you can visit"],
+  "sentencePatterns": [
+    "You can find the ... server that you have access to.",
+    "First, find the server that you have access to."
+  ],
+  "realLifeExamples": [
+    "You can find the Panzura server that you have access to.",
+    "First, find the server that you have access to and then check the logs."
+  ],
+  "usageNotes": "查找某台可访问的服务器时，find ... that you have access to 比 look up ... which you can visit 更自然。",
+  "productionPrompts": [
+    "用 find the server that you have access to 造一句和系统操作有关的句子。"
+  ],
+  "reviewInDays": 1
+}

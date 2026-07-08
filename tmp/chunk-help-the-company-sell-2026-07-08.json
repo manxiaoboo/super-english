@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "help the company sell",
+  "intention": "帮助公司卖出产品或推动销售",
+  "naturalChunk": "help the company sell",
+  "avoidSaying": ["help the company to sell"],
+  "sentencePatterns": [
+    "Good ... can help the company sell ...",
+    "... helps the company sell ..."
+  ],
+  "realLifeExamples": [
+    "Good advertising can help the company sell its products.",
+    "Better packaging helps the company sell more units online."
+  ],
+  "usageNotes": "这里常用 help + object + base verb，语气更紧凑自然。",
+  "productionPrompts": [
+    "用 Good ... can help the company sell ... 造一句和产品或品牌有关的句子。"
+  ],
+  "reviewInDays": 1
+}

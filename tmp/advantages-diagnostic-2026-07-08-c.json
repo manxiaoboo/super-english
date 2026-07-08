@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "advantages",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "One of the advantages of have breakfast is it can provide the energy to you to support your working whole day.",
+  "correctedText": "One of the advantages of having breakfast is that it can give you the energy to work through the whole day.",
+  "generalAdvice": "你已经抓住了 one of the advantages of ... is ... 这个骨架。下一步重点是 of 后面用动名词，以及更自然的能量表达。",
+  "issues": [
+    {
+      "category": "sentence-pattern",
+      "note": "of 后面这里不能直接接动词原形 have，要改成 having。",
+      "suggestion": "介词后优先检查是否要用动名词，比如 of having breakfast, by reading more。"
+    },
+    {
+      "category": "incomplete-sentence",
+      "note": "is it can ... 不自然，这里更完整的是 is that it can ...。",
+      "suggestion": "把 is that it can ... 当成一个小骨架整体记住。"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "provide the energy to you to support your working whole day 不自然。",
+      "suggestion": "更自然地说 give you the energy to work through the whole day 或 give you energy for the day。"
+    }
+  ]
+}

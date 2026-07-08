@@ -54,5 +54,7 @@ I want an inexpensive bag that is still durable.
 
 ## 复习记录
 
+- 2026-07-08：good，Recalled the word, meaning, and produced a natural sentence during extra review.。下次复习：2026-07-15。
+- 2026-07-08：good，Recalled the word and meaning; only minor fixed-expression issue in the sentence.。下次复习：2026-07-15。
 - 2026-07-07：forgot，Did not recall the target word and answered with a different phrase.。下次复习：2026-07-08。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

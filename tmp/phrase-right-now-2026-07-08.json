@@ -1,0 +1,14 @@
+{
+  "type": "phrase",
+  "id": "right now",
+  "meaning": "immediately; at this moment",
+  "usageContext": "- 中文：现在；立刻；马上\n- 核心强调：强调时间，就是现在这个时刻\n- 常带一点催促感、紧迫感，尤其在口语里\n- 常见用法：I need it right now. / We have to leave right now. / I can't talk right now.",
+  "anchorSentence": "We need to fix this right now.",
+  "reviewQuestions": [
+    "right now 的核心意思是什么？",
+    "它主要强调时间还是位置？",
+    "用 right now 写一句带一点“马上、立刻”感觉的句子。"
+  ],
+  "learnedAt": "2026-07-08",
+  "reviewInDays": 1
+}

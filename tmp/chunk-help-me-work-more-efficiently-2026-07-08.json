@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "help me work more efficiently",
+  "intention": "帮助我更高效地工作",
+  "naturalChunk": "help me work more efficiently",
+  "avoidSaying": ["help me improve my working efficiency"],
+  "sentencePatterns": [
+    "AI helps me ...",
+    "This tool helps me ..."
+  ],
+  "realLifeExamples": [
+    "AI helps me work more efficiently.",
+    "This review system helps me work more efficiently and make fewer mistakes."
+  ],
+  "usageNotes": "表达效率提升时，直接用 work more efficiently 很自然；比 working efficiency 更口语、更常用。",
+  "productionPrompts": [
+    "用 AI helps me ... 造一句和学习或工作效率有关的英文句子。"
+  ],
+  "reviewInDays": 1
+}

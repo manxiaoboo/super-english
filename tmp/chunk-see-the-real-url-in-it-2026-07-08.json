@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "see the real URL in it",
+  "intention": "在文档里看到真实链接",
+  "naturalChunk": "see the real URL in it",
+  "avoidSaying": ["see the thuthy URL right here"],
+  "sentencePatterns": [
+    "You can see the real URL in it.",
+    "You can see the real URL right in the document."
+  ],
+  "realLifeExamples": [
+    "This is the original Markdown document, and you can see the real URL in it.",
+    "Open the source file and you can see the real URL right in the document."
+  ],
+  "usageNotes": "real URL 很自然；truthy 是编程语境词，不用来表示“真实的链接”。",
+  "productionPrompts": [
+    "用 You can see the real URL in it. 造一句和网页、文档或源码有关的英文句子。"
+  ],
+  "reviewInDays": 1
+}

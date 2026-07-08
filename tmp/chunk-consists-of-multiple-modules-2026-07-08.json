@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "consists of multiple modules",
+  "intention": "表达某个系统或设备由多个模块组成",
+  "naturalChunk": "consists of multiple modules",
+  "avoidSaying": ["is consist of multipe modules"],
+  "sentencePatterns": [
+    "The ... consists of multiple modules.",
+    "This system consists of ..."
+  ],
+  "realLifeExamples": [
+    "The equipment consists of multiple modules.",
+    "This training program consists of three stages."
+  ],
+  "usageNotes": "consist of 是固定结构，不要在前面再加 is。",
+  "productionPrompts": [
+    "用 The ... consists of multiple modules. 造一句和系统、课程或团队有关的句子。"
+  ],
+  "reviewInDays": 1
+}

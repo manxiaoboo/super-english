@@ -1,0 +1,14 @@
+{
+  "type": "phrase",
+  "id": "have access to",
+  "meaning": "to be able or allowed to use, reach, or open a system, file, server, or resource",
+  "usageContext": "- 中文：有权限访问；可以使用；能够进入\n- 常见对象：server, system, file, folder, platform, database\n- 技术语境里很高频\n- 比 can visit 更自然，因为重点是权限和可访问性，不是去‘拜访’某个地方",
+  "anchorSentence": "Only some users have access to that server.",
+  "reviewQuestions": [
+    "have access to 的核心意思是什么？",
+    "它通常和哪些对象搭配？",
+    "用 have access to 写一句和服务器、系统或文件有关的句子。"
+  ],
+  "learnedAt": "2026-07-08",
+  "reviewInDays": 1
+}

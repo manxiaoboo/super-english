@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "make the room look better",
+  "intention": "让房间看起来更好或更舒服",
+  "naturalChunk": "make the room look better",
+  "avoidSaying": ["makes room looks good"],
+  "sentencePatterns": [
+    "The placement of ... makes the room look better.",
+    "... makes the room look bigger."
+  ],
+  "realLifeExamples": [
+    "The placement of the picture on the wall makes the room look better.",
+    "The placement of the chairs makes the room look bigger."
+  ],
+  "usageNotes": "这里常用 make + object + base verb，后面接 look + adjective。",
+  "productionPrompts": [
+    "用 The placement of ... makes the room look ... 造一句和家具或装修有关的句子。"
+  ],
+  "reviewInDays": 1
+}

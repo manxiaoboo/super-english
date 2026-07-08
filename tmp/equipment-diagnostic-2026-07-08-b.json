@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "equipment",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "The developer has a perfessional computer equipment for programming.",
+  "correctedText": "The developer has professional computer equipment for programming.",
+  "generalAdvice": "你已经能取回 equipment 的核心意思。下一步重点是 equipment 的不可数用法，以及 professional 的拼写。",
+  "issues": [
+    {
+      "category": "article-usage",
+      "note": "equipment 通常是不可数名词，这里不说 a equipment。",
+      "suggestion": "把 equipment 当成集合名词来记，常说 have equipment, need equipment, buy new equipment。"
+    },
+    {
+      "category": "spelling",
+      "note": "perfessional 拼写错误，应为 professional。",
+      "suggestion": "注意 professional 中间是 -fes-，后面是 -sional。"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "care more about ... than ...",
+  "intention": "表达更看重 A 而不是 B",
+  "naturalChunk": "care more about ... than ...",
+  "avoidSaying": ["care the value more than name"],
+  "sentencePatterns": [
+    "I care more about ... than ...",
+    "Some customers care more about ... than ..."
+  ],
+  "realLifeExamples": [
+    "I care more about value for money than brand names.",
+    "Some customers care more about quality than fancy packaging."
+  ],
+  "usageNotes": "后面常接名词短语，特别适合表达价值取向。",
+  "productionPrompts": [
+    "用 I care more about ... than ... 造一句和购物或学习有关的句子。"
+  ],
+  "reviewInDays": 1
+}

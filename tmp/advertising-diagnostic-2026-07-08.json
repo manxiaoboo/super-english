@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "advertising",
+  "context": "active-recall-sentence",
+  "result": "good",
+  "userText": "Good adverising can help the company to sell its products",
+  "correctedText": "Good advertising can help the company sell its products.",
+  "generalAdvice": "这句整体已经自然。下一步主要是稳住 advertising 的拼写，并熟悉 help + object + base verb 这个结构。",
+  "issues": [
+    {
+      "category": "spelling",
+      "note": "adverising 拼写错误，应为 advertising。",
+      "suggestion": "把 advertising 和 advertise 放在一起记，注意中间是 -tis-。"
+    },
+    {
+      "category": "sentence-pattern",
+      "note": "help the company to sell 没错，但在日常表达里更常见的是 help the company sell。",
+      "suggestion": "优先熟悉 help + 人/事物 + 动词原形，比如 help customers save time。"
+    }
+  ]
+}

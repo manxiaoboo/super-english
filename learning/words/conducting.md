@@ -50,4 +50,7 @@ conduct 常表示进行、实施，常见于正式语境。conduct research 比 
 
 ## 复习记录
 
+- 2026-07-08：hard，Finally recalled the word; sentence needed article and realize-vs-understand correction.。下次复习：2026-07-11。
+- 2026-07-08：forgot，Could not recall the word; sentence also needed collocation and spelling correction.。下次复习：2026-07-09。
+- 2026-07-08：forgot，Could not recall the word during random review.。下次复习：2026-07-09。
 - 2026-07-07：首次学习。下次复习：2026-07-08。

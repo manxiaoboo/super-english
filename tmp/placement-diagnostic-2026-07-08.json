@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "placement",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "The placement of picture on the wall makes room looks good.",
+  "correctedText": "The placement of the picture on the wall makes the room look better.",
+  "generalAdvice": "你已经抓住了 the placement of... makes... 这个核心框架。下一步重点是名词前的冠词，以及 make + object + base verb 这个句型。",
+  "issues": [
+    {
+      "category": "article-usage",
+      "note": "picture 和 room 这里都需要冠词，应该说 the picture 和 the room。",
+      "suggestion": "可数名词单数前先检查是否需要 a/an/the。"
+    },
+    {
+      "category": "sentence-pattern",
+      "note": "makes room looks good 结构不对。这里要用 make + object + base verb，所以应为 makes the room look better。",
+      "suggestion": "重点熟悉 make the room look..., make it easier..., make the sentence clearer 这类结构。"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "look good 可以表达意思，但在家具摆放语境里 look better 或 look bigger 更贴切。",
+      "suggestion": "描述布局效果时，优先用 make the room look bigger/better/brighter。"
+    }
+  ]
+}

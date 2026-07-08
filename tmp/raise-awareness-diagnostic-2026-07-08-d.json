@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "phrase-review",
+  "sourceId": "raise awareness",
+  "context": "active-recall-sentence",
+  "result": "forgot",
+  "userText": "I did so many exercises to raise awareness of English.",
+  "correctedText": "I did many exercises to improve my English.",
+  "generalAdvice": "raise awareness of 通常用于公开唤起社会对某个议题的关注，不用来表达个人提升英语水平。",
+  "issues": [
+    {
+      "category": "word-choice",
+      "note": "raise awareness of English 不自然。raise awareness of 的对象通常是社会问题，如 climate change, mental health。",
+      "suggestion": "想表达提高英语水平，优先用 improve my English 或 build my awareness of natural English patterns。"
+    }
+  ]
+}

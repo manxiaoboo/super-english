@@ -50,4 +50,6 @@ recognises 是英式拼写 recognise 的第三人称单数；美式常写 recogn
 
 ## 复习记录
 
+- 2026-07-08：hard，Recalled the word and meaning during extra review, but sentence still needed past-tense consistency.。下次复习：2026-07-11。
+- 2026-07-08：hard，Recalled the word with a hint; meaning was correct, but sentence needed past-tense consistency.。下次复习：2026-07-11。
 - 2026-07-07：首次学习。下次复习：2026-07-08。

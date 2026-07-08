@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "phrase-review",
+  "sourceId": "consists of",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "A entire equipment is consist of multipe modules.",
+  "correctedText": "The equipment consists of multiple modules.",
+  "generalAdvice": "你已经记住了 consist of 的核心意思。下一步重点是 equipment 的用法，以及 consist of 本身的句型。",
+  "issues": [
+    {
+      "category": "article-usage",
+      "note": "entire 前面不能用 a，应该是 an entire ...；但 equipment 通常是不可数名词，这里更自然的是 the equipment。",
+      "suggestion": "equipment 通常不和 a/an 连用；说整套设备时，常用 the equipment 或 a piece of equipment。"
+    },
+    {
+      "category": "sentence-pattern",
+      "note": "is consist of 结构不对，应该直接说 consists of。",
+      "suggestion": "把 consist of 当成固定结构整体记：A consists of B。"
+    },
+    {
+      "category": "spelling",
+      "note": "multipe 拼写错误，应为 multiple。",
+      "suggestion": "注意 multiple 里有 -le 结尾。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "chunk",
+  "id": "be involved in the project",
+  "intention": "参与这个项目；和这个项目有关",
+  "naturalChunk": "be involved in the project",
+  "avoidSaying": ["join in the project"],
+  "sentencePatterns": [
+    "How many people are involved in ...?",
+    "I want to be involved in ...",
+    "He was involved in ... from the beginning."
+  ],
+  "realLifeExamples": [
+    "How many people are involved in the project?",
+    "I want to be involved in projects that improve real learning."
+  ],
+  "usageNotes": "be involved in 强调已经参与其中，或和某件事存在实际关联。说 project, process, discussion, decision 时都很常见。",
+  "productionPrompts": [
+    "用 How many people are involved in ...? 造一个和团队或项目有关的问题。",
+    "用 I want to be involved in ... because ... 造一句和你的学习或工作有关的句子。"
+  ],
+  "reviewInDays": 1
+}

@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "build awareness of",
+  "intention": "建立对某个问题的察觉",
+  "naturalChunk": "build awareness of",
+  "avoidSaying": ["know something clearly"],
+  "sentencePatterns": [
+    "Building awareness of ... helps me ...",
+    "Regular ... builds awareness of ..."
+  ],
+  "realLifeExamples": [
+    "Building awareness of production problems helps me improve my writing skills.",
+    "Regular reflection builds awareness of my learning habits."
+  ],
+  "usageNotes": "常接 problems, mistakes, risks, habits 这类需要被察觉的对象。",
+  "productionPrompts": [
+    "用 Building awareness of ... helps me ... 造一句和英语学习有关的句子。"
+  ],
+  "reviewInDays": 1
+}

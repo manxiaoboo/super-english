@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "recognises",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "I recognised you when you say hello to me this morning",
+  "correctedText": "I recognised you when you said hello to me this morning.",
+  "generalAdvice": "你已经抓住了 recognise 的核心意思。下一步重点是时间一致：主句过去时后，从句也要跟过去时间线。",
+  "issues": [
+    {
+      "category": "verb-tense",
+      "note": "主句用 recognised 表示过去发生的事，从句里也应说 said，而不是 say。",
+      "suggestion": "讲今天早上已经发生的事时，整句通常都用过去时。"
+    }
+  ]
+}

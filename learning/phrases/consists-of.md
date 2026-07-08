@@ -33,4 +33,5 @@ The team consists of five students and one teacher.
 
 ## 复习记录
 
+- 2026-07-08：hard，Recalled the phrase and meaning, but sentence needed consist-of structure, article, and spelling correction.。下次复习：2026-07-11。
 - 2026-07-07：首次学习。下次复习：2026-07-08。

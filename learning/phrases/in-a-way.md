@@ -54,4 +54,7 @@ In a way, Super English is like a personal English coach.
 
 ## 复习记录
 
+- 2026-07-08：good，Recalled the phrase and meaning; sentence was clear but needed verb agreement and more natural efficiency wording.。下次复习：2026-07-15。
+- 2026-07-08：hard，Recovered the meaning during extra review, but named the wrong phrase and needed sentence-collocation correction.。下次复习：2026-07-11。
+- 2026-07-08：forgot，Could not recall the phrase during one-by-one review.。下次复习：2026-07-09。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

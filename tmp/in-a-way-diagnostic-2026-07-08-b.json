@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "phrase-review",
+  "sourceId": "in a way",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "In a way, if your grammar skill is good, and you can say the full sentence easier",
+  "correctedText": "In a way, if your grammar is solid, you can say full sentences more easily.",
+  "generalAdvice": "你已经抓住了 in a way 的意思，也会把它放在句首。下一步重点是后半句的自然搭配和比较级表达。",
+  "issues": [
+    {
+      "category": "natural-collocation",
+      "note": "grammar skill is good 不够自然，这里更自然的是 your grammar is solid 或 your grammar is good。",
+      "suggestion": "谈英语能力时，优先用 your grammar is solid / good，少用 grammar skill。"
+    },
+    {
+      "category": "sentence-pattern",
+      "note": "if 从句后面不需要再用 and 直接硬接完整分句。",
+      "suggestion": "先稳住骨架：If ..., you can ...。"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "say the full sentence easier 不自然，更自然的是 say full sentences more easily。",
+      "suggestion": "表达“更容易地说完整句子”时，优先用 say full sentences more easily。"
+    }
+  ]
+}

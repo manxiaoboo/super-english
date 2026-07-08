@@ -70,4 +70,5 @@ Some developers show resistance to new tools because they are used to the old wo
 
 ## 复习记录
 
+- 2026-07-08：good，Recalled word and meaning; sentence correct but used to+infinitive instead of to+gerund.。下次复习：2026-07-15。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

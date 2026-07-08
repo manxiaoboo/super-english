@@ -86,6 +86,103 @@
 
 ## 2026-07-08
 
+- reviewed phrase `raise awareness`: forgot; next review: 2026-07-09
+
+- reviewed phrase `care more about`: good; next review: 2026-07-15
+
+- reviewed word `conducting`: hard; next review: 2026-07-11
+
+- learned chunk `conduct a survey to understand students better`; next review: 2026-07-09
+- reviewed phrase `kick in`: easy; next review: 2026-07-22
+
+- reviewed phrase `put in place`: good; next review: 2026-07-15
+
+- learned chunk `put a new learning approach in place`; next review: 2026-07-09
+- reviewed word `efficiency`: easy; next review: 2026-07-22
+
+- reviewed word `resistance`: good; next review: 2026-07-15
+
+- learned chunk `resistance to changing our workflow`; next review: 2026-07-09
+- reviewed phrase `in a way`: good; next review: 2026-07-15
+
+- learned chunk `help me work more efficiently`; next review: 2026-07-09
+- reviewed word `awareness`: hard; next review: 2026-07-11
+
+- learned chunk `become aware of the power of AI`; next review: 2026-07-09
+- reviewed word `conducting`: forgot; next review: 2026-07-09
+
+- learned chunk `conduct a review to improve development efficiency`; next review: 2026-07-09
+- reviewed phrase `raise awareness`: hard; next review: 2026-07-11
+
+- learned chunk `the changes that AI is bringing to our lives`; next review: 2026-07-09
+- learned chunk `be involved in the project`; next review: 2026-07-09
+- learned phrase `be involved in`; next review: 2026-07-09
+- learned phrase `have access to`; next review: 2026-07-09
+- learned chunk `find the server that you have access to`; next review: 2026-07-09
+- learned chunk `have access to`; next review: 2026-07-09
+- reviewed word `recognises`: hard; next review: 2026-07-11
+
+- reviewed word `advantages`: hard; next review: 2026-07-11
+
+- learned chunk `give you the energy to`; next review: 2026-07-09
+- reviewed word `inexpensive`: good; next review: 2026-07-15
+
+- reviewed phrase `raise awareness`: hard; next review: 2026-07-11
+
+- reviewed phrase `in a way`: hard; next review: 2026-07-11
+
+- learned chunk `say full sentences more easily`; next review: 2026-07-09
+- reviewed word `equipment`: hard; next review: 2026-07-11
+
+- learned chunk `equipment for programming`; next review: 2026-07-09
+- reviewed phrase `top of the range`: good; next review: 2026-07-15
+
+- reviewed grammar `A is the expression of B`: good; next review: 2026-07-15
+
+- reviewed phrase `raise awareness`: forgot; next review: 2026-07-09
+
+- reviewed phrase `in a way`: forgot; next review: 2026-07-09
+
+- reviewed word `perfume`: hard; next review: 2026-07-11
+
+- learned phrase `right here`; next review: 2026-07-09
+- learned phrase `right now`; next review: 2026-07-09
+- learned chunk `see the full URL there`; next review: 2026-07-09
+- learned grammar `two complete clauses need a linker`; next review: 2026-07-09
+- learned phrase `real URL`; next review: 2026-07-09
+- learned chunk `see the real URL in it`; next review: 2026-07-09
+- learned chunk `the original Markdown document`; next review: 2026-07-09
+- reviewed word `equipment`: hard; next review: 2026-07-11
+
+- reviewed phrase `consists of`: hard; next review: 2026-07-11
+
+- reviewed word `grammar`: good; next review: 2026-07-15
+
+- learned chunk `consists of multiple modules`; next review: 2026-07-09
+- learned chunk `studying grammar helps me`; next review: 2026-07-09
+- reviewed word `recognises`: hard; next review: 2026-07-11
+
+- reviewed phrase `care more about`: hard; next review: 2026-07-11
+
+- reviewed word `advantages`: hard; next review: 2026-07-11
+
+- learned chunk `recognised you when`; next review: 2026-07-09
+- learned chunk `care more about ... than ...`; next review: 2026-07-09
+- learned chunk `one of the advantages of ... is`; next review: 2026-07-09
+- reviewed word `placement`: hard; next review: 2026-07-11
+
+- learned chunk `make the room look better`; next review: 2026-07-09
+- reviewed word `advertising`: good; next review: 2026-07-15
+
+- learned chunk `help the company sell`; next review: 2026-07-09
+- reviewed word `inexpensive`: good; next review: 2026-07-15
+
+- reviewed word `conducting`: forgot; next review: 2026-07-09
+
+- reviewed word `awareness`: hard; next review: 2026-07-11
+
+- learned chunk `an inexpensive way to`; next review: 2026-07-09
+- learned chunk `build awareness of`; next review: 2026-07-09
 - learned chunk `highlight several areas for improvement`; next review: 2026-07-09
 - learned chunk `focus on key areas for improvement`; next review: 2026-07-09
 - learned chunk `identify areas for improvement`; next review: 2026-07-09

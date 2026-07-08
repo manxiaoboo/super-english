@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "conduct a review to improve development efficiency",
+  "intention": "做一次评审或检查来提升开发效率",
+  "naturalChunk": "conduct a review to improve development efficiency",
+  "avoidSaying": ["conduct a plan", "improve development effiency"],
+  "sentencePatterns": [
+    "We need to conduct a review to ...",
+    "The team is conducting a review to ..."
+  ],
+  "realLifeExamples": [
+    "We are conducting a review to improve our development efficiency.",
+    "The team is conducting a review to reduce repeated mistakes."
+  ],
+  "usageNotes": "conduct 常接 review, survey, research, experiment 这类正式活动。improve efficiency 是高频搭配。",
+  "productionPrompts": [
+    "用 We need to conduct a review to ... 造一句和工作流程或学习方法有关的英文句子。"
+  ],
+  "reviewInDays": 1
+}

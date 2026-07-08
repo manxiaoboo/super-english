@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "grammar",
+  "context": "active-recall-sentence",
+  "result": "good",
+  "userText": "Studying grammar helps me to improve my pronunciation.",
+  "correctedText": "Studying grammar helps me improve my pronunciation.",
+  "generalAdvice": "这句整体自然，骨架也对。下一步只要更熟悉 help + object + base verb 这个结构。",
+  "issues": [
+    {
+      "category": "sentence-pattern",
+      "note": "help me to improve 没错，但更常见、更紧凑的是 help me improve。",
+      "suggestion": "优先熟悉 help + 人 + 动词原形，比如 help me remember, help us write, help students learn。"
+    }
+  ]
+}

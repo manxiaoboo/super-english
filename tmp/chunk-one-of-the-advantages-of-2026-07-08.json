@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "one of the advantages of ... is",
+  "intention": "表达某件事的一个优点是……",
+  "naturalChunk": "one of the advantages of ... is",
+  "avoidSaying": ["one of the advantages of learn ... is"],
+  "sentencePatterns": [
+    "One of the advantages of ... is that it can ...",
+    "One of the main advantages of ... is ..."
+  ],
+  "realLifeExamples": [
+    "One of the advantages of learning English is that it can improve my thinking ability.",
+    "One of the main advantages of online learning is flexibility."
+  ],
+  "usageNotes": "of 后面通常接名词或动名词，比如 learning, reading, working from home。",
+  "productionPrompts": [
+    "用 One of the advantages of ... is that it can ... 造一句和学习或工作有关的句子。"
+  ],
+  "reviewInDays": 1
+}

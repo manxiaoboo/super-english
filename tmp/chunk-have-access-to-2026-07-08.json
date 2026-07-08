@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "have access to",
+  "intention": "有权限访问某个系统、服务器或资源",
+  "naturalChunk": "have access to",
+  "avoidSaying": ["can visit"],
+  "sentencePatterns": [
+    "You can access ...",
+    "You have access to ..."
+  ],
+  "realLifeExamples": [
+    "You can find the Panzura server that you have access to.",
+    "Only admins have access to this server."
+  ],
+  "usageNotes": "说系统、服务器、平台、文件资源时，通常用 access / have access to，不用 visit。",
+  "productionPrompts": [
+    "用 have access to 造一句和服务器、系统或文件有关的句子。"
+  ],
+  "reviewInDays": 1
+}

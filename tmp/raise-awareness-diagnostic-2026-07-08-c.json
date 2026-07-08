@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "phrase-review",
+  "sourceId": "raise awareness",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "we need to raise awareness of changes that AI bringning to our lives.",
+  "correctedText": "We need to raise awareness of the changes that AI is bringing to our lives.",
+  "generalAdvice": "你已经把 raise awareness of 这个骨架取回来了。下一步重点是把后面的名词短语说完整，并稳住 AI is bringing 这个表达。",
+  "issues": [
+    {
+      "category": "article-usage",
+      "note": "changes 前更自然的是 the changes，因为这里说的是一类具体变化。",
+      "suggestion": "说某类正在发生的具体变化时，优先想 the changes, the effects, the problems。"
+    },
+    {
+      "category": "verb-tense",
+      "note": "bringning 需要改成 is bringing，才能自然表达 AI 正在带来的变化。",
+      "suggestion": "遇到“正在带来变化”时，先套用 AI is bringing ... to our lives 这个骨架。"
+    }
+  ]
+}

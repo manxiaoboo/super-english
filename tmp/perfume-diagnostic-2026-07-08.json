@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "perfume",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "I usually wear perfume when I need to attend party.",
+  "correctedText": "I usually wear perfume when I need to attend a party.",
+  "generalAdvice": "你已经记住了 perfume 的核心意思，也能用在自然句子里。下一步只要稳住 attend a party 这种可数名词前的冠词。",
+  "issues": [
+    {
+      "category": "article-usage",
+      "note": "attend party 这里缺少冠词，通常说 attend a party。",
+      "suggestion": "可数名词单数前先检查 a/an/the，比如 attend a party, join a class, buy a gift。"
+    }
+  ]
+}

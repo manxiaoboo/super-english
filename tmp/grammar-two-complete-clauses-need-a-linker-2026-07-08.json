@@ -1,0 +1,14 @@
+{
+  "type": "grammar",
+  "id": "two complete clauses need a linker",
+  "intention": "说明两个完整句子不能只用逗号硬连，需要 and、but、so、where 等连接方式",
+  "usageContext": "- 两个完整句子不要只用逗号连在一起\n- 可以用 and / but / so 连接\n- 也可以改成从句，比如 where you can see ...\n- 这次翻译里：Here is the original Markdown file, you can see ... 不自然；更自然的是 Here is ..., and you can see ... 或 Here is ..., where you can see ...",
+  "anchorSentence": "Here is the original Markdown document, and you can see the real URL in it.",
+  "reviewQuestions": [
+    "为什么 Here is ..., you can see ... 不自然？",
+    "把两个完整句子连起来时，可以用哪些方式？",
+    "把 Here is the source file, you can see the full link there. 改成更自然的英文。"
+  ],
+  "learnedAt": "2026-07-08",
+  "reviewInDays": 1
+}

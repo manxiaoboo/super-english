@@ -26,4 +26,5 @@ A brand is the expression of essential characteristics and values of a product o
 
 ## 复习记录
 
+- 2026-07-08：good，Explained the structure accurately and translated the example naturally.。下次复习：2026-07-15。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "phrase-review",
+  "sourceId": "in a way",
+  "context": "active-recall-sentence",
+  "result": "good",
+  "userText": "In a way, AI help me improve my working efficiency.",
+  "correctedText": "In a way, AI helps me work more efficiently.",
+  "generalAdvice": "你已经把短语、意思和整体句意都答对了。下一步重点是稳住第三人称单数，并优先用更自然的表达 like work more efficiently。",
+  "issues": [
+    {
+      "category": "subject-verb-agreement",
+      "note": "主语是 AI，后面要用 helps，不是 help。",
+      "suggestion": "看到单数主语时，快速检查动词是否需要 -s：AI helps, the system works, the tool makes。"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "improve my working efficiency 能懂，但更自然的是 work more efficiently，或 improve my work efficiency。",
+      "suggestion": "表达“更高效地工作”时，优先想 work more efficiently。"
+    }
+  ]
+}

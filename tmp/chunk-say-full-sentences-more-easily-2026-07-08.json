@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "say full sentences more easily",
+  "intention": "更轻松地说出完整句子",
+  "naturalChunk": "say full sentences more easily",
+  "avoidSaying": ["say the full sentence easier"],
+  "sentencePatterns": [
+    "If ..., you can say full sentences more easily.",
+    "This practice helps me say full sentences more easily."
+  ],
+  "realLifeExamples": [
+    "In a way, if your grammar is solid, you can say full sentences more easily.",
+    "Shadowing helps me say full sentences more easily."
+  ],
+  "usageNotes": "这里通常用 full sentences 复数，副词用 more easily。",
+  "productionPrompts": [
+    "用 This practice helps me say full sentences more easily. 造一句和英语学习有关的句子。"
+  ],
+  "reviewInDays": 1
+}

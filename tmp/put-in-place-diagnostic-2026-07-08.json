@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "phrase-review",
+  "sourceId": "put in place",
+  "context": "active-recall-sentence",
+  "result": "good",
+  "userText": "I need put an new learning approch in place right now.",
+  "correctedText": "I need to put a new learning approach in place right now.",
+  "generalAdvice": "短语和意思都答对了，句子骨架也对。三个小问题：need 后面要加 to，an 要改成 a，approach 拼写要检查。",
+  "issues": [
+    {
+      "category": "sentence-pattern",
+      "note": "need 后面要接不定式 to + 动词，不能直接跟动词原形：I need to put，不是 I need put。",
+      "suggestion": "把 need to do 当成一个固定骨架整体记住。"
+    },
+    {
+      "category": "article-usage",
+      "note": "new 以辅音音素开头，所以是 a new，不是 an new。",
+      "suggestion": "an 用在元音音素开头的词前：an hour, an idea, an approach；a 用在辅音音素前：a new, a plan, a system。"
+    },
+    {
+      "category": "spelling",
+      "note": "approch 拼写错误，应为 approach。",
+      "suggestion": "approach = ap-proach，注意中间是 -proach。"
+    }
+  ]
+}

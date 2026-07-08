@@ -54,5 +54,7 @@ Keeping a study log improves my awareness of repeated mistakes.
 
 ## 复习记录
 
+- 2026-07-08：hard，Recalled the word and meaning, but sentence needed noun-vs-verb and pattern correction.。下次复习：2026-07-11。
+- 2026-07-08：hard，Recalled the word and meaning, but sentence production needed collocation and wording correction.。下次复习：2026-07-11。
 - 2026-07-07：forgot，Could not recall the word from the image.。下次复习：2026-07-08。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

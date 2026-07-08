@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "phrase-review",
+  "sourceId": "raise awareness",
+  "context": "active-recall-sentence",
+  "result": "forgot",
+  "userText": "We should raise awareness of the life changes what bring from AI.",
+  "correctedText": "We should raise awareness of the changes that AI is bringing to our lives.",
+  "generalAdvice": "你已经抓住了 raise awareness of... 这个大骨架。下一步重点是后面名词短语的自然组织方式。",
+  "issues": [
+    {
+      "category": "natural-collocation",
+      "note": "the life changes 这里不自然，更自然的是 the changes that AI is bringing to our lives 或 AI-driven changes in daily life。",
+      "suggestion": "描述‘AI 带来的变化’时，优先用 the changes that AI is bringing to our lives 这类完整名词短语。"
+    },
+    {
+      "category": "word-order",
+      "note": "what bring from AI 结构不对。这里需要一个修饰 changes 的定语从句，如 that AI is bringing ...。",
+      "suggestion": "先稳住核心骨架：the changes that AI is bringing to ...。"
+    }
+  ]
+}

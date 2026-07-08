@@ -1,0 +1,21 @@
+{
+  "type": "chunk",
+  "id": "the changes that AI is bringing to our lives",
+  "intention": "AI 正在给我们的生活带来的变化",
+  "naturalChunk": "the changes that AI is bringing to our lives",
+  "avoidSaying": ["changes that AI bringning to our lives"],
+  "sentencePatterns": [
+    "We need to understand ...",
+    "People are talking about ...",
+    "... are affecting the way we ..."
+  ],
+  "realLifeExamples": [
+    "We need to raise awareness of the changes that AI is bringing to our lives.",
+    "People are talking more about the changes that AI is bringing to our lives."
+  ],
+  "usageNotes": "适合表达 AI 对日常生活、工作或学习正在造成的具体变化。可以放在 understand, discuss, raise awareness of 这类结构后面。",
+  "productionPrompts": [
+    "用 We need to understand ... 造一句和 AI 影响生活或学习有关的英文句子。"
+  ],
+  "reviewInDays": 1
+}

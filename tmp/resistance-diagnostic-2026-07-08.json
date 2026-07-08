@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "resistance",
+  "context": "active-recall-sentence",
+  "result": "good",
+  "userText": "There is strong resistance to change our workflow.",
+  "correctedText": "There is strong resistance to changing our workflow.",
+  "generalAdvice": "你答出了单词、意思和骨架，整体很稳。唯一需要注意的是：to 在这里是介词，后面要跟动名词，不能跟动词原形。",
+  "issues": [
+    {
+      "category": "sentence-pattern",
+      "note": "resistance to change 里的 to 是介词，后面要用动名词：resistance to changing，不是 resistance to change our workflow。",
+      "suggestion": "介词 to 后面检查是否要用 -ing：resistance to changing, committed to improving, opposed to doing。"
+    }
+  ]
+}

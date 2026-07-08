@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "studying grammar helps me",
+  "intention": "表达学语法对我有什么帮助",
+  "naturalChunk": "studying grammar helps me",
+  "avoidSaying": ["study grammar helps me to"],
+  "sentencePatterns": [
+    "Studying grammar helps me ...",
+    "Good grammar helps us ..."
+  ],
+  "realLifeExamples": [
+    "Studying grammar helps me improve my pronunciation.",
+    "Good grammar helps us write clearer sentences."
+  ],
+  "usageNotes": "后面常接动词原形，构成 help + object + base verb。",
+  "productionPrompts": [
+    "用 Studying grammar helps me ... 造一句和英语学习有关的句子。"
+  ],
+  "reviewInDays": 1
+}

@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "conducting",
+  "context": "active-recall-sentence",
+  "result": "forgot",
+  "userText": "we are conducting a plan that can improve our development effiency.",
+  "correctedText": "We are conducting a review to improve our development efficiency.",
+  "generalAdvice": "你对 conducting 的核心感觉还不稳，而且 conducting 后面的搭配需要更自然。先把 conducting a review / conducting research / conducting a survey 这些固定块记住。",
+  "issues": [
+    {
+      "category": "natural-collocation",
+      "note": "conducting a plan 不自然；conduct 更常和 review, survey, research, experiment, interview 搭配。",
+      "suggestion": "优先记固定块：conduct a review, conduct research, conduct a survey, conduct an experiment。"
+    },
+    {
+      "category": "spelling",
+      "note": "effiency 拼写错误，应为 efficiency。",
+      "suggestion": "注意 efficiency 是 effi-cien-cy。可以顺手连成块记：improve efficiency。"
+    }
+  ]
+}

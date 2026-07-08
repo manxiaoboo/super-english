@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "become aware of the power of AI",
+  "intention": "逐渐意识到 AI 的力量或影响",
+  "naturalChunk": "become aware of the power of AI",
+  "avoidSaying": ["awareness of the powers of the AI"],
+  "sentencePatterns": [
+    "I am gradually becoming aware of ...",
+    "People are becoming more aware of ..."
+  ],
+  "realLifeExamples": [
+    "I am gradually becoming aware of the power of AI.",
+    "More people are becoming aware of the power of AI in education."
+  ],
+  "usageNotes": "当你想表达“慢慢意识到”时，用 become aware of 很自然。awareness 更常作名词，放在 build awareness of, raise awareness of 这类结构里。",
+  "productionPrompts": [
+    "用 I am gradually becoming aware of ... 造一句和学习、工作或 AI 有关的英文句子。"
+  ],
+  "reviewInDays": 1
+}

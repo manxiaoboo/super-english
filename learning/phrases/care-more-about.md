@@ -29,4 +29,6 @@ Some buyers care more about individuality than famous brands.
 
 ## 复习记录
 
+- 2026-07-08：good，Recalled phrase and meaning; sentence natural, only minor capitalization error on brand.。下次复习：2026-07-15。
+- 2026-07-08：hard，Recalled the phrase with a hint; meaning was correct, but sentence needed more natural noun choices.。下次复习：2026-07-11。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

@@ -77,4 +77,5 @@ We need to put a better review system in place to improve learning efficiency.
 
 ## 复习记录
 
+- 2026-07-08：good，Recalled phrase and meaning; sentence needed to-infinitive, article, and spelling fix.。下次复习：2026-07-15。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "phrase-review",
+  "sourceId": "care more about",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "I care more about the value than name.",
+  "correctedText": "I care more about value for money than brand names.",
+  "generalAdvice": "你已经记住了 care more about ... than ... 这个核心结构。下一步重点是把后面的名词搭配说得更自然。",
+  "issues": [
+    {
+      "category": "word-choice",
+      "note": "the value 单独这样说不够具体，这里更自然的是 value for money。",
+      "suggestion": "谈消费选择时，优先用 value for money 表达“性价比”。"
+    },
+    {
+      "category": "noun-number",
+      "note": "than name 不自然，这里通常说 brand names 或 famous brands。",
+      "suggestion": "比较“名牌”时，优先用 brand names / famous brands。"
+    }
+  ]
+}

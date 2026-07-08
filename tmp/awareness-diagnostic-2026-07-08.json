@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "awareness",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "Build awareness of procution information helps me to grow up the development skill.",
+  "correctedText": "Building awareness of production problems helps me improve my writing skills.",
+  "generalAdvice": "你已经抓住了 awareness of... 这个核心框架。下一步要重点稳住拼写、名词搭配和更自然的动词表达。",
+  "issues": [
+    {
+      "category": "spelling",
+      "note": "procuction 拼写错误，应为 production。",
+      "suggestion": "把 production 和 produce 放在一起记，重点检查 -duction 这一段。"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "awareness 后面接 production information 不自然，这里更像是在说写作或表达中的问题。",
+      "suggestion": "优先用 awareness of problems, awareness of mistakes, awareness of learning habits 这类高频搭配。"
+    },
+    {
+      "category": "word-choice",
+      "note": "grow up the development skill 不是自然表达。这里更自然的是 improve my writing skills 或 develop stronger production skills。",
+      "suggestion": "表达能力提升时，优先用 improve my ... skills 或 develop ... skills。"
+    }
+  ]
+}

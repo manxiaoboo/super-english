@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "awareness",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "I gradually awareness of the powers of the AI.",
+  "correctedText": "I am gradually becoming aware of the power of AI.",
+  "generalAdvice": "你把单词和核心意思取回来了，但句子里把 awareness 当成了动词用。这里更自然的是 become aware of，或 build awareness of。",
+  "issues": [
+    {
+      "category": "word-choice",
+      "note": "awareness 是名词，不能直接放在 I gradually 后面充当动词。",
+      "suggestion": "想表达“逐渐意识到”时，优先用 become aware of ...。"
+    },
+    {
+      "category": "sentence-pattern",
+      "note": "I gradually awareness of ... 缺少自然的动词骨架。",
+      "suggestion": "先套用 I am gradually becoming aware of ... 这个句型。"
+    }
+  ]
+}

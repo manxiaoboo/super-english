@@ -1,0 +1,14 @@
+{
+  "type": "phrase",
+  "id": "right here",
+  "meaning": "exactly here; in this exact place",
+  "usageContext": "- 中文：就在这里\n- 核心强调：强调位置非常明确，不是别处，就是这里\n- 常见语气：精确定位、提醒别人别找错地方、强调自己就在现场\n- 常见用法：Put it right here. / The answer is right here. / I'm right here with you.",
+  "anchorSentence": "The answer is right here in the document.",
+  "reviewQuestions": [
+    "right here 的核心意思是什么？",
+    "它主要强调时间还是位置？",
+    "用 right here 写一句带“就是这里”感觉的句子。"
+  ],
+  "learnedAt": "2026-07-08",
+  "reviewInDays": 1
+}

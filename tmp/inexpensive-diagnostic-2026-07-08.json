@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "inexpensive",
+  "context": "active-recall-sentence",
+  "result": "good",
+  "userText": "This is an inexpensive way to have a lunch",
+  "correctedText": "This is an inexpensive way to have lunch.",
+  "generalAdvice": "这句整体已经自然了。下一步只要稳住固定搭配 have lunch 就行。",
+  "issues": [
+    {
+      "category": "article-usage",
+      "note": "在固定三餐表达里，通常说 have lunch，不说 have a lunch。",
+      "suggestion": "把 have breakfast, have lunch, have dinner 当成固定块整体记。"
+    }
+  ]
+}

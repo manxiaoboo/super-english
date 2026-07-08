@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "see the full URL there",
+  "intention": "在那里看到完整链接",
+  "naturalChunk": "see the full URL there",
+  "avoidSaying": ["see the entire URL in there"],
+  "sentencePatterns": [
+    "You can see the full URL there.",
+    "Open the source file and you can see the full URL there."
+  ],
+  "realLifeExamples": [
+    "This is the source file, and you can see the full URL there.",
+    "Check the source page and you can see the full URL there."
+  ],
+  "usageNotes": "说链接是否完整时，full URL 比 entire URL 更自然。",
+  "productionPrompts": [
+    "用 You can see the full URL there. 造一句和源码、文档或网页有关的句子。"
+  ],
+  "reviewInDays": 1
+}

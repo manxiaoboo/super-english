@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "give you the energy to",
+  "intention": "给你做某事的精力",
+  "naturalChunk": "give you the energy to",
+  "avoidSaying": ["provide the energy to you to support your working"],
+  "sentencePatterns": [
+    "... can give you the energy to ...",
+    "Breakfast gives me the energy to ..."
+  ],
+  "realLifeExamples": [
+    "Having breakfast can give you the energy to work through the whole day.",
+    "A short break can give you the energy to focus again."
+  ],
+  "usageNotes": "表达“给你精力去做某事”时，give you the energy to ... 比 provide the energy to you to ... 自然得多。",
+  "productionPrompts": [
+    "用 ... can give you the energy to ... 造一句和生活或学习有关的句子。"
+  ],
+  "reviewInDays": 1
+}

@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "recognised you when",
+  "intention": "表达我在某个时刻认出了你",
+  "naturalChunk": "recognised you when",
+  "avoidSaying": ["recognised you when you say"],
+  "sentencePatterns": [
+    "I recognised you when you ...",
+    "I recognised ... immediately when ..."
+  ],
+  "realLifeExamples": [
+    "I recognised you when you said hello to me this morning.",
+    "I recognised his voice immediately when he called me."
+  ],
+  "usageNotes": "讲过去某一刻认出来时，when 从句通常也跟过去时。",
+  "productionPrompts": [
+    "用 I recognised you when you ... 造一句和日常生活有关的句子。"
+  ],
+  "reviewInDays": 1
+}

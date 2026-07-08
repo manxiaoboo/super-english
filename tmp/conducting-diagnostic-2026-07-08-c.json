@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-08",
+  "sourceType": "word-review",
+  "sourceId": "conducting",
+  "context": "active-recall-sentence",
+  "result": "hard",
+  "userText": "My teacher is conducting survey to realize his students.",
+  "correctedText": "My teacher is conducting a survey to understand his students better.",
+  "generalAdvice": "这次记住了 conducting，是进步。两个问题：survey 前缺冠词，realize 在英文里是'意识到/突然明白'，不是'了解'。",
+  "issues": [
+    {
+      "category": "article-usage",
+      "note": "conducting survey 缺少不定冠词：conducting a survey。",
+      "suggestion": "可数名词单数前检查是否需要 a / an：a survey, a plan, an experiment。"
+    },
+    {
+      "category": "word-choice",
+      "note": "realize 是'意识到、突然明白'，不是'了解'。了解学生应该用 understand his students 或 get to know his students。",
+      "suggestion": "realize = suddenly understand or become aware of something. 想表达'了解某人'时，优先用 understand 或 get to know。"
+    }
+  ]
+}
