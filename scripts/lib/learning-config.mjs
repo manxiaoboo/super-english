@@ -11,6 +11,12 @@ export const itemTypes = {
     keyColumn: 'Phrase',
     cueSections: ['Meaning', 'Usage Context', 'Original Sentence Chunk', 'Anchor Sentence', 'Review Questions']
   },
+  chunk: {
+    indexFile: 'learning/chunks.md',
+    detailDir: 'learning/chunks',
+    keyColumn: 'Chunk',
+    cueSections: ['Chinese Intention', 'Natural Chunk', 'Sentence Patterns', 'Real-Life Examples', 'Production Prompts']
+  },
   grammar: {
     indexFile: 'learning/grammar.md',
     detailDir: 'learning/grammar',

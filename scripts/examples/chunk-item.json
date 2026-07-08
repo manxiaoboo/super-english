@@ -1,0 +1,20 @@
+{
+  "type": "chunk",
+  "id": "run integration tests",
+  "intention": "进行集成测试",
+  "naturalChunk": "run integration tests",
+  "avoidSaying": ["do the integration testing"],
+  "sentencePatterns": [
+    "Once ... is complete, we can ...",
+    "After ... passes, we can ..."
+  ],
+  "realLifeExamples": [
+    "Once feature development is complete, we can run integration tests."
+  ],
+  "usageNotes": "In technical writing, use run tests or run integration tests, not do the testing.",
+  "productionPrompts": [
+    "用 Once ... is complete, we can ... 写一句技术流程说明。",
+    "用 After ... passes, we can ... 写一句关于测试通过后的下一步。"
+  ],
+  "reviewInDays": 1
+}

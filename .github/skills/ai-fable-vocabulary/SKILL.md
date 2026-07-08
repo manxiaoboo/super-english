@@ -11,6 +11,8 @@ Use this skill to help the user learn new English words through AI-generated ass
 
 The goal is not only to make the word memorable, but also to help the user use it accurately in real English.
 
+The user's current bottleneck is often active production: they can understand natural corrections, but isolated words do not automatically become natural sentences. Build each card around reusable chunks and sentence patterns, not only definitions.
+
 ## Core Principle
 
 Every word must be learned through two layers:
@@ -19,6 +21,12 @@ Every word must be learned through two layers:
 2. **Real usage correction**: anchors the word in accurate meaning, collocations, grammar, and examples.
 
 Do not let the story replace the meaning. The story is a hook; real usage is the target.
+
+For active output, every useful word should connect to:
+
+- a natural chunk or collocation
+- a realistic situation
+- a reusable sentence pattern
 
 ## When To Use
 
@@ -64,6 +72,8 @@ Use this structure:
 记忆钩子：
 英文锚定句：
 常见搭配：
+主动表达词块：
+可套用句型：
 个人化例句：
 易混词/注意点：
 
@@ -89,11 +99,15 @@ Use this structure:
    核心意思：
    记忆钩子：
    英文锚定句：
+   主动表达词块：
+   可套用句型：
 
 2. word
    核心意思：
    记忆钩子：
    英文锚定句：
+   主动表达词块：
+   可套用句型：
 
 组合寓言：
 
@@ -138,6 +152,37 @@ For every word, first reduce it to a simple English core meaning, such as:
 Prefer simple English explanations over dictionary-heavy definitions.
 
 Include Chinese explanation, but do not rely only on Chinese translation.
+
+## Active Production Rules
+
+For each word, create at least one expression chunk the user can directly reuse in speech or writing.
+
+Good chunks:
+
+- `provide a sample project for testing`
+- `configure your npm environment`
+- `run integration tests`
+- `publish a package to Artifactory`
+- `be loyal to a brand`
+- `remind me of my childhood`
+
+Bad chunks:
+
+- isolated words only, such as `provide`
+- Chinese-shaped phrases, such as `do the integration testing` when `run integration tests` is more natural
+- rare or overly literary expressions unless the user asks for them
+
+For each word, also give one reusable sentence pattern.
+
+Good patterns:
+
+- `You can use ... to ...`
+- `Once ... is complete, ...`
+- `After ... passes/succeeds, ...`
+- `I need to ... because ...`
+- `It helps me ... more systematically.`
+
+The chunk and pattern should be easy to reuse in later review and crazy sentence practice.
 
 ## Association Rules
 

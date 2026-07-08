@@ -26,3 +26,6 @@
 | perfume | a nice-smelling liquid you put on your body; as a verb, to give something a pleasant smell | new | 2026-07-07 | 2026-07-08 | 0 | learned |
 | conducting | doing and organizing something, especially an activity, test, or research | new | 2026-07-07 | 2026-07-08 | 0 | learned |
 | equipment | the tools or things needed for a particular activity or job | new | 2026-07-07 | 2026-07-08 | 0 | learned |
+| resistance | the act of pushing back against something; refusal to accept or obey something | new | 2026-07-08 | 2026-07-09 | 0 | learned |
+| efficiency | the ability to do something well without wasting time, energy, or resources | new | 2026-07-08 | 2026-07-09 | 0 | learned |
+| inefficient | not working well; wasting time, energy, or resources | new | 2026-07-08 | 2026-07-09 | 0 | learned |

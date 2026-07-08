@@ -83,3 +83,34 @@
 - reviewed phrase `value for money`: hard; next review: 2026-07-10
 
 - reviewed word `fable`: good; next review: 2026-07-14
+
+## 2026-07-08
+
+- learned chunk `highlight several areas for improvement`; next review: 2026-07-09
+- learned chunk `focus on key areas for improvement`; next review: 2026-07-09
+- learned chunk `identify areas for improvement`; next review: 2026-07-09
+- learned phrase `areas for improvement`; next review: 2026-07-09
+- learned chunk `show initiative at work`; next review: 2026-07-09
+- learned chunk `take the initiative to solve a problem`; next review: 2026-07-09
+- learned chunk `take the initiative to improve`; next review: 2026-07-09
+- learned phrase `take the initiative`; next review: 2026-07-09
+- learned chunk `the system kicks in automatically`; next review: 2026-07-09
+- learned chunk `once the changes kick in`; next review: 2026-07-09
+- learned chunk `the policy kicks in`; next review: 2026-07-09
+- learned phrase `kick in`; next review: 2026-07-09
+- learned phrase `access review system`; next review: 2026-07-09
+- learned word `inefficient`; next review: 2026-07-09
+- learned chunk `the old system is inefficient`; next review: 2026-07-09
+- learned chunk `put a new access review system in place`; next review: 2026-07-09
+- learned chunk `put safeguards in place`; next review: 2026-07-09
+- learned chunk `put a process in place`; next review: 2026-07-09
+- learned chunk `put a system in place`; next review: 2026-07-09
+- learned phrase `put in place`; next review: 2026-07-09
+- learned chunk `improve operational efficiency`; next review: 2026-07-09
+- learned chunk `boost work efficiency`; next review: 2026-07-09
+- learned chunk `improve learning efficiency`; next review: 2026-07-09
+- learned word `efficiency`; next review: 2026-07-09
+- learned chunk `strong resistance from users`; next review: 2026-07-09
+- learned chunk `meet with resistance`; next review: 2026-07-09
+- learned chunk `resistance to change`; next review: 2026-07-09
+- learned word `resistance`; next review: 2026-07-09

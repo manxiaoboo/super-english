@@ -11,6 +11,8 @@ Use this skill to review learning items saved by `ai-fable-vocabulary` and `ai-s
 
 The goal is to make review retrieval-based: show cues first, ask the user to recall, then check meaning, structure, and usage.
 
+When the review asks the user to produce a sentence, train active expression rather than isolated word recall. Prefer `target word/phrase + natural chunk + reusable sentence pattern + real situation` so the user learns to retrieve natural English under pressure.
+
 ## Learning Files
 
 Use these project files as the source of truth:
@@ -19,6 +21,8 @@ Use these project files as the source of truth:
 - `learning/words/<word>.md`: detailed word memory card
 - `learning/phrases.md`: phrase index and scheduling table
 - `learning/phrases/<phrase>.md`: detailed phrase card
+- `learning/chunks.md`: active expression chunk index and scheduling table
+- `learning/chunks/<chunk>.md`: detailed active chunk card
 - `learning/grammar.md`: grammar index and scheduling table
 - `learning/grammar/<pattern>.md`: detailed grammar card
 - `learning/sentences.md`: sentence study index and scheduling table
@@ -36,6 +40,7 @@ Use this skill when the user says things like:
 - review due words
 - review due grammar
 - review due phrases
+- review due chunks
 - review due sentences
 - test my vocabulary
 - test my sentence understanding
@@ -56,11 +61,19 @@ When the user asks for today's review:
 
 If no items are due, offer a light review of the newest or hardest items.
 
-Use `--type word`, `--type phrase`, `--type grammar`, or `--type sentence` when the user asks for a specific category.
+Use `--type word`, `--type phrase`, `--type chunk`, `--type grammar`, or `--type sentence` when the user asks for a specific category.
 
 Use `--limit <number>` for long due lists so the session stays focused.
 
 ## Quiz Format
+
+Every review question should use both memory and real usage:
+
+- Include the fable hook or vivid memory image when the item has one.
+- Also include one natural real-life example sentence for the item.
+- If the example sentence would reveal the answer, replace the target word or phrase with a blank.
+- Keep the example sentence realistic and everyday, not another fable.
+- For sentence-production questions, include or elicit a useful natural chunk/collocation and a simple reusable sentence pattern.
 
 For each word, show only cues first:
 
@@ -70,10 +83,17 @@ For each word, show only cues first:
 记忆画面：
 <core image or fable hook>
 
+现实例句：
+<a natural real-life sentence with the target word blanked if needed>
+
+造句支架：
+目标词块：<natural chunk or collocation using the word>
+句型骨架：<simple reusable pattern>
+
 问题：
 1. 这个画面对应哪个英文单词？
 2. 它的核心意思是什么？
-3. 用它造一句英文句子。
+3. 用这个词块和句型骨架造一句自然英文句子。
 ```
 
 Do not reveal the answer until the user responds, unless the user explicitly asks to see the answer.
@@ -86,10 +106,35 @@ For each phrase, use:
 短语使用场景：
 <context or original sentence chunk>
 
+现实例句：
+<a natural real-life sentence with the target phrase blanked if needed>
+
+造句支架：
+句型骨架：<simple reusable pattern that naturally fits the phrase>
+
 问题：
 1. 这个短语是什么意思？
 2. 它在原句中起什么作用？
-3. 用这个短语造一句英文句子。
+3. 用这个短语和句型骨架造一句自然英文句子。
+```
+
+For each active chunk, use:
+
+```text
+复习 1/N
+
+中文意图：
+<Chinese intention>
+
+提示骨架：
+<sentence pattern>
+
+现实场景：
+<a realistic everyday or work situation>
+
+问题：
+1. 这个意图最自然的英文词块是什么？
+2. 请用这个词块和句型骨架造一句自然英文句子。
 ```
 
 For each grammar item, use:
@@ -99,6 +144,9 @@ For each grammar item, use:
 
 表达意图提示：
 <what this grammar helps express>
+
+现实例句：
+<a natural real-life sentence using this grammar pattern>
 
 问题：
 1. 这个语法结构的核心形式是什么？
@@ -146,6 +194,8 @@ Classify recurring issues into stable categories, for example:
 - `incomplete-sentence`
 - `word-order`
 - `preposition-choice`
+- `chunk-retrieval`
+- `sentence-pattern`
 
 If at least one meaningful issue appears, save a production diagnostic record with:
 
@@ -154,6 +204,32 @@ npm run log-production -- --file <payload.json>
 ```
 
 The payload should include the user's original sentence, a corrected sentence when needed, issue categories, short notes, and improvement suggestions.
+
+After diagnosing any complete sentence the user writes during review, automatically extract and save 1 to 3 high-value active chunks from the correction.
+
+Use:
+
+```text
+npm run add-item -- --file <payload.json>
+```
+
+The chunk payload should use `type: "chunk"` and include:
+
+- `id`: the natural chunk
+- `intention`: the Chinese intention
+- `naturalChunk`: the corrected reusable expression
+- `avoidSaying`: the user's stiff expression when available
+- `sentencePatterns`: reusable frames that help produce the chunk
+- `realLifeExamples`: the corrected sentence or a realistic variant
+- `productionPrompts`: one prompt for later active retrieval
+
+Do not ask before saving these chunks. Skip saving only when the correction is not reusable, is only a tiny spelling or article fix, or duplicates an existing chunk without improving it.
+
+After saving, tell the user briefly:
+
+```text
+已自动加入主动词块：<chunk>
+```
 
 ## Next Review Schedule
 

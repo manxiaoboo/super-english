@@ -16,7 +16,7 @@ The goal is to make translation practice feel lightweight while still extracting
 The workflow is:
 
 ```text
-Chinese source -> user's English attempt -> translation judgment -> issue diagnosis -> ask whether to save diagnostics and knowledge items
+Chinese source -> user's English attempt -> translation judgment -> issue diagnosis -> automatically save active chunks -> ask whether to save diagnostics and other knowledge items
 ```
 
 Do not treat every translation as a formal exam. Keep the feedback practical, specific, and focused on the user's sentence-production habits.
@@ -65,6 +65,9 @@ Use this structure:
 问题诊断：
 1. ...
 2. ...
+
+自动提炼的主动词块：
+- ...
 
 涉及的知识点：
 - 单词：...
@@ -142,6 +145,39 @@ The payload should include:
 
 Use `--dry-run` first if the record is complex.
 
+## Automatic Active Chunk Saving
+
+After diagnosing the user's full English translation attempt, automatically extract and save 1 to 3 high-value active chunks from the improved expression.
+
+Do not ask for confirmation before saving active chunks. This automatic saving applies only to reusable active expression chunks, not to all vocabulary, grammar, phrase, or sentence records.
+
+Use:
+
+```text
+npm run add-item -- --file <payload.json>
+```
+
+The payload should use `type: "chunk"` and include:
+
+- `id`: the natural chunk
+- `intention`: the Chinese intention
+- `naturalChunk`: the corrected reusable expression
+- `avoidSaying`: the user's stiff or Chinese-shaped expression when available
+- `sentencePatterns`: one or two reusable patterns
+- `realLifeExamples`: the improved sentence or a realistic variant
+- `usageNotes`: a short note explaining why the chunk is natural
+- `productionPrompts`: one prompt for later active retrieval
+
+Prioritize chunks that directly fix the user's problem, such as natural collocations, technical-process expressions, preposition patterns, and sentence frames.
+
+Skip automatic saving when the correction is only spelling, punctuation, or a tiny article change with no reusable expression value.
+
+After saving, include a short line in the feedback:
+
+```text
+已自动加入主动词块：<chunk1>, <chunk2>
+```
+
 ## Add To Knowledge Base
 
 If the user chooses to add related knowledge items, use:
@@ -152,12 +188,13 @@ npm run add-item -- --file <payload.json>
 
 Possible knowledge items:
 
+- active chunks are saved automatically after full-sentence diagnosis
 - confused words, such as `phrases` vs `phases`
 - useful phrases from the better translation
 - grammar patterns exposed by the user's error
 - sentence records if the source sentence is worth reviewing later
 
-Ask before adding. Do not silently add many items.
+Ask before adding non-chunk knowledge items. Do not silently add many vocabulary, grammar, phrase, or sentence records.
 
 Prioritize 1 to 3 high-value items per translation attempt.
 
@@ -165,9 +202,9 @@ Prioritize 1 to 3 high-value items per translation attempt.
 
 For a single translation attempt, first give feedback and then ask what to save.
 
-Do not write files until the user confirms.
+Automatically save high-value active chunks after full-sentence diagnosis. For non-chunk diagnostics or knowledge items, do not write files until the user confirms.
 
-When the user confirms, use scripts for persistence instead of manual Markdown edits.
+When saving anything, use scripts for persistence instead of manual Markdown edits.
 
 If the user's translation is already good, still point out one optional upgrade if useful, but do not force a diagnostic issue.
 
@@ -179,5 +216,6 @@ Before finalizing feedback, check that:
 - the improved English is natural, not just grammatically correct
 - issues are categorized consistently
 - the advice is trainable
-- the user is asked whether to save diagnostics and knowledge items
-- scripts are used for persistence after confirmation
+- high-value active chunks are automatically saved after full-sentence diagnosis
+- the user is asked whether to save diagnostics and non-chunk knowledge items
+- scripts are used for persistence

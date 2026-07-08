@@ -72,6 +72,18 @@ function buildIndexRow(typeName, itemId, data, learnedAt, nextReviewDate, itemSt
       'Last Result': result
     };
   }
+  if (typeName === 'chunk') {
+    return {
+      Chunk: itemId,
+      Intention: data.intention ?? data.chineseIntention ?? data.meaning ?? '',
+      Pattern: data.pattern ?? firstValue(data.sentencePatterns),
+      Status: itemStatus,
+      'Learned At': learnedAt,
+      'Next Review': nextReviewDate,
+      'Review Count': count,
+      'Last Result': result
+    };
+  }
   if (typeName === 'grammar') {
     return {
       Grammar: itemId,
@@ -195,6 +207,49 @@ ${formatNumberedList(data.reviewQuestions)}
 `;
   }
 
+  if (typeName === 'chunk') {
+    return `# ${itemId}
+
+- 学习日期：${learnedAt}
+- 熟练度：${itemStatus}
+- 下次复习：${nextReviewDate}
+- 复习次数：${count}
+- 最近结果：${result}
+
+## Chinese Intention
+
+${data.chineseIntention ?? data.intention ?? data.meaning ?? ''}
+
+## Natural Chunk
+
+${data.naturalChunk ?? itemId}
+
+## Avoid Saying
+
+${formatList(data.avoidSaying)}
+
+## Sentence Patterns
+
+${formatList(data.sentencePatterns ?? data.patterns ?? data.pattern)}
+
+## Real-Life Examples
+
+${formatList(data.realLifeExamples ?? data.examples)}
+
+## Usage Notes
+
+${data.usageNotes ?? data.notes ?? ''}
+
+## Production Prompts
+
+${formatNumberedList(data.productionPrompts ?? data.reviewQuestions)}
+
+## 复习记录
+
+- ${learnedAt}：首次学习。下次复习：${nextReviewDate}。
+`;
+  }
+
   return `# ${itemId}
 
 - 学习日期：${learnedAt}
@@ -229,6 +284,7 @@ function defaultIndexMarkdown(typeName) {
   const defaults = {
     word: '# Vocabulary Index\n\n| Word | Meaning | Status | Learned At | Next Review | Review Count | Last Result |\n|---|---|---|---|---|---:|---|\n',
     phrase: '# Phrase Index\n\n| Phrase | Meaning | Status | Learned At | Next Review | Review Count | Last Result |\n|---|---|---|---|---|---:|---|\n',
+    chunk: '# Active Chunk Index\n\n| Chunk | Intention | Pattern | Status | Learned At | Next Review | Review Count | Last Result |\n|---|---|---|---|---|---|---:|---|\n',
     grammar: '# Grammar Index\n\n| Grammar | Intention | Status | Learned At | Next Review | Review Count | Last Result |\n|---|---|---|---|---|---:|---|\n',
     sentence: '# Sentence Index\n\n| ID | Sentence | Learned At | Next Review | Review Count | Last Result |\n|---|---|---|---|---:|---|\n'
   };
@@ -255,8 +311,18 @@ function escapeRegExp(value) {
 }
 
 function formatList(values) {
+  if (typeof values === 'string') {
+    return values ? `- ${values}` : '';
+  }
   if (Array.isArray(values)) {
     return values.length > 0 ? values.map((value) => `- ${value}`).join('\n') : '';
+  }
+  return values ?? '';
+}
+
+function firstValue(values) {
+  if (Array.isArray(values)) {
+    return values[0] ?? '';
   }
   return values ?? '';
 }
