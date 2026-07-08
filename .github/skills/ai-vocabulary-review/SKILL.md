@@ -75,25 +75,39 @@ Every review question should use both memory and real usage:
 - Keep the example sentence realistic and everyday, not another fable.
 - For sentence-production questions, include or elicit a useful natural chunk/collocation and a simple reusable sentence pattern.
 
-For each word, show only cues first:
+### Visual Layering Rule
+
+Always put the recall questions first, before any cues. Use this visual structure for every quiz item so the user must attempt recall before seeing hints:
+
+- **Bold** the questions and the instruction line so they stand out as the primary task.
+- Place a `---` separator after the questions, followed by an italic prompt *（答完再看↓）*.
+- Write all cues (fable hook, example sentence, sentence scaffold) as plain italic text below the separator. Do NOT use blockquotes (`>`) for hints — blockquotes render as a styled container which draws too much attention.
+
+This prevents the user from accidentally reading the answer before attempting recall.
+
+For each word, use:
 
 ```text
 复习 1/N
 
-记忆画面：
-<core image or fable hook>
+**先凭记忆回答，再往下看提示：**
 
-现实例句：
-<a natural real-life sentence with the target word blanked if needed>
+**1. 这个画面对应哪个英文单词？**
+**2. 它的核心意思是什么？**
+**3. 用这个词块和句型骨架造一句自然英文句子。**
 
-造句支架：
-目标词块：<natural chunk or collocation using the word>
-句型骨架：<simple reusable pattern>
+---
+*（答完再看↓）*
 
-问题：
-1. 这个画面对应哪个英文单词？
-2. 它的核心意思是什么？
-3. 用这个词块和句型骨架造一句自然英文句子。
+*记忆画面：*
+*<core image or fable hook>*
+
+*现实例句：*
+*<a natural real-life sentence with the target word blanked if needed>*
+
+*造句支架：*
+*目标词块：<natural chunk or collocation using the word>*
+*句型骨架：<simple reusable pattern>*
 ```
 
 Do not reveal the answer until the user responds, unless the user explicitly asks to see the answer.
@@ -103,19 +117,23 @@ For each phrase, use:
 ```text
 复习 1/N
 
-短语使用场景：
-<context or original sentence chunk>
+**先凭记忆回答，再往下看提示：**
 
-现实例句：
-<a natural real-life sentence with the target phrase blanked if needed>
+**1. 这个短语是什么？**
+**2. 它的核心意思是什么？**
+**3. 用这个短语造一句自然英文句子。**
 
-造句支架：
-句型骨架：<simple reusable pattern that naturally fits the phrase>
+---
+*（答完再看↓）*
 
-问题：
-1. 这个短语是什么意思？
-2. 它在原句中起什么作用？
-3. 用这个短语和句型骨架造一句自然英文句子。
+*使用场景：*
+*<context or original sentence chunk>*
+
+*现实例句：*
+*<a natural real-life sentence with the target phrase blanked if needed>*
+
+*造句支架：*
+*句型骨架：<simple reusable pattern that naturally fits the phrase>*
 ```
 
 For each active chunk, use:
@@ -123,18 +141,22 @@ For each active chunk, use:
 ```text
 复习 1/N
 
-中文意图：
-<Chinese intention>
+**先凭记忆回答，再往下看提示：**
 
-提示骨架：
-<sentence pattern>
+**1. 这个意图最自然的英文词块是什么？**
+**2. 请用这个词块和句型骨架造一句自然英文句子。**
 
-现实场景：
-<a realistic everyday or work situation>
+---
+*（答完再看↓）*
 
-问题：
-1. 这个意图最自然的英文词块是什么？
-2. 请用这个词块和句型骨架造一句自然英文句子。
+*中文意图：*
+*<Chinese intention>*
+
+*提示骨架：*
+*<sentence pattern>*
+
+*现实场景：*
+*<a realistic everyday or work situation>*
 ```
 
 For each grammar item, use:
@@ -142,16 +164,20 @@ For each grammar item, use:
 ```text
 复习 1/N
 
-表达意图提示：
-<what this grammar helps express>
+**先凭记忆回答，再往下看提示：**
 
-现实例句：
-<a natural real-life sentence using this grammar pattern>
+**1. 这个语法结构的核心形式是什么？**
+**2. 它表达什么关系或意图？**
+**3. 用这个结构造一句和自己有关的英文句子。**
 
-问题：
-1. 这个语法结构的核心形式是什么？
-2. 它在原句中表达什么关系或意图？
-3. 用这个结构造一句和自己有关的英文句子。
+---
+*（答完再看↓）*
+
+*表达意图提示：*
+*<what this grammar helps express>*
+
+*现实例句：*
+*<a natural real-life sentence using this grammar pattern>*
 ```
 
 For each sentence, use:
@@ -159,14 +185,18 @@ For each sentence, use:
 ```text
 复习 1/N
 
-原句：
-<sentence>
+**先凭记忆回答，再往下看提示：**
 
-问题：
-1. 这句话的主干是什么？
-2. 主要修饰部分是什么？修饰谁或说明什么？
-3. 句中关键语法表达什么意图？
-4. 请自然翻译整句。
+**1. 这句话的主干是什么？**
+**2. 主要修饰部分是什么？修饰谁或说明什么？**
+**3. 句中关键语法表达什么意图？**
+**4. 请自然翻译整句。**
+
+---
+*（答完再看↓）*
+
+*原句：*
+*<sentence>*
 ```
 
 ## Scoring
