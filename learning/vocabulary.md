@@ -21,3 +21,8 @@
 | placement | putting something or someone in a particular place or position | learning | 2026-07-06 | 2026-07-08 | 1 | forgot |
 | endorsement | public support or approval of someone or something | reviewing | 2026-07-06 | 2026-07-10 | 1 | hard |
 | advantages | good points or benefits that make something better | learning | 2026-07-06 | 2026-07-08 | 1 | forgot |
+| recognises | to know who or what something is because you have seen it before | new | 2026-07-07 | 2026-07-08 | 0 | learned |
+| advertising | the activity of telling people about a product or service so they will buy it | new | 2026-07-07 | 2026-07-08 | 0 | learned |
+| perfume | a nice-smelling liquid you put on your body; as a verb, to give something a pleasant smell | new | 2026-07-07 | 2026-07-08 | 0 | learned |
+| conducting | doing and organizing something, especially an activity, test, or research | new | 2026-07-07 | 2026-07-08 | 0 | learned |
+| equipment | the tools or things needed for a particular activity or job | new | 2026-07-07 | 2026-07-08 | 0 | learned |

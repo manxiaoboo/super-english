@@ -32,6 +32,12 @@
 
 ## 2026-07-07
 
+- learned word `equipment`; next review: 2026-07-08
+- learned word `conducting`; next review: 2026-07-08
+- learned phrase `consists of`; next review: 2026-07-08
+- learned word `perfume`; next review: 2026-07-08
+- learned word `advertising`; next review: 2026-07-08
+- learned word `recognises`; next review: 2026-07-08
 - reviewed word `fable`: good; next review: 2026-07-14
 
 - reviewed word `advantages`: forgot; next review: 2026-07-08

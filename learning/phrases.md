@@ -7,3 +7,4 @@
 | top of the range | the best and usually the most expensive in a product line | new | 2026-07-06 | 2026-07-07 | 0 | learned |
 | care more about | give more attention or importance to something | new | 2026-07-06 | 2026-07-07 | 0 | learned |
 | raise awareness | to make people notice or understand something more | new | 2026-07-06 | 2026-07-07 | 0 | learned |
+| consists of | to be made up of | new | 2026-07-07 | 2026-07-08 | 0 | learned |
