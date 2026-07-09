@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "strong resistance from users",
+  "userText": "We met strong resistance from user to changed the interface.",
+  "correctedText": "We met with strong resistance from users after we changed the interface.",
+  "issues": [
+    {
+      "category": "chunk-retrieval",
+      "note": "'met strong resistance' → 'met WITH strong resistance'; the preposition 'with' is part of the fixed chunk and was dropped for the 2nd time today",
+      "suggestion": "Drill the full unit: met WITH resistance — say it out loud 5 times: 'met with, met with, met with'"
+    },
+    {
+      "category": "noun-number",
+      "note": "'from user' → 'from users'; when referring to a group of users in general, always use plural",
+      "suggestion": "users (plural), customers, employees — group nouns are almost always plural when no article is used"
+    },
+    {
+      "category": "word-form",
+      "note": "'to changed the interface' → 'after we changed the interface'; 'resistance to' takes a noun/gerund (resistance to change), not 'to + past tense verb'",
+      "suggestion": "For time sequence: use 'after we changed / after the update / when the interface changed' — not 'to changed'"
+    }
+  ]
+}

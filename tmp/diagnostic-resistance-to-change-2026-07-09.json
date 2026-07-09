@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "resistance to change",
+  "userText": "So many staff show resistance of change because the compony require every one to update thier personal information.",
+  "correctedText": "Many employees show resistance to change because the company requires everyone to update their personal information.",
+  "issues": [
+    {
+      "category": "preposition-choice",
+      "note": "'resistance of change' → 'resistance to change'; the fixed collocation is always 'resistance TO', never 'resistance OF'",
+      "suggestion": "Drill the full chunk as a unit: resistance TO change — the preposition is part of the chunk"
+    },
+    {
+      "category": "subject-verb-agreement",
+      "note": "'the company require' → 'the company requires'; singular noun subject needs -s on the verb",
+      "suggestion": "The company / the team / the manager + requires / decides / expects — always add -s"
+    },
+    {
+      "category": "word-form",
+      "note": "'every one' (two words) → 'everyone' (one word) when used as a pronoun meaning 'all people'",
+      "suggestion": "'everyone' = one word pronoun; 'every one' (two words) is used only for emphasis: 'every one of them'"
+    }
+  ]
+}

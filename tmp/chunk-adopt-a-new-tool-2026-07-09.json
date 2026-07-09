@@ -1,0 +1,19 @@
+{
+  "type": "chunk",
+  "id": "adopt a new tool",
+  "intention": "公司/团队引入并开始使用一个新工具或新技术",
+  "naturalChunk": "adopt a new tool",
+  "avoidSaying": "use a new tool for the first time / start to use",
+  "sentencePatterns": [
+    "When the company adopted ..., I ...",
+    "Many teams have adopted ... to improve ...",
+    "Once we adopt ..., the workflow will ..."
+  ],
+  "realLifeExamples": [
+    "I took the initiative to learn AI when the company adopted GitHub Copilot.",
+    "Many teams have adopted Agile to improve delivery speed."
+  ],
+  "productionPrompts": [
+    "用 When the company adopted ... 造一句关于工具或流程变化的句子。"
+  ]
+}

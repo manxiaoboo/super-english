@@ -1,0 +1,29 @@
+{
+  "type": "word",
+  "id": "mentally",
+  "pronunciation": "/mɛntəli/",
+  "partOfSpeech": "adverb",
+  "coreMeaning": "in the mind; relating to thought, emotion, or psychological state",
+  "coreImage": "闭上眼睛，在脑子里独自承受或准备某件事",
+  "chineseMeaning": "在精神上；在心理上；用脑子；从心理角度",
+  "meaning": "in the mind; relating to thought, emotion, or psychological state",
+  "fable": "一位举重冠军每天练四小时，能举起两百公斤。比赛前，教练问：你准备好了吗？他说：身体完全准备好了。教练又说：那你脑子里呢？他愣了一下，从没想过这个问题。上台后，对手只是盯了他一眼，他的手就开始发抖，两百公斤举了一半就掉了。裁判摇头说：他在身体上训练了一年，但 mentally 他从未准备过。",
+  "moral": "mentally 指的是心理和精神层面的状态，跟身体的准备是两回事。",
+  "memoryHook": "mental（心理的）+ -ly（副词后缀）→ mentally = 在心理上、用脑子。mental 联想 mental hospital（精神病院）→ 和大脑、心理有关的一切。",
+  "anchorSentence": "I was not mentally prepared for how difficult the code review would be.",
+  "collocations": [
+    "mentally prepared / mentally ready",
+    "mentally strong / mentally tough",
+    "mentally exhausted / mentally drained",
+    "mentally challenging / mentally stimulating",
+    "mentally ill / mentally healthy",
+    "mentally focused"
+  ],
+  "personalExample": "Reading English documentation for hours is not just tiring physically — I feel mentally drained by the end of the day.",
+  "notes": "mentally vs emotionally: mentally = cognitive/thinking layer; emotionally = feelings layer. mentally vs intellectually: intellectually is more about academic ability; mentally covers broader psychological state. Note: mentally ill is fixed collocation — do not say mentally sick.",
+  "recallQuestions": [
+    "那位举重冠军举了一半就掉了，因为他在哪个层面没有准备好？用英文说出来。",
+    "mentally exhausted 和 physically exhausted 有什么不同？",
+    "用 mentally 写一句和你工作或学习有关的英文句子。"
+  ]
+}

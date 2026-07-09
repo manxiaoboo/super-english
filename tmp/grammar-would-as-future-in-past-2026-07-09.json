@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "id": "would as future-in-past",
+  "intention": "用 would 表示从过去时间点看向将来的预期或推测（过去视角的将来）",
+  "meaning": "would used to express a future action or state as seen from a past point in time; common after past-tense reporting or thinking verbs",
+  "usageContext": "Pattern: past-tense context + would + verb\n\nCommon triggers: thought, said, expected, hoped, assumed, was not prepared for, had no idea\n\nExamples:\n- I thought it would be easy. (当时以为会很简单)\n- I was not prepared for how hard it would be. (没料到会那么难)\n- She said she would finish by Friday. (她说她周五前会完成)\n- Nobody expected the migration would take three weeks.\n\nContrast with present context:\n- I am not prepared for how hard it is. (现在正在经历 → is)\n- I was not prepared for how hard it would be. (回顾过去的预期 → would be)",
+  "anchorSentence": "I had no idea the refactoring would take this long.",
+  "reviewQuestions": [
+    "I thought it would be easy 里的 would 表示什么时间关系？",
+    "把这句话改成现在视角：I was not prepared for how hard it would be → I am not prepared for how hard it ___.",
+    "用 I never expected ... would ... 造一句和项目或学习有关的句子。"
+  ]
+}

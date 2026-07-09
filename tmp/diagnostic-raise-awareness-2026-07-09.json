@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "raise awareness",
+  "userText": "I think we must raise awareness of older's healthy.",
+  "correctedText": "I think we need to raise awareness of elderly people's health.",
+  "issues": [
+    {
+      "category": "word-choice",
+      "note": "'older's' → 'older people's' or 'the elderly's'; adjective cannot be used directly as a noun",
+      "suggestion": "When talking about a group, say 'older people' or 'the elderly', never just 'older'"
+    },
+    {
+      "category": "word-choice",
+      "note": "'healthy' (adjective) used after preposition 'of' — should be noun 'health'",
+      "suggestion": "After 'of', use a noun. Remember: health/healthy, safety/safe, success/successful"
+    }
+  ]
+}

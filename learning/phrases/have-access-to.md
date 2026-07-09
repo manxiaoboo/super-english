@@ -29,4 +29,5 @@ Only some users have access to that server.
 
 ## 复习记录
 
+- 2026-07-09：good，phrase and meaning correct; sentence: 'Nemo don't' → 'Nemo doesn't' (SVA); 'common server' → 'shared server'。下次复习：2026-07-16。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

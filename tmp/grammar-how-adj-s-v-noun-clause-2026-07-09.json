@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "id": "how + adjective + subject + verb as noun clause",
+  "intention": "用 how + 形容词 + 主语 + 动词 表达程度，整体作名词从句跟在介词或动词后",
+  "meaning": "A wh-clause using how + adjective/adverb + subject + verb to express degree; acts as a noun and can follow prepositions (for, at, about) or verbs (know, realize, imagine, understand)",
+  "usageContext": "Pattern: [preposition / verb] + how + adj/adv + subject + verb\n\nAfter prepositions:\n- I was not prepared for how difficult it would be.\n- I was surprised at how quickly he learned.\n- Nobody warned me about how stressful onboarding would be.\n\nAfter verbs:\n- I had no idea how hard it would be.\n- You will not believe how long this took.\n- I now understand how complex the system is.\n\nNote: word order is statement order (S + V), NOT question order.\n  Wrong: I realized how difficult was the task.\n  Right:  I realized how difficult the task was.",
+  "anchorSentence": "I was not mentally prepared for how difficult the code review would be.",
+  "reviewQuestions": [
+    "how + adjective + S + V 从句里，语序是疑问句语序还是陈述句语序？",
+    "用 I had no idea how ... 造一个关于工作中超出预期的事的句子。",
+    "用 I was surprised at how ... 造一个真实的句子。"
+  ]
+}

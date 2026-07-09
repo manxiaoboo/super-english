@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "meet with resistance",
+  "userText": "I met a strong resistance from conducting survey for student learning effect.",
+  "correctedText": "I met with strong resistance when conducting a survey on student learning outcomes.",
+  "issues": [
+    {
+      "category": "chunk-retrieval",
+      "note": "'met resistance' instead of 'met with resistance' — the chunk requires 'with'",
+      "suggestion": "Drill the full fixed chunk: meet WITH resistance; the 'with' is not optional"
+    },
+    {
+      "category": "article-usage",
+      "note": "'a strong resistance' — resistance is uncountable, no article; also 'conducting survey' missing article → 'a survey'",
+      "suggestion": "Uncountable nouns: resistance, information, advice, feedback — never use 'a' before them"
+    },
+    {
+      "category": "preposition-choice",
+      "note": "'from conducting survey' — 'from' in 'meet with resistance from' takes a person/group (from users, from developers), not an activity; use 'when conducting' or 'while conducting'",
+      "suggestion": "Remember: resistance from [PEOPLE], not resistance from [ACTIVITY]; for activity context use 'when/while + -ing'"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "'student learning effect' is unnatural — say 'student learning outcomes' or 'the effectiveness of student learning'",
+      "suggestion": "Use 'learning outcomes' as a fixed chunk in academic/education contexts"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "have access to",
+  "userText": "I have access to common server but Nemo don't have.",
+  "correctedText": "I have access to the shared server, but Nemo doesn't.",
+  "issues": [
+    {
+      "category": "subject-verb-agreement",
+      "note": "'Nemo don't have' → 'Nemo doesn't'; proper nouns and third-person singular subjects require 'doesn't', not 'don't'",
+      "suggestion": "He/she/it/[name] + doesn't — never 'don't' for singular subjects"
+    },
+    {
+      "category": "word-choice",
+      "note": "'common server' → 'shared server'; 'common' can mean ordinary/frequent; for something used by multiple people, say 'shared'",
+      "suggestion": "shared server / shared drive / shared resource — use 'shared' for things multiple people use together"
+    }
+  ]
+}

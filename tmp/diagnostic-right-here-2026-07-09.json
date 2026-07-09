@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "right here",
+  "userText": "I hope I can meet you tommorrow right here.",
+  "correctedText": "I hope I can meet you right here tomorrow.",
+  "issues": [
+    {
+      "category": "word-order",
+      "note": "'tomorrow right here' → 'right here tomorrow'; English adverb order: place comes before time",
+      "suggestion": "Remember: place → time. 'I'll see you right here tomorrow' / 'Meet me downstairs at 3pm'"
+    }
+  ]
+}

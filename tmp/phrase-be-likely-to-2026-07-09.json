@@ -1,0 +1,22 @@
+{
+  "type": "phrase",
+  "id": "be likely to",
+  "meaning": "there is a good chance that something will happen — probably will",
+  "chineseMeaning": "很可能会……；大概会……；有可能……",
+  "pronunciation": "/biː laɪkli tuː/",
+  "partOfSpeech": "phrase (be likely to + verb)",
+  "anchorSentence": "This change is likely to break existing tests if we do not update the mocks.",
+  "collocations": [
+    "be likely to happen / occur",
+    "be likely to cause problems",
+    "be more likely to / less likely to",
+    "it is likely that + clause",
+    "be likely to succeed / fail / improve"
+  ],
+  "notes": "likely to vs going to: going to is more certain. likely to vs probably: both ~70-80%, but likely to is more formal. Watch the subject: It is likely to rain vs He is likely to resign.",
+  "recallQuestions": [
+    "那只猫咪预报员说有七八成把握，对应哪个英文结构？",
+    "be likely to 和 be going to 在确定程度上有什么区别？",
+    "用 be likely to 写一句和你项目或工作有关的英文句子。"
+  ]
+}

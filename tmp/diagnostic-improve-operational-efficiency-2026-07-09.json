@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "improve operational efficiency",
+  "userText": "The goal is to improve development efficientcy.",
+  "correctedText": "The goal is to improve operational efficiency.",
+  "issues": [
+    {
+      "category": "chunk-retrieval",
+      "note": "Dropped the adjective modifier 'operational' from the chunk — this is a recurring pattern (also dropped 'learning' from 'improve learning efficiency' earlier today)",
+      "suggestion": "Memorize the full chunk as one unit: improve OPERATIONAL efficiency / improve LEARNING efficiency — the adjective is not optional"
+    }
+  ]
+}

@@ -37,4 +37,5 @@ process is a natural object of put in place in work and project contexts.
 
 ## 复习记录
 
+- 2026-07-09：good，sentence natural and correct (used 'workflow' as synonym for 'process'); Q1: said 'put in place' again — 3rd time dropping the noun from this chunk family。下次复习：2026-07-16。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

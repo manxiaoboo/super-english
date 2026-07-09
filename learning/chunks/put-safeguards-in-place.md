@@ -37,4 +37,5 @@ safeguards means protective measures; put safeguards in place is common in techn
 
 ## 复习记录
 
+- 2026-07-09：good，got the frame 'put...in place' but missed the specific chunk 'safeguards'; sentence: 'regular publish' → 'every release'。下次复习：2026-07-16。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

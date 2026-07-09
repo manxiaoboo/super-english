@@ -1,0 +1,21 @@
+{
+  "type": "phrase",
+  "id": "be unlikely to",
+  "meaning": "there is little chance that something will happen — probably will not",
+  "chineseMeaning": "不太可能……；很可能不会……",
+  "pronunciation": "/biː ʌnˈlaɪkli tuː/",
+  "partOfSpeech": "phrase (be unlikely to + verb)",
+  "anchorSentence": "This fix is unlikely to work without restarting the server.",
+  "collocations": [
+    "be unlikely to happen / succeed",
+    "be unlikely to cause problems",
+    "it is unlikely that + clause",
+    "seem unlikely to / appear unlikely to"
+  ],
+  "notes": "be unlikely to is the negative counterpart of be likely to (~20-30% certainty). Do not confuse with will not — be unlikely to leaves open the small possibility. More formal than probably not.",
+  "recallQuestions": [
+    "be unlikely to 的确定程度大约是多少？",
+    "be unlikely to 和 will not 有什么区别？",
+    "用 be unlikely to 写一句和你的工作或学习有关的句子。"
+  ]
+}

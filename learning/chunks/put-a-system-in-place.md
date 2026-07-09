@@ -37,4 +37,5 @@ Use put something in place for systems, processes, rules, or measures that are a
 
 ## 复习记录
 
+- 2026-07-09：hard，said 'put in place' — dropped 'a system' from chunk; 'mind system' is unnatural translation, should be 'review/learning system'。下次复习：2026-07-12。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

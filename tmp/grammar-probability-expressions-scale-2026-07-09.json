@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "id": "probability expressions scale",
+  "intention": "表达可能性大小的词汇对比（definitely / probably / likely to / maybe / might）",
+  "meaning": "Comparing probability expressions in English from certain to uncertain",
+  "usageContext": "Certainty scale:\n\ndefinitely / certainly: 95%+ — Almost certain\nwill (plain prediction): ~85% — Direct assertion\nprobably: ~70-80% — Reasoned prediction, slightly informal\nbe likely to: ~65-75% — Objective judgment, more formal\nmaybe / perhaps: ~40-60% — Uncertain, could go either way\nmight / could: ~30-50% — Weaker possibility\nunlikely to: ~20-30% — Probably not\n\nKey distinctions:\n- probably vs be likely to: both ~70-80%, probably is spoken, be likely to is formal\n- maybe vs might: maybe starts the sentence; might follows a subject\n- definitely vs certainly: nearly identical; definitely is more emphatic in speech",
+  "anchorSentence": "She will probably be late. / She is likely to be late. / Maybe she will be late. — same situation, different confidence levels.",
+  "reviewQuestions": [
+    "probably 和 be likely to 确定程度是多少？有什么区别？",
+    "maybe 和 might 都表示也许，用法上有什么不同？",
+    "用这张表里三个不同词，分别造一句关于同一件事的句子，感受确定程度的差异。"
+  ]
+}

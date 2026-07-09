@@ -30,4 +30,5 @@ I want to be involved in projects that improve real learning.
 
 ## 复习记录
 
+- 2026-07-09：good，phrase and dual meaning correct; sentence: 'involved in a party' is atypical — be involved in is better with projects/decisions/processes。下次复习：2026-07-16。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

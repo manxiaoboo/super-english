@@ -77,4 +77,5 @@ I should take the initiative to practice English instead of waiting for perfect 
 
 ## 复习记录
 
+- 2026-07-09：good，phrase correct; meaning answer incomplete ('主动的' not capturing the action); tense: adopt→adopted; spelling: Copolit→Copilot。下次复习：2026-07-16。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

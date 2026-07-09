@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "take the initiative",
+  "userText": "I took the initiative to learn AI when the company adopt GitHub Copolit.",
+  "correctedText": "I took the initiative to learn AI when the company adopted GitHub Copilot.",
+  "issues": [
+    {
+      "category": "verb-tense",
+      "note": "'the company adopt' → 'the company adopted'; when-clause referring to a past event requires past tense",
+      "suggestion": "When describing a past trigger/event in a when-clause, use simple past: 'when they adopted / launched / introduced'"
+    }
+  ]
+}

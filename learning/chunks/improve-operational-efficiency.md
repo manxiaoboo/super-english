@@ -37,4 +37,5 @@ operational efficiency is common in business and process contexts.
 
 ## 复习记录
 
+- 2026-07-09：good，sentence structure correct; dropped 'operational' again (pattern: dropping adjective modifiers from chunks); spelling: efficientcy。下次复习：2026-07-16。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

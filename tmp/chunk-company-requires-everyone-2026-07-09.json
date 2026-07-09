@@ -1,0 +1,19 @@
+{
+  "type": "chunk",
+  "id": "the company requires everyone to",
+  "intention": "公司要求所有人做某事（全员要求）",
+  "naturalChunk": "the company requires everyone to [do something]",
+  "avoidSaying": "the company require every one to / the company ask everyone to",
+  "sentencePatterns": [
+    "The company requires everyone to ...",
+    "Our organization requires everyone to ... before ...",
+    "The policy requires everyone to ..."
+  ],
+  "realLifeExamples": [
+    "The company requires everyone to update their personal information annually.",
+    "The company requires everyone to complete the security training before accessing the system."
+  ],
+  "productionPrompts": [
+    "用 The company requires everyone to ... 造一句关于公司规定或政策的句子。"
+  ]
+}

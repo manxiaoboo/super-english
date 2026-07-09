@@ -1240,3 +1240,257 @@ We have provided a sample project for you to test. After you unzip it, you will 
 #### 总体建议
 
 When writing technical setup instructions, prefer natural action verbs like provide and configure, and use complete after-clauses such as After you unzip it or After unzipping it.
+
+## 2026-07-09
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+We met strong resistance from user to changed the interface.
+
+#### 建议表达
+
+We met with strong resistance from users after we changed the interface.
+
+#### 诊断问题
+
+- chunk-retrieval：'met strong resistance' → 'met WITH strong resistance'; the preposition 'with' is part of the fixed chunk and was dropped for the 2nd time today
+  建议：Drill the full unit: met WITH resistance — say it out loud 5 times: 'met with, met with, met with'
+- noun-number：'from user' → 'from users'; when referring to a group of users in general, always use plural
+  建议：users (plural), customers, employees — group nouns are almost always plural when no article is used
+- word-form：'to changed the interface' → 'after we changed the interface'; 'resistance to' takes a noun/gerund (resistance to change), not 'to + past tense verb'
+  建议：For time sequence: use 'after we changed / after the update / when the interface changed' — not 'to changed'
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+we need to put the mind system in place before we start learning.
+
+#### 建议表达
+
+We need to put a review system in place before we start learning.
+
+#### 诊断问题
+
+- natural-collocation：'mind system' is a direct Chinese translation and not a natural English phrase; say 'review system', 'learning system', or 'mental framework'
+  建议：When tempted to say 'mind system', think: what type of system is it? → review system / learning system / planning system
+- article-usage：'the mind system' → 'a review system'; use 'a' when introducing something not yet established or first mentioned
+  建议：Use 'a' for something being set up for the first time; 'the' for something already known/established
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+The goal is to improve development efficientcy.
+
+#### 建议表达
+
+The goal is to improve operational efficiency.
+
+#### 诊断问题
+
+- chunk-retrieval：Dropped the adjective modifier 'operational' from the chunk — this is a recurring pattern (also dropped 'learning' from 'improve learning efficiency' earlier today)
+  建议：Memorize the full chunk as one unit: improve OPERATIONAL efficiency / improve LEARNING efficiency — the adjective is not optional
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+I hope I can meet you tommorrow right here.
+
+#### 建议表达
+
+I hope I can meet you right here tomorrow.
+
+#### 诊断问题
+
+- word-order：'tomorrow right here' → 'right here tomorrow'; English adverb order: place comes before time
+  建议：Remember: place → time. 'I'll see you right here tomorrow' / 'Meet me downstairs at 3pm'
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+So many staff show resistance of change because the compony require every one to update thier personal information.
+
+#### 建议表达
+
+Many employees show resistance to change because the company requires everyone to update their personal information.
+
+#### 诊断问题
+
+- preposition-choice：'resistance of change' → 'resistance to change'; the fixed collocation is always 'resistance TO', never 'resistance OF'
+  建议：Drill the full chunk as a unit: resistance TO change — the preposition is part of the chunk
+- subject-verb-agreement：'the company require' → 'the company requires'; singular noun subject needs -s on the verb
+  建议：The company / the team / the manager + requires / decides / expects — always add -s
+- word-form：'every one' (two words) → 'everyone' (one word) when used as a pronoun meaning 'all people'
+  建议：'everyone' = one word pronoun; 'every one' (two words) is used only for emphasis: 'every one of them'
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+I have access to common server but Nemo don't have.
+
+#### 建议表达
+
+I have access to the shared server, but Nemo doesn't.
+
+#### 诊断问题
+
+- subject-verb-agreement：'Nemo don't have' → 'Nemo doesn't'; proper nouns and third-person singular subjects require 'doesn't', not 'don't'
+  建议：He/she/it/[name] + doesn't — never 'don't' for singular subjects
+- word-choice：'common server' → 'shared server'; 'common' can mean ordinary/frequent; for something used by multiple people, say 'shared'
+  建议：shared server / shared drive / shared resource — use 'shared' for things multiple people use together
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+We could improve coding efficiency use AI.
+
+#### 建议表达
+
+We could improve learning efficiency by using AI tools.
+
+#### 诊断问题
+
+- preposition-choice：'improve [X] use AI' → 'improve [X] by using AI'; to express method/means, use 'by + gerund', not a bare verb
+  建议：Pattern: [achieve something] by using / by applying / by doing — 'by + gerund' expresses HOW you do something
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+We have to put the code verification in place before regular publish.
+
+#### 建议表达
+
+We have to put code verification in place before every release.
+
+#### 诊断问题
+
+- article-usage：'the code verification' → 'code verification'; abstract process/concept nouns don't need 'the' unless referring to a specific known one
+  建议：No article before general abstract processes: code verification, user authentication, error handling
+- word-choice：'regular publish' → 'every release'; in software, 'publish' is a verb (publish an article/package), not a count noun; the natural noun is 'release' or 'deployment'
+  建议：Software vocabulary: release (noun/verb), deployment, ship/shipping — not 'publish' as a noun for code releases
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+Use the C# to develop a web program is inefficient.
+
+#### 建议表达
+
+Using C# to develop web applications is inefficient.
+
+#### 诊断问题
+
+- word-form：'Use' as subject → 'Using'; a gerund (verb+-ing) is needed when a verb phrase acts as the subject
+  建议：Sentence subject pattern: Using [tool/method] to [do something] is [adjective]
+- article-usage：'the C#' → 'C#'; programming language and tool names don't take articles (Python, JavaScript, React, GitHub Copilot)
+  建议：No article before: Python, C#, Java, React, Copilot, Git — treat them like proper nouns
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+I took the initiative to learn AI when the company adopt GitHub Copolit.
+
+#### 建议表达
+
+I took the initiative to learn AI when the company adopted GitHub Copilot.
+
+#### 诊断问题
+
+- verb-tense：'the company adopt' → 'the company adopted'; when-clause referring to a past event requires past tense
+  建议：When describing a past trigger/event in a when-clause, use simple past: 'when they adopted / launched / introduced'
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+I met a strong resistance from conducting survey for student learning effect.
+
+#### 建议表达
+
+I met with strong resistance when conducting a survey on student learning outcomes.
+
+#### 诊断问题
+
+- chunk-retrieval：'met resistance' instead of 'met with resistance' — the chunk requires 'with'
+  建议：Drill the full fixed chunk: meet WITH resistance; the 'with' is not optional
+- article-usage：'a strong resistance' — resistance is uncountable, no article; also 'conducting survey' missing article → 'a survey'
+  建议：Uncountable nouns: resistance, information, advice, feedback — never use 'a' before them
+- preposition-choice：'from conducting survey' — 'from' in 'meet with resistance from' takes a person/group (from users, from developers), not an activity; use 'when conducting' or 'while conducting'
+  建议：Remember: resistance from [PEOPLE], not resistance from [ACTIVITY]; for activity context use 'when/while + -ing'
+- natural-collocation：'student learning effect' is unnatural — say 'student learning outcomes' or 'the effectiveness of student learning'
+  建议：Use 'learning outcomes' as a fixed chunk in academic/education contexts
+
+### production: free-practice
+
+- 时间：2026-07-09
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+I think we must raise awareness of older's healthy.
+
+#### 建议表达
+
+I think we need to raise awareness of elderly people's health.
+
+#### 诊断问题
+
+- word-choice：'older's' → 'older people's' or 'the elderly's'; adjective cannot be used directly as a noun
+  建议：When talking about a group, say 'older people' or 'the elderly', never just 'older'
+- word-choice：'healthy' (adjective) used after preposition 'of' — should be noun 'health'
+  建议：After 'of', use a noun. Remember: health/healthy, safety/safe, success/successful

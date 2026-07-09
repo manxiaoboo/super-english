@@ -37,4 +37,5 @@ Use resistance to something, not resistance for something.
 
 ## 复习记录
 
+- 2026-07-09：hard，said 'resistance to' but used wrong preposition 'of' in sentence; also spelling errors: company, their, everyone。下次复习：2026-07-12。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

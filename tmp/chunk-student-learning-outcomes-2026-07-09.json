@@ -1,0 +1,19 @@
+{
+  "type": "chunk",
+  "id": "student learning outcomes",
+  "intention": "学生学习成果；学习效果",
+  "naturalChunk": "student learning outcomes",
+  "avoidSaying": "student learning effect",
+  "sentencePatterns": [
+    "The survey focused on student learning outcomes.",
+    "We measured student learning outcomes by ...",
+    "Improving student learning outcomes is the goal of ..."
+  ],
+  "realLifeExamples": [
+    "I met with strong resistance when conducting a survey on student learning outcomes.",
+    "The new teaching method significantly improved student learning outcomes."
+  ],
+  "productionPrompts": [
+    "用 student learning outcomes 造一句关于调查或教学改进的句子。"
+  ]
+}

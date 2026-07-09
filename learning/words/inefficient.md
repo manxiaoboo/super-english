@@ -50,4 +50,5 @@ Use be inefficient to describe a system or process. Do not say has a low efficie
 
 ## 复习记录
 
+- 2026-07-09：good，word and meaning correct; sentence: 'Use the C#' → 'Using C#' (gerund as subject; no article for language names)。下次复习：2026-07-16。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

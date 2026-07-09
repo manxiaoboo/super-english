@@ -1,0 +1,19 @@
+{
+  "type": "chunk",
+  "id": "improve [X] by using [tool]",
+  "intention": "通过使用某工具/方法来提升某项能力或效率",
+  "naturalChunk": "improve [X] by using [tool/method]",
+  "avoidSaying": "improve [X] use [tool] / improve [X] with use [tool]",
+  "sentencePatterns": [
+    "We could improve [X] by using [tool].",
+    "You can improve [X] by using [method].",
+    "[Tool] helps improve [X] by ..."
+  ],
+  "realLifeExamples": [
+    "We could improve learning efficiency by using AI tools.",
+    "You can improve code quality by using automated testing."
+  ],
+  "productionPrompts": [
+    "用 improve [X] by using [tool] 造一句关于工具或学习方法的句子。"
+  ]
+}

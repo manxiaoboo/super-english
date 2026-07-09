@@ -1,0 +1,21 @@
+{
+  "type": "phrase",
+  "id": "in the first half of the year",
+  "meaning": "during January to June — the first six months of the year",
+  "chineseMeaning": "在今年上半年；在年度前半段（1–6月）",
+  "pronunciation": "/ɪn ðə fɜːrst hɑːf əv ðə jɪər/",
+  "partOfSpeech": "phrase (time adverbial)",
+  "anchorSentence": "We completed the infrastructure upgrade in the first half of the year.",
+  "collocations": [
+    "in the second half of the year",
+    "H1 (business shorthand for first half)",
+    "in the early part of the year",
+    "by the end of H1"
+  ],
+  "notes": "Counterpart to in the second half of the year. H1 = first half (Jan–Jun), H2 = second half (Jul–Dec). Always requires the definite article.",
+  "recallQuestions": [
+    "H1 对应哪个时间段？",
+    "用 in the first half of the year 造一句关于已完成事项的句子。",
+    "in the first half of the year 和 in the second half of the year 连起来，描述一个全年计划。"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "word",
+  "id": "praise",
+  "pronunciation": "/preɪz/",
+  "partOfSpeech": "verb / noun",
+  "coreMeaning": "to express strong approval or admiration for someone or something",
+  "coreImage": "张开嘴，向对方竖起大拇指，说出：你做得好",
+  "chineseMeaning": "称赞；表扬；赞美",
+  "meaning": "to express strong approval or admiration for someone or something",
+  "fable": "一只鹦鹉在公司当评审官，专门负责评估员工的工作。一天，一个程序员熬夜修好了一个月都没解决的 bug。鹦鹉飞上他的肩膀，在全公司广播里大喊了三十秒：PRAISE！PRAISE！PRAISE！声音大到咖啡都颤抖了。老板皱眉说：没必要这样。鹦鹉回头说：他等这句话，等了三个月了。",
+  "moral": "真正的称赞，要说出口，说给应该听到的人听。",
+  "memoryHook": "pray（祈祷）+ s → 虔诚地向对方祈祷式地说：你真棒 → praise（注：这是记忆钩子，不是词源。）",
+  "anchorSentence": "The manager praised the team for delivering the feature on time.",
+  "collocations": [
+    "praise someone for (doing) something",
+    "receive praise / get praise",
+    "win high praise",
+    "worthy of praise",
+    "praise someone's work / effort / performance"
+  ],
+  "personalExample": "My team lead praised my refactoring because it made the codebase much easier to maintain.",
+  "notes": "compliment：通常指针对外表、品味等具体特点的夸奖，语气更轻；praise 范围更广，可以是成就、行为、品格。flatter：有奉承、言过其实的含义；praise 是真心认可。applaud：强调鼓掌或公开表示支持，常用于比喻义。",
+  "recallQuestions": [
+    "那只在广播里对程序员狂叫三十秒的鹦鹉，对应哪个英文单词？",
+    "praise someone for something 和 compliment someone on something 有什么区别？",
+    "用 praise 写一句和你工作经历有关的英文句子（可以是收到表扬，也可以是你表扬别人）。"
+  ]
+}

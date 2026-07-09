@@ -1,0 +1,21 @@
+{
+  "type": "chunk",
+  "id": "give feedback on",
+  "intention": "就某事给出反馈或评价",
+  "naturalChunk": "give [someone] feedback on [something]",
+  "avoidSaying": "give feedback about / give feedback for",
+  "sentencePatterns": [
+    "Can you give me feedback on ...?",
+    "I'll give you feedback on ... after ...",
+    "She gave feedback on ... during the meeting."
+  ],
+  "realLifeExamples": [
+    "Can you give me feedback on my essay before I submit it?",
+    "The manager gave feedback on the team's performance at the review.",
+    "Please give feedback on the new design so we can improve it."
+  ],
+  "productionPrompts": [
+    "用 give feedback on 造一句和工作或学习有关的句子。"
+  ],
+  "grammarNote": "'on' here means 'about/regarding a specific topic'. Same pattern: give advice on, comment on, write a report on, give a lecture on — 'on' points the action at a subject."
+}

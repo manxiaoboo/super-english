@@ -29,4 +29,5 @@ You can see the real URL in the original Markdown document.
 
 ## 复习记录
 
+- 2026-07-09：good，Q1 typo: 'read URL' vs 'real URL'; meaning and sentence both correct。下次复习：2026-07-16。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

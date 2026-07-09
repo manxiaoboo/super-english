@@ -37,4 +37,5 @@ boost efficiency is a natural collocation for improving productivity or reducing
 
 ## 复习记录
 
+- 2026-07-09：forgot，did not remember the chunk; asked about boost vs improve difference。下次复习：2026-07-10。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

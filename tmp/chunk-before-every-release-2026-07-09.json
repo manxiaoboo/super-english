@@ -1,0 +1,19 @@
+{
+  "type": "chunk",
+  "id": "before every release",
+  "intention": "在每次发布/上线之前",
+  "naturalChunk": "before every release",
+  "avoidSaying": "before regular publish / before each publish",
+  "sentencePatterns": [
+    "We need to [do something] before every release.",
+    "Before each release, we should ...",
+    "... must be in place before every release."
+  ],
+  "realLifeExamples": [
+    "We have to put code verification in place before every release.",
+    "Before each release, the team runs a full regression test."
+  ],
+  "productionPrompts": [
+    "用 before every release 造一句关于发布前检查或流程的句子。"
+  ]
+}

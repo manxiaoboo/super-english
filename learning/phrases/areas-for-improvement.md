@@ -79,4 +79,5 @@ My main areas for improvement are natural collocations and sentence patterns.
 
 ## 复习记录
 
+- 2026-07-09：forgot，completely forgot。下次复习：2026-07-10。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

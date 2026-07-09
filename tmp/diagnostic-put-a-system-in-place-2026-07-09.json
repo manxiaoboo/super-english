@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "put a system in place",
+  "userText": "we need to put the mind system in place before we start learning.",
+  "correctedText": "We need to put a review system in place before we start learning.",
+  "issues": [
+    {
+      "category": "natural-collocation",
+      "note": "'mind system' is a direct Chinese translation and not a natural English phrase; say 'review system', 'learning system', or 'mental framework'",
+      "suggestion": "When tempted to say 'mind system', think: what type of system is it? → review system / learning system / planning system"
+    },
+    {
+      "category": "article-usage",
+      "note": "'the mind system' → 'a review system'; use 'a' when introducing something not yet established or first mentioned",
+      "suggestion": "Use 'a' for something being set up for the first time; 'the' for something already known/established"
+    }
+  ]
+}

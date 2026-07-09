@@ -2,15 +2,15 @@
 
 | Chunk | Intention | Pattern | Status | Learned At | Next Review | Review Count | Last Result |
 |---|---|---|---|---|---|---:|---|
-| resistance to change | 对改变的抗拒 | There is strong resistance to ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
-| meet with resistance | 遇到反对或阻力 | The plan met with resistance from ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
-| strong resistance from users | 来自用户的强烈反对或抗拒 | There was strong resistance from ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
-| improve learning efficiency | 提升学习效率 | ... can improve learning efficiency by ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
-| boost work efficiency | 提高工作效率 | Using ... can boost work efficiency. | new | 2026-07-08 | 2026-07-09 | 0 | learned |
-| improve operational efficiency | 提升运营或流程效率 | The goal is to improve operational efficiency. | new | 2026-07-08 | 2026-07-09 | 0 | learned |
-| put a system in place | 建立并落实一个系统 | We need to put ... in place before ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
-| put a process in place | 建立并落实一个流程 | The team put ... in place to ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
-| put safeguards in place | 落实保护措施或防护机制 | We need to put safeguards in place before ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
+| resistance to change | 对改变的抗拒 | There is strong resistance to ... | reviewing | 2026-07-08 | 2026-07-12 | 1 | hard |
+| meet with resistance | 遇到反对或阻力 | The plan met with resistance from ... | reviewing | 2026-07-08 | 2026-07-12 | 1 | hard |
+| strong resistance from users | 来自用户的强烈反对或抗拒 | There was strong resistance from ... | reviewing | 2026-07-08 | 2026-07-12 | 1 | hard |
+| improve learning efficiency | 提升学习效率 | ... can improve learning efficiency by ... | reviewing | 2026-07-08 | 2026-07-12 | 1 | hard |
+| boost work efficiency | 提高工作效率 | Using ... can boost work efficiency. | learning | 2026-07-08 | 2026-07-10 | 1 | forgot |
+| improve operational efficiency | 提升运营或流程效率 | The goal is to improve operational efficiency. | reviewing | 2026-07-08 | 2026-07-16 | 1 | good |
+| put a system in place | 建立并落实一个系统 | We need to put ... in place before ... | reviewing | 2026-07-08 | 2026-07-12 | 1 | hard |
+| put a process in place | 建立并落实一个流程 | The team put ... in place to ... | reviewing | 2026-07-08 | 2026-07-16 | 1 | good |
+| put safeguards in place | 落实保护措施或防护机制 | We need to put safeguards in place before ... | reviewing | 2026-07-08 | 2026-07-16 | 1 | good |
 | put a new access review system in place | 落实一个新的权限审核系统 | I hope the company can put ... in place because ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
 | the old system is inefficient | 旧系统效率低 | ... because the old system is inefficient. | new | 2026-07-08 | 2026-07-09 | 0 | learned |
 | the policy kicks in | 政策开始生效 | The policy will kick in ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
@@ -47,3 +47,9 @@
 | resistance to changing our workflow | 对改变工作流程的抗拒 | There is strong resistance to ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
 | put a new learning approach in place | 把一个新的学习方法落实到位 | I need to put ... in place ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
 | conduct a survey to understand students better | 进行一项调查来更好地了解学生 | My teacher is conducting a survey to ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
+| student learning outcomes | 学生学习成果；学习效果 | The survey focused on student learning outcomes. | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| adopt a new tool | 公司/团队引入并开始使用一个新工具或新技术 | When the company adopted ..., I ... | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| before every release | 在每次发布/上线之前 | We need to [do something] before every release. | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| improve [X] by using [tool] | 通过使用某工具/方法来提升某项能力或效率 | We could improve [X] by using [tool]. | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| the company requires everyone to | 公司要求所有人做某事（全员要求） | The company requires everyone to ... | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| give feedback on | 就某事给出反馈或评价 | Can you give me feedback on ...? | new | 2026-07-09 | 2026-07-10 | 0 | learned |

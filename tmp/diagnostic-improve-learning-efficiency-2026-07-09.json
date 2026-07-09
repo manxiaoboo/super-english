@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "improve learning efficiency",
+  "userText": "We could improve coding efficiency use AI.",
+  "correctedText": "We could improve learning efficiency by using AI tools.",
+  "issues": [
+    {
+      "category": "preposition-choice",
+      "note": "'improve [X] use AI' → 'improve [X] by using AI'; to express method/means, use 'by + gerund', not a bare verb",
+      "suggestion": "Pattern: [achieve something] by using / by applying / by doing — 'by + gerund' expresses HOW you do something"
+    }
+  ]
+}

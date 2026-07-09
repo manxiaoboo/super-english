@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "put safeguards in place",
+  "userText": "We have to put the code verification in place before regular publish.",
+  "correctedText": "We have to put code verification in place before every release.",
+  "issues": [
+    {
+      "category": "article-usage",
+      "note": "'the code verification' → 'code verification'; abstract process/concept nouns don't need 'the' unless referring to a specific known one",
+      "suggestion": "No article before general abstract processes: code verification, user authentication, error handling"
+    },
+    {
+      "category": "word-choice",
+      "note": "'regular publish' → 'every release'; in software, 'publish' is a verb (publish an article/package), not a count noun; the natural noun is 'release' or 'deployment'",
+      "suggestion": "Software vocabulary: release (noun/verb), deployment, ship/shipping — not 'publish' as a noun for code releases"
+    }
+  ]
+}

@@ -37,4 +37,5 @@ Use improve efficiency, not improve efficient. Efficiency is the noun; efficient
 
 ## 复习记录
 
+- 2026-07-09：hard，said 'improve efficiency' only — missed 'learning'; sentence: missing 'by' before 'using AI'。下次复习：2026-07-12。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

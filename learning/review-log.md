@@ -211,3 +211,60 @@
 - learned chunk `meet with resistance`; next review: 2026-07-09
 - learned chunk `resistance to change`; next review: 2026-07-09
 - learned word `resistance`; next review: 2026-07-09
+
+## 2026-07-09
+
+- learned word `overlook`; next review: 2026-07-10
+- learned phrase `be associated with`; next review: 2026-07-10
+- learned grammar `would as future-in-past`; next review: 2026-07-10
+- learned grammar `how + adjective + subject + verb as noun clause`; next review: 2026-07-10
+- learned word `mentally`; next review: 2026-07-10
+- learned phrase `in the first half of the year`; next review: 2026-07-10
+- learned phrase `in the second half of the year`; next review: 2026-07-10
+- learned phrase `be unlikely to`; next review: 2026-07-10
+- learned grammar `probability expressions scale`; next review: 2026-07-10
+- learned phrase `be likely to`; next review: 2026-07-10
+- learned word `praise`; next review: 2026-07-10
+- learned chunk `give feedback on`; next review: 2026-07-10
+- reviewed chunk `strong resistance from users`: hard; next review: 2026-07-12
+
+- reviewed phrase `real URL`: good; next review: 2026-07-16
+
+- reviewed chunk `put a process in place`: good; next review: 2026-07-16
+
+- reviewed chunk `put a system in place`: hard; next review: 2026-07-12
+
+- reviewed phrase `access review system`: easy; next review: 2026-07-23
+
+- reviewed chunk `boost work efficiency`: forgot; next review: 2026-07-10
+
+- reviewed chunk `improve operational efficiency`: good; next review: 2026-07-16
+
+- reviewed phrase `be involved in`: good; next review: 2026-07-16
+
+- reviewed phrase `right here`: good; next review: 2026-07-16
+
+- reviewed phrase `right now`: easy; next review: 2026-07-23
+
+- learned chunk `the company requires everyone to`; next review: 2026-07-10
+- reviewed chunk `resistance to change`: hard; next review: 2026-07-12
+
+- reviewed phrase `have access to`: good; next review: 2026-07-16
+
+- learned chunk `improve [X] by using [tool]`; next review: 2026-07-10
+- reviewed chunk `improve learning efficiency`: hard; next review: 2026-07-12
+
+- reviewed phrase `areas for improvement`: forgot; next review: 2026-07-10
+
+- learned chunk `before every release`; next review: 2026-07-10
+- reviewed chunk `put safeguards in place`: good; next review: 2026-07-16
+
+- reviewed word `inefficient`: good; next review: 2026-07-16
+
+- learned chunk `adopt a new tool`; next review: 2026-07-10
+- reviewed phrase `take the initiative`: good; next review: 2026-07-16
+
+- learned chunk `student learning outcomes`; next review: 2026-07-10
+- reviewed chunk `meet with resistance`: hard; next review: 2026-07-12
+
+- reviewed phrase `raise awareness`: good; next review: 2026-07-16

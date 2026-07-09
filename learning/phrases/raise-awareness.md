@@ -43,6 +43,7 @@ The campaign aims to raise awareness of mental health.
 
 ## 复习记录
 
+- 2026-07-09：good，phrase correct; sentence error: older's healthy → elderly people's health (adjective used as noun, healthy→health)。下次复习：2026-07-16。
 - 2026-07-08：forgot，Could not recall from cue; post-reveal sentence misapplied raise awareness to personal learning.。下次复习：2026-07-09。
 - 2026-07-08：hard，Recalled phrase and meaning, but sentence still needed article and verb-form correction.。下次复习：2026-07-11。
 - 2026-07-08：hard，Recalled the phrase and meaning during extra review, but sentence production still needed article, direction, and clause correction.。下次复习：2026-07-11。

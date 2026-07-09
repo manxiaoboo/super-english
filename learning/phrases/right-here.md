@@ -29,4 +29,5 @@ The answer is right here in the document.
 
 ## 复习记录
 
+- 2026-07-09：good，phrase and meaning correct; spelling: tommorrow; word order: tomorrow right here → right here tomorrow (place before time)。下次复习：2026-07-16。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

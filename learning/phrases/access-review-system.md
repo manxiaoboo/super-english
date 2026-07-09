@@ -26,4 +26,5 @@ I hope the company can put a new access review system in place.
 
 ## 复习记录
 
+- 2026-07-09：easy，all correct; naturally combined 'put...in place' + 'boost efficiency' in one sentence。下次复习：2026-07-23。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

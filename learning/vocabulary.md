@@ -28,4 +28,7 @@
 | equipment | the tools or things needed for a particular activity or job | reviewing | 2026-07-07 | 2026-07-11 | 2 | hard |
 | resistance | the act of pushing back against something; refusal to accept or obey something | reviewing | 2026-07-08 | 2026-07-15 | 1 | good |
 | efficiency | the ability to do something well without wasting time, energy, or resources | reviewing | 2026-07-08 | 2026-07-22 | 1 | easy |
-| inefficient | not working well; wasting time, energy, or resources | new | 2026-07-08 | 2026-07-09 | 0 | learned |
+| inefficient | not working well; wasting time, energy, or resources | reviewing | 2026-07-08 | 2026-07-16 | 1 | good |
+| praise | to express strong approval or admiration for someone or something | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| mentally | in the mind; relating to thought, emotion, or psychological state | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| overlook | to fail to notice something, or to choose to ignore it | new | 2026-07-09 | 2026-07-10 | 0 | learned |

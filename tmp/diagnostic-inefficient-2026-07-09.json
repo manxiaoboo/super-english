@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-09",
+  "type": "review",
+  "trigger": "inefficient",
+  "userText": "Use the C# to develop a web program is inefficient.",
+  "correctedText": "Using C# to develop web applications is inefficient.",
+  "issues": [
+    {
+      "category": "word-form",
+      "note": "'Use' as subject → 'Using'; a gerund (verb+-ing) is needed when a verb phrase acts as the subject",
+      "suggestion": "Sentence subject pattern: Using [tool/method] to [do something] is [adjective]"
+    },
+    {
+      "category": "article-usage",
+      "note": "'the C#' → 'C#'; programming language and tool names don't take articles (Python, JavaScript, React, GitHub Copilot)",
+      "suggestion": "No article before: Python, C#, Java, React, Copilot, Git — treat them like proper nouns"
+    }
+  ]
+}

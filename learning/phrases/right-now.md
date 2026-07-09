@@ -29,4 +29,5 @@ We need to fix this right now.
 
 ## 复习记录
 
+- 2026-07-09：easy，all correct; natural sentence with appropriate urgency tone。下次复习：2026-07-23。
 - 2026-07-08：首次学习。下次复习：2026-07-09。
