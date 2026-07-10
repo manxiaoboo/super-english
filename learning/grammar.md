@@ -8,3 +8,4 @@
 | probability expressions scale | 表达可能性大小的词汇对比（definitely / probably / likely to / maybe / might） | new | 2026-07-09 | 2026-07-10 | 0 | learned |
 | how + adjective + subject + verb as noun clause | 用 how + 形容词 + 主语 + 动词 表达程度，整体作名词从句跟在介词或动词后 | new | 2026-07-09 | 2026-07-10 | 0 | learned |
 | would as future-in-past | 用 would 表示从过去时间点看向将来的预期或推测（过去视角的将来） | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| forcibly vs force as adverb before past participle | force 是名词/动词，不能直接当副词；修饰动词时必须用副词形式 forcibly | new | 2026-07-10 | 2026-07-11 | 0 | learned |

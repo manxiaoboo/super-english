@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "id": "forcibly vs force as adverb before past participle",
+  "intention": "force 是名词/动词，不能直接当副词；修饰动词时必须用副词形式 forcibly",
+  "meaning": "force cannot be used directly as an adverb to modify a verb or past participle; use the adverb form forcibly instead",
+  "usageContext": "Wrong: has been force modified / force changed / force updated\nRight: has been forcibly modified / forcibly overridden / forcibly changed\n\nRule: adverbs modify verbs and past participles, not nouns or base verbs.\nforce (noun/verb) → forcibly (adverb)\n\nException: hyphenated compound modifiers before a noun are sometimes acceptable in informal/technical writing:\n  force-applied styles (adjective modifier before noun)\n  force-quit the app\nBut these are compounds, not adverb + past participle constructions.\n\nOther common adverb pairs to remember:\nautomatic → automatically (not: automatic updated)\nmanual → manually (not: manual configured)\nforce → forcibly (not: force modified)",
+  "anchorSentence": "The menu bar styles were forcibly overridden by a third-party plugin.",
+  "reviewQuestions": [
+    "force 为什么不能直接放在 modified 前面？",
+    "force 的副词形式是什么？",
+    "把这句话改正：The config file was force updated by the script."
+  ]
+}

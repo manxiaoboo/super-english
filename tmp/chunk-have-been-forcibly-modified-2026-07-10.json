@@ -1,0 +1,19 @@
+{
+  "type": "chunk",
+  "id": "have been forcibly modified",
+  "intention": "某东西被强制修改了（通用技术场景）",
+  "naturalChunk": "have been forcibly modified",
+  "avoidSaying": "has been force modified",
+  "sentencePatterns": [
+    "[Something] have been forcibly modified without [authorization / notice].",
+    "It appears that [something] have been forcibly modified by [cause]."
+  ],
+  "realLifeExamples": [
+    "The configuration files have been forcibly modified by the deployment script.",
+    "The menu bar styles have been forcibly modified by an external plugin."
+  ],
+  "usageNotes": "forcibly is the adverb form of force. Never use force directly as an adverb before a past participle. forcibly modified = changed against the intended behavior or without authorization.",
+  "productionPrompts": [
+    "用 have been forcibly modified 描述一次配置或样式被意外改动的情况。"
+  ]
+}

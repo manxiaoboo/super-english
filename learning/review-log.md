@@ -268,3 +268,13 @@
 - reviewed chunk `meet with resistance`: hard; next review: 2026-07-12
 
 - reviewed phrase `raise awareness`: good; next review: 2026-07-16
+
+## 2026-07-10
+
+- learned word `realistic`; next review: 2026-07-11
+- learned grammar `forcibly vs force as adverb before past participle`; next review: 2026-07-11
+- learned chunk `have been forcibly modified`; next review: 2026-07-11
+- learned chunk `styles were forcibly overridden`; next review: 2026-07-11
+- learned phrase `performance-based bonus`; next review: 2026-07-11
+- learned word `reward`; next review: 2026-07-11
+- learned word `role model`; next review: 2026-07-11

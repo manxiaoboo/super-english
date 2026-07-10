@@ -1,0 +1,30 @@
+{
+  "type": "word",
+  "id": "reward",
+  "pronunciation": "/rɪwɔːrd/",
+  "partOfSpeech": "noun / verb",
+  "coreMeaning": "something given in return for good work or effort; to give something in recognition of achievement",
+  "coreImage": "付出之后，有东西流回来——努力→奖励，一个完整的循环",
+  "chineseMeaning": "奖励；回报；酬劳；（动词）奖励某人、给予回报",
+  "meaning": "something given in return for good work or effort; to give something in recognition of achievement",
+  "fable": "有只实验室小狗学会了握手，得到一块饼干作为 reward。它觉得不够，于是学翻滚，得到两块。它越来越贪心，开始研究微积分，背单词，优化算法。三年后，它已经是公司最资深的工程师。CEO 来问它：你为什么这么努力？它抬起爪子说：因为每一次进步，我都得到了 reward。人类说：那你现在想要什么奖励？它想了一秒，回答：再来一块饼干就够了。",
+  "moral": "reward 是努力完成循环的那个东西——它可以很小，但它必须真实存在，才能驱动持续行动。",
+  "memoryHook": "re-（回来）+ ward（方向）→ 你付出的努力，有东西回到你这里 → reward = 回报、奖励（注：这是记忆钩子，非严格词源。）",
+  "anchorSentence": "The company rewards employees who take initiative with more responsibility and growth opportunities.",
+  "collocations": [
+    "receive / get a reward",
+    "offer / give a reward",
+    "as a reward for something",
+    "reward someone for doing something",
+    "reward someone with something",
+    "financial / intrinsic / extrinsic reward",
+    "rewarding experience / rewarding work"
+  ],
+  "personalExample": "I find it deeply rewarding when a feature I built gets positive feedback from real users.",
+  "notes": "reward vs prize: prize is for competition; reward is broader return for effort or contribution, not necessarily competitive. reward vs bonus: bonus is monetary workplace reward; reward can be non-monetary. Adjective form: rewarding = meaningful, worthwhile, giving a sense of achievement.",
+  "recallQuestions": [
+    "那只因为得到饼干而一路学到成为资深工程师的小狗，驱动力对应哪个英文单词？",
+    "reward 和 prize 的区别是什么？",
+    "用 rewarding 或 reward 写一句和你的工作或学习经历有关的英文句子。"
+  ]
+}

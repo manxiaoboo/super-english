@@ -1,0 +1,19 @@
+{
+  "type": "chunk",
+  "id": "styles were forcibly overridden",
+  "intention": "样式被强制覆盖了（前端/CSS 场景）",
+  "naturalChunk": "styles were forcibly overridden",
+  "avoidSaying": "style has been force modified",
+  "sentencePatterns": [
+    "The [element] styles were forcibly overridden by [something].",
+    "It looks like [element] styles have been forcibly overridden."
+  ],
+  "realLifeExamples": [
+    "The menu bar styles were forcibly overridden after the library update.",
+    "The button styles were forcibly overridden by a third-party plugin."
+  ],
+  "usageNotes": "In frontend/CSS contexts, overridden is more precise than modified — styles are typically overridden (covered by a higher-specificity rule), not edited in place. Use forcibly to indicate it happened without intent or authorization.",
+  "productionPrompts": [
+    "用 were forcibly overridden 描述一个样式被意外覆盖的前端 bug。"
+  ]
+}

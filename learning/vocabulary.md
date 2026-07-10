@@ -32,3 +32,6 @@
 | praise | to express strong approval or admiration for someone or something | new | 2026-07-09 | 2026-07-10 | 0 | learned |
 | mentally | in the mind; relating to thought, emotion, or psychological state | new | 2026-07-09 | 2026-07-10 | 0 | learned |
 | overlook | to fail to notice something, or to choose to ignore it | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| role model | a person whose behavior and success others admire and want to copy | new | 2026-07-10 | 2026-07-11 | 0 | learned |
+| reward | something given in return for good work or effort; to give something in recognition of achievement | new | 2026-07-10 | 2026-07-11 | 0 | learned |
+| realistic | based on what is actually possible or true, not on what you wish were true | new | 2026-07-10 | 2026-07-11 | 0 | learned |

@@ -1,0 +1,23 @@
+{
+  "type": "phrase",
+  "id": "performance-based bonus",
+  "meaning": "extra pay given to an employee based on how well they perform",
+  "chineseMeaning": "绩效奖金；绩效奖励；基于表现的额外薪酬",
+  "pronunciation": "/pərfɔːrməns beɪst boʊnəs/",
+  "partOfSpeech": "noun phrase",
+  "anchorSentence": "Our team receives a performance-based bonus at the end of each quarter if we meet the delivery targets.",
+  "collocations": [
+    "receive / earn a performance-based bonus",
+    "offer / provide performance-based bonuses",
+    "annual / quarterly performance-based bonus",
+    "performance-based pay / compensation",
+    "tie bonuses to performance metrics",
+    "KPI-linked bonus"
+  ],
+  "notes": "performance-based bonus vs base salary: base salary is fixed; bonus is variable. vs commission: commission is sales-based percentage; performance-based bonus applies to any role. vs incentive pay: nearly interchangeable; incentive pay stresses motivation direction. Hyphen rule: performance-based before a noun needs hyphen; as predicate it can be written without: The bonus is performance based.",
+  "recallQuestions": [
+    "那个偷偷藏 bug 再修掉来多拿奖金的工程师，他的奖金制度叫什么？",
+    "performance-based bonus 和 commission 有什么区别？",
+    "用 performance-based bonus 写一句描述你公司或理想薪酬结构的英文句子。"
+  ]
+}
