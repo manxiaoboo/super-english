@@ -1,0 +1,28 @@
+{
+  "type": "word",
+  "id": "permanent job",
+  "meaning": "a job that is expected to last for a long time without a fixed end date",
+  "pronunciation": "/ˈpɜːrmənənt dʒɑːb/",
+  "partOfSpeech": "noun phrase (countable)",
+  "coreMeaning": "a job that is expected to last for a long time without a fixed end date",
+  "coreImage": "签合同时没有写到期日——这就是 permanent",
+  "chineseMeaning": "固定工作；长期职位；正式工",
+  "fable": "一只袋鼠找了五份工作：第一份是圣诞老人临时帮手，干完圣诞节就被辞了。第二份是冰淇淋车司机，夏天一过就被辞了。第三份是泳池救生员，冬天一到又被辞了。第四份是开学季书包推销员，开学一结束又被辞了。袋鼠找到第五份工作时，小心翼翼地问面试官：这份工作干到什么时候结束？面试官说：我们没有结束日期。袋鼠哭了：太好了，我终于找到了一份 permanent job。",
+  "moral": "permanent job 强调没有固定结束日期，不是临时工或合同工。",
+  "memoryHook": "permanent = 永久的/长期的。反义词：temporary（临时的）。permanent job ≠ 终身制，而是没有预设结束日期的正式岗位。对比：permanent job vs contract job vs temp job vs freelance。",
+  "anchorSentence": "After working as a contractor for two years, I finally got a permanent job.",
+  "collocations": [
+    "get / find a permanent job",
+    "offer someone a permanent job",
+    "a permanent job offer",
+    "turn a temporary role into a permanent job",
+    "permanent vs temporary / contract"
+  ],
+  "personalExample": "I started as a contractor, but after six months they offered me a permanent job.",
+  "notes": "permanent job vs contract job：permanent job 没有固定结束日期，通常有福利（保险/年假）；contract job 有固定期限（如6个月/1年）。\npermanent job vs full-time job：full-time 指全职（工作时长），permanent 指长期（没有结束日期）。可以既是 permanent 又是 full-time。\n转正更准确的说法：become a permanent employee / be converted to permanent。",
+  "recallQuestions": [
+    "袋鼠找了四份季节工都被辞退，第五份面试官说没有结束日期——对应哪个英文短语？",
+    "permanent job 和 contract job 有什么区别？",
+    "用 After ..., I finally got a permanent job. 这个句型造一句英文句子。"
+  ]
+}

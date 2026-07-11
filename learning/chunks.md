@@ -48,10 +48,10 @@
 | put a new learning approach in place | 把一个新的学习方法落实到位 | I need to put ... in place ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
 | conduct a survey to understand students better | 进行一项调查来更好地了解学生 | My teacher is conducting a survey to ... | new | 2026-07-08 | 2026-07-09 | 0 | learned |
 | student learning outcomes | 学生学习成果；学习效果 | The survey focused on student learning outcomes. | new | 2026-07-09 | 2026-07-10 | 0 | learned |
-| adopt a new tool | 公司/团队引入并开始使用一个新工具或新技术 | When the company adopted ..., I ... | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| adopt a new tool | 公司/团队引入并开始使用一个新工具或新技术 | When the company adopted ..., I ... | learning | 2026-07-09 | 2026-07-12 | 1 | forgot |
 | before every release | 在每次发布/上线之前 | We need to [do something] before every release. | new | 2026-07-09 | 2026-07-10 | 0 | learned |
 | improve [X] by using [tool] | 通过使用某工具/方法来提升某项能力或效率 | We could improve [X] by using [tool]. | new | 2026-07-09 | 2026-07-10 | 0 | learned |
 | the company requires everyone to | 公司要求所有人做某事（全员要求） | The company requires everyone to ... | new | 2026-07-09 | 2026-07-10 | 0 | learned |
-| give feedback on | 就某事给出反馈或评价 | Can you give me feedback on ...? | new | 2026-07-09 | 2026-07-10 | 0 | learned |
+| give feedback on | 就某事给出反馈或评价 | Can you give me feedback on ...? | reviewing | 2026-07-09 | 2026-07-18 | 1 | good |
 | styles were forcibly overridden | 样式被强制覆盖了（前端/CSS 场景） | The [element] styles were forcibly overridden by [something]. | new | 2026-07-10 | 2026-07-11 | 0 | learned |
-| have been forcibly modified | 某东西被强制修改了（通用技术场景） | [Something] have been forcibly modified without [authorization / notice]. | new | 2026-07-10 | 2026-07-11 | 0 | learned |
+| have been forcibly modified | 某东西被强制修改了（通用技术场景） | [Something] have been forcibly modified without [authorization / notice]. | reviewing | 2026-07-10 | 2026-07-14 | 1 | hard |

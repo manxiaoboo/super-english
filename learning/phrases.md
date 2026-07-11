@@ -22,5 +22,5 @@
 | be unlikely to | there is little chance that something will happen — probably will not | new | 2026-07-09 | 2026-07-10 | 0 | learned |
 | in the second half of the year | during July to December — the latter six months of the year | new | 2026-07-09 | 2026-07-10 | 0 | learned |
 | in the first half of the year | during January to June — the first six months of the year | new | 2026-07-09 | 2026-07-10 | 0 | learned |
-| be associated with | to be connected to or linked with something in people minds or in reality | new | 2026-07-09 | 2026-07-10 | 0 | learned |
-| performance-based bonus | extra pay given to an employee based on how well they perform | new | 2026-07-10 | 2026-07-11 | 0 | learned |
+| be associated with | to be connected to or linked with something in people minds or in reality | reviewing | 2026-07-09 | 2026-07-14 | 1 | hard |
+| performance-based bonus | extra pay given to an employee based on how well they perform | reviewing | 2026-07-10 | 2026-07-14 | 1 | hard |

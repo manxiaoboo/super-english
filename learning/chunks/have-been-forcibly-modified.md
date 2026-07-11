@@ -38,4 +38,5 @@ forcibly is the adverb form of force. Never use force directly as an adverb befo
 
 ## 复习记录
 
+- 2026-07-11：hard，看了答案，句子 collague 拼写错误。下次复习：2026-07-14。
 - 2026-07-10：首次学习。下次复习：2026-07-11。

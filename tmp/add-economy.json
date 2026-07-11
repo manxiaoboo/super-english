@@ -1,0 +1,29 @@
+{
+  "type": "word",
+  "id": "economy",
+  "meaning": "the system of money, trade, and production in a country or region",
+  "pronunciation": "/ɪˈkɑːnəmi/",
+  "partOfSpeech": "noun (countable/uncountable)",
+  "coreMeaning": "the system of money, trade, and production in a country or region",
+  "coreImage": "钱、货、人像血液一样在整个社会系统里流动循环",
+  "chineseMeaning": "经济；经济体；节约",
+  "fable": "一座小岛上有三个居民：一个种苹果，一个织渔网，一个修屋顶。他们以前各干各的——种苹果的吃不完烂掉，织渔网的没苹果吃饿瘦了，修屋顶的没人找他干活。有一天他们决定：种苹果的每天送十个苹果给渔夫，渔夫送两条鱼给屋顶匠，屋顶匠免费修好种苹果的漏雨的屋子。从此三个人都吃得饱、住得好。路过的海鸥问：你们怎么做到的？他们说：因为我们有了 economy——东西不再是各管各的，而是大家一起流动起来。",
+  "moral": "economy 的核心不是省钱，而是资源在社会中如何生产、流通、分配和消费。",
+  "memoryHook": "eco-（家/环境）+ -nomy（管理/规则）= 管理家庭或社会资源的方式。和经济相关的常见词：economic（经济的）、economical（节约的）、economics（经济学）。",
+  "anchorSentence": "The economy is growing faster than expected this year.",
+  "collocations": [
+    "the global / local / digital economy",
+    "economy grows / expands",
+    "economy slows down",
+    "boost the economy",
+    "a strong / weak economy",
+    "economy of scale"
+  ],
+  "personalExample": "The rise of remote work is changing the global economy in ways we didn't expect.",
+  "notes": "economy vs economic vs economical：economy（名词）= 经济；economic（形容词）= 经济的（与经济有关的）；economical（形容词）= 节约的（省钱/省资源的）。\neconomy vs economics：economy = 经济体系本身；economics = 经济学（学科/理论）。\n注意发音：economy /ɪˈkɑːnəmi/ 重音在第二音节；economic /ˌiːkəˈnɑːmɪk/ 重音在第三音节。",
+  "recallQuestions": [
+    "小岛上三个人从各自为政到交换资源、人人受益的故事，对应哪个英文单词？",
+    "economy、economic、economical 分别是什么意思？",
+    "用 The economy is ... because ... 这个句型造一句关于当前经济状况的英文句子。"
+  ]
+}

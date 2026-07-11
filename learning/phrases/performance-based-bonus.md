@@ -24,4 +24,5 @@ Our team receives a performance-based bonus at the end of each quarter if we mee
 
 ## 复习记录
 
+- 2026-07-11：hard，perfermance 拼写错误，句子多处语法问题。下次复习：2026-07-14。
 - 2026-07-10：首次学习。下次复习：2026-07-11。

@@ -1,0 +1,28 @@
+{
+  "type": "word",
+  "id": "manufacturing plants",
+  "meaning": "factories where products are made, usually on a large scale",
+  "pronunciation": "/ˌmænjəˈfæktʃərɪŋ plænts/",
+  "partOfSpeech": "noun phrase (countable)",
+  "coreMeaning": "factories where products are made, usually on a large scale",
+  "coreImage": "巨大的厂房，机器轰鸣，流水线上产品一个接一个被制造出来",
+  "chineseMeaning": "制造工厂；生产工厂",
+  "fable": "一颗小番茄种子被种进土里，天天等着发芽。一个月后它长出来了，却发现自己不在田里，而在一个巨大的厂房里——头顶是传送带，身边是机械臂，左边有番茄酱灌装线，右边有罐头封口机。它震惊地问旁边的机器人：这里不是农田？机器人说：这里叫 manufacturing plant——我们不种番茄，我们把番茄加工成产品。",
+  "moral": "manufacturing plant = 制造工厂，不是种植物的地方，而是生产制造产品的地方。",
+  "memoryHook": "plant 最常见的意思是植物，但也可以指工厂/厂房。根据上下文判断：a tomato plant（番茄植株）vs a tomato manufacturing plant（番茄加工厂）。",
+  "anchorSentence": "Many manufacturing plants have adopted AI to improve production efficiency.",
+  "collocations": [
+    "automotive manufacturing plants",
+    "manufacturing plant manager",
+    "build a new manufacturing plant",
+    "operate a manufacturing plant",
+    "manufacturing plant layout"
+  ],
+  "personalExample": "The company opened a new manufacturing plant in Mexico to reduce shipping costs.",
+  "notes": "plant 的两个意思：plant = 植物（可数）VS plant = 工厂（可数）。\nmanufacturing plant vs factory：基本同义，manufacturing plant 更正式/常用于书面商业语境；factory 更口语化。\nmanufacturing vs production：manufacturing 特指制造/加工（把原材料变成产品）；production 范围更广。",
+  "recallQuestions": [
+    "那颗番茄种子以为自己会在田里发芽，结果发现自己在一个大厂房里被加工，这个场景帮你区分 plant 的哪两个意思？",
+    "manufacturing plant 和 factory 有什么区别？",
+    "用 Many manufacturing plants have adopted ... to ... 这个句型造一句和你了解的技术有关的句子。"
+  ]
+}

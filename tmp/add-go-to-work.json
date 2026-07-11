@@ -1,0 +1,28 @@
+{
+  "type": "word",
+  "id": "go to work",
+  "meaning": "to travel to your workplace; to start your working day",
+  "pronunciation": "/ɡoʊ tə wɜːrk/",
+  "partOfSpeech": "verb phrase",
+  "coreMeaning": "to travel to your workplace; to start your working day",
+  "coreImage": "整个去上班的过程——从出门到到达工位",
+  "chineseMeaning": "去上班；上班",
+  "fable": "一只企鹅每天早上都要从冰屋步行到海边的办公楼。它的路线是：出门→滑过冰面→跳三块浮冰→在企鹅咖啡店买杯鱼露拿铁→刷卡进办公室。有一天它出门晚了，海豹问它：你 leave for work 了吗？企鹅说：刚刚出门！十分钟后海豹在办公室看到它，说：你到得真快。企鹅说：是啊，我从 leave for work 到 go to work 的整个过程只用了十分钟。",
+  "moral": "leave for work = 出发（时间点）；go to work = 去上班（整个过程，包含出发+通勤+到达）。",
+  "memoryHook": "leave for work = leave（离开）+ for（前往）→ 只说出出发。go to work = go（去）+ to（到）→ 包含从出门到到达的全部。",
+  "anchorSentence": "I go to work by subway every day.",
+  "collocations": [
+    "go to work by bus / car / bike / subway",
+    "go to work at + time",
+    "drive to work",
+    "walk to work",
+    "commute to work"
+  ],
+  "personalExample": "I go to work by subway, and it takes about 40 minutes.",
+  "notes": "go to work vs leave for work（对比）：leave for work 强调出发的时间点；go to work 强调整个上班过程（包含出发+通勤+到达）。\ngo to work vs get to work：get to work 强调到达（arrive at work）。\n注意：go to work 是固定短语，不加 the。",
+  "recallQuestions": [
+    "企鹅出门滑冰面、跳浮冰、买咖啡、刷卡进办公室的全部过程，对应哪个英文短语？",
+    "go to work 和 leave for work 有什么区别？各举一个例句。",
+    "用 On my way to work, I ... 这个句型造一句英文句子。"
+  ]
+}

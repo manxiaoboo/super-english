@@ -1,0 +1,28 @@
+{
+  "type": "word",
+  "id": "leave for work",
+  "meaning": "to depart from home to go to your workplace",
+  "pronunciation": "/liːv fɔːr wɜːrk/",
+  "partOfSpeech": "verb phrase",
+  "coreMeaning": "to depart from home to go to your workplace",
+  "coreImage": "背上包、开门、走出去——从家切换到工作的那个瞬间",
+  "chineseMeaning": "出发去上班",
+  "fable": "一只树懒每天早上都要上班，但它实在太慢了。它早上7点开始穿袜子，8点穿好左脚，9点穿好右脚。等它终于背上包走到门口，已经是下午3点了。同事打电话问：你人呢？树懒看了看夕阳说：我刚 leave for work。同事说：你来的时候我们就可以下班了。树懒说：没关系，至少我每天都有出发的勇气。",
+  "moral": "leave for work 强调的是离开现在的位置，前往工作地点这个出发动作，不关心路上花多久。",
+  "memoryHook": "leave（离开）+ for（前往）+ work（工作）= 离开当前地方，前往工作。和 go to work 的区别：go to work 强调去上班这个行为本身；leave for work 更强调出发离开这个时间点。",
+  "anchorSentence": "I leave for work at 8 o'clock every morning.",
+  "collocations": [
+    "leave for work at + time",
+    "leave for work early / late",
+    "before I leave for work",
+    "leave home for work",
+    "leave for the office"
+  ],
+  "personalExample": "I leave for work around 8:30 after I drop my kids off at school.",
+  "notes": "leave for work vs go to work：leave for work 强调出发离开这个时间点；go to work 强调去上班这个行为。\nleave work vs leave for work 完全不同：leave work = 下班离开公司；leave for work = 出发去上班。\nleave for + 地点是通用结构：leave for school、leave for the airport。",
+  "recallQuestions": [
+    "那只穿袜子穿了一上午、下午才出发的树懒，对应哪个英文短语？",
+    "leave for work 和 go to work 有什么区别？",
+    "用 I leave for work at ... 这个句型造一句关于你日常作息的英文句子。"
+  ]
+}

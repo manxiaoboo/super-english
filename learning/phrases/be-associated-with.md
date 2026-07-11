@@ -24,4 +24,5 @@ High stress levels are often associated with poor sleep and reduced productivity
 
 ## 复习记录
 
+- 2026-07-11：hard，漏了 be 和 -ed，给了 associate with。下次复习：2026-07-14。
 - 2026-07-09：首次学习。下次复习：2026-07-10。

@@ -70,5 +70,6 @@ This project uses AI to improve English learning efficiency.
 
 ## 复习记录
 
+- 2026-07-11：good，词义正确，句子 improve learning English efficiency 搭配不自然。下次复习：2026-07-18。
 - 2026-07-08：easy，Recalled quickly, meaning correct, sentence natural.。下次复习：2026-07-22。
 - 2026-07-08：首次学习。下次复习：2026-07-09。

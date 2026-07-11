@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "id": "indirect question word order",
+  "intention": "疑问句作名词从句时，从句内部不用倒装，保持陈述语序（主语 + 谓语）",
+  "meaning": "When a wh-question becomes a noun clause (indirect question), the word order changes from V+S to S+V — no inversion inside the clause.",
+  "usageContext": "核心规则：\n\n直接问句（倒装）：\nWhat is his job?\nWhere is the server?\nWhy did the build fail?\n\n间接从句（名词从句 + 陈述语序）：\n... what his job is\n... where the server is\n... why the build failed\n\n关键：疑问词 what/where/why/who/how 后面的部分永远是 主语 + 谓语 的陈述顺序，不要倒装。\n\n常见触发动词：know, find out, tell me, understand, see, ask, wonder, check, explain, decide",
+  "anchorSentence": "I need to find out what his job is. (不是 what is his job)",
+  "reviewQuestions": [
+    "直接问句 What is his job? 变成名词从句后语序是什么？为什么？",
+    "把下面这个直接问句改写成 find out 后面的名词从句：Where is the server?",
+    "用 I need to find out why... 造一句和你工作有关的句子。"
+  ]
+}

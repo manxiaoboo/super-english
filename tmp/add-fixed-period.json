@@ -1,0 +1,28 @@
+{
+  "type": "word",
+  "id": "a fixed period",
+  "meaning": "a specific, predetermined length of time",
+  "pronunciation": "/ə fɪkst ˈpɪriəd/",
+  "partOfSpeech": "noun phrase",
+  "coreMeaning": "a specific, predetermined length of time",
+  "coreImage": "日历上圈出了一个开始日期和一个结束日期——中间那段就是 fixed period",
+  "chineseMeaning": "固定期限；一段确定的时间",
+  "fable": "一只兔子去应聘仓库管理员，老板说：我们有两种合同。一种是 permanent，没有结束日期，干到退休。另一种是 a fixed period——比如三个月，合同上写着1月1日到3月31日，到期就结束。兔子想了想说：那我选 a fixed period，因为我知道什么时候可以计划去度假。三个月后合同到期，兔子拿着行李开心地去海边了。老板感叹：有些人怕固定期限太短，有些人却觉得正好。",
+  "moral": "a fixed period 强调有明确起止时间，和 permanent 刚好相反。",
+  "memoryHook": "fixed = 固定的（不变的）；period = 一段时间。a fixed period = 一段固定的时间。常见搭配：for a fixed period (of time) / a fixed-period contract。和 permanent（无固定期限）对比记忆。",
+  "anchorSentence": "The contract is for a fixed period of six months.",
+  "collocations": [
+    "for a fixed period",
+    "a fixed period of time",
+    "a fixed-period contract",
+    "over a fixed period",
+    "within a fixed period"
+  ],
+  "personalExample": "I started with a fixed-period contract of six months, and then they offered me a permanent job.",
+  "notes": "a fixed period vs a specific period：fixed = 固定不变的；specific = 特定的。\na fixed period vs a limited period：limited 强调有限的（可能不知道具体时长）；fixed 强调具体的、设定好的时长。\n和 permanent 的对比：fixed period 有明确结束日期；permanent 没有预设结束日期。",
+  "recallQuestions": [
+    "兔子选择了三个月到期的合同，因为知道什么时候可以度假——这对应哪个英文短语？",
+    "a fixed period 和 permanent 有什么区别？",
+    "用 The contract is for a fixed period of ... 这个句型造一句英文句子。"
+  ]
+}

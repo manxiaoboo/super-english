@@ -278,3 +278,42 @@
 - learned phrase `performance-based bonus`; next review: 2026-07-11
 - learned word `reward`; next review: 2026-07-11
 - learned word `role model`; next review: 2026-07-11
+
+## 2026-07-11
+
+- learned word `opposite`; next review: 2026-07-12
+- learned word `a fixed period`; next review: 2026-07-12
+- learned word `permanent job`; next review: 2026-07-12
+- learned word `whole`; next review: 2026-07-12
+- learned word `go to work`; next review: 2026-07-12
+- learned word `leave for work`; next review: 2026-07-12
+- learned word `in work`; next review: 2026-07-12
+- learned word `economy`; next review: 2026-07-12
+- learned word `manufacturing plants`; next review: 2026-07-12
+- learned word `coordination`; next review: 2026-07-12
+- learned word `responsible for`; next review: 2026-07-12
+- learned word `deal with`; next review: 2026-07-12
+- learned word `in charge of`; next review: 2026-07-12
+- learned grammar `indirect question word order`; next review: 2026-07-12
+- learned word `find out`; next review: 2026-07-12
+- reviewed grammar `probability expressions scale`: hard; next review: 2026-07-14
+
+- reviewed phrase `be associated with`: hard; next review: 2026-07-14
+
+- reviewed phrase `performance-based bonus`: hard; next review: 2026-07-14
+
+- reviewed chunk `have been forcibly modified`: hard; next review: 2026-07-14
+
+- reviewed chunk `give feedback on`: good; next review: 2026-07-18
+
+- reviewed chunk `adopt a new tool`: forgot; next review: 2026-07-12
+
+- reviewed word `realistic`: forgot; next review: 2026-07-12
+
+- reviewed word `efficiency`: good; next review: 2026-07-18
+
+- reviewed word `awareness`: hard; next review: 2026-07-14
+
+- reviewed word `luxurious`: hard; next review: 2026-07-14
+
+- updated word `expression`; next review: 2026-07-14

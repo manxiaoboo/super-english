@@ -51,4 +51,5 @@ realistic vs practical: practical focuses on operability; realistic focuses on w
 
 ## 复习记录
 
+- 2026-07-11：forgot，完全忘了。下次复习：2026-07-12。
 - 2026-07-10：首次学习。下次复习：2026-07-11。

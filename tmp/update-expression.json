@@ -1,0 +1,29 @@
+{
+  "type": "word",
+  "id": "expression",
+  "meaning": "something that shows or communicates an idea, feeling, or quality",
+  "pronunciation": "/ɪkˈspreʃən/",
+  "partOfSpeech": "noun",
+  "coreMeaning": "something that shows or communicates an idea, feeling, or quality",
+  "coreImage": "内在的东西被压出来，让别人看得到",
+  "chineseMeaning": "表达；体现；表现；表情",
+  "fable": "一座城堡把所有宝藏都藏在地下室里，外人路过只觉得是座普通石头楼。有一天城堡决定在楼顶建一座全透明的玻璃塔，把金杯、名画、丝绸全都搬进去展示。路过的人惊呼：原来城堡这么富有！城堡说：这玻璃塔就是我内心价值的 expression。",
+  "moral": "expression 不是东西本身，而是把内在的东西呈现出来让别人看到。",
+  "memoryHook": "ex-（向外）+ press（压）+ -ion（名词后缀）= 把心里的东西压出来给别人看。",
+  "anchorSentence": "A brand is the expression of essential characteristics and values of a product or service.",
+  "collocations": [
+    "the expression of core values",
+    "facial expression",
+    "an expression of interest",
+    "find expression in ...",
+    "beyond expression",
+    "a mere expression of ..."
+  ],
+  "personalExample": "Clean code is an expression of a developer's respect for their teammates.",
+  "notes": "expression vs impression：expression 是由内向外（表达/体现）；impression 是由外向内（印象）。\nexpression vs statement：statement 是明确的口头/书面陈述；expression 更广，可以是行为、设计、表情等。",
+  "recallQuestions": [
+    "城堡把宝藏从地下室搬到玻璃塔展示的画面，对应哪个英文单词？",
+    "expression 和 impression 的方向有什么不同？",
+    "用 find expression in 这个句型造一句和你工作有关的英文句子。"
+  ]
+}

@@ -39,4 +39,5 @@ She will probably be late. / She is likely to be late. / Maybe she will be late.
 
 ## 复习记录
 
+- 2026-07-11：hard，排序反了。下次复习：2026-07-14。
 - 2026-07-09：首次学习。下次复习：2026-07-10。

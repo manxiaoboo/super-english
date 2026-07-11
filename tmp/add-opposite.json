@@ -1,0 +1,29 @@
+{
+  "type": "word",
+  "id": "opposite",
+  "meaning": "completely different; facing; on the other side",
+  "pronunciation": "/ˈɑːpəzɪt/",
+  "partOfSpeech": "adjective / noun / preposition",
+  "coreMeaning": "completely different; facing; on the other side",
+  "coreImage": "面对面站着，中间隔一条线——你在最左，我在最右",
+  "chineseMeaning": "相反的；对面的；对立面",
+  "fable": "一只猫和一只狗住在街道两边的房子里，窗户正对着窗户。每天早上猫拉开窗帘，看到对面狗正在啃骨头。猫说：我吃鱼，你啃骨头——我们是 opposite 的。狗说：你白天睡觉我白天玩——我们也是 opposite 的。猫又说：你追尾巴我追老鼠——我们也是 opposite 的。狗说：但我俩有一个共同点。猫问：什么？狗说：我们都喜欢对着窗户看对面。猫笑了：那我们的 opposite 也有交集。",
+  "moral": "opposite 可以指完全相反的，也可以指对面的——同一个词的两个相关意思。",
+  "memoryHook": "op-（对着）+ pos（放置）+ -ite = 放在对着的位置 → 对面的/相反的。用面对面这个画面把两个意思串起来：对面的人，往往观点也相反。",
+  "anchorSentence": "Hot and cold are opposite temperatures.",
+  "collocations": [
+    "the opposite direction",
+    "the opposite side",
+    "the exact opposite",
+    "opposite to / from",
+    "just the opposite",
+    "opposite effect"
+  ],
+  "personalExample": "I thought the fix would solve the problem, but it had the opposite effect.",
+  "notes": "opposite vs contrary：contrary 更正式，常用于固定短语；opposite 更日常。\nopposite vs reverse：reverse = 颠倒/反转（reverse order）；opposite = 相反（opposite direction）。\nopposite 的介词搭配：opposite to 或 opposite from 都可以。\nopposite 作介词时可以直接不加 to：The bank is opposite the supermarket.\n注意发音：/ˈɑːpəzɪt/，不是 /ˈɒpəsaɪt/。",
+  "recallQuestions": [
+    "街道两边窗户对窗户的猫和狗——它们的关系对应哪个英文单词？",
+    "opposite 作形容词和作介词时分别什么意思？举一个例子。",
+    "用 ... had the opposite effect 这个句型造一句和代码/工作有关的英文句子。"
+  ]
+}

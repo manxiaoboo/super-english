@@ -1,0 +1,28 @@
+{
+  "type": "word",
+  "id": "in work",
+  "meaning": "having a job; employed",
+  "pronunciation": "/ɪn wɜːrk/",
+  "partOfSpeech": "phrase / adjective phrase",
+  "coreMeaning": "having a job; employed",
+  "coreImage": "你站在有工作的圈里面——门外的叫 out of work",
+  "chineseMeaning": "有工作的；在职的（英式用法）",
+  "fable": "一座小镇有两扇门，一扇写着 in work，一扇写着 out of work。每天早上，人们排队站到对应的门里面。站 out of work 那边的人越来越多，愁眉苦脸。有一天，一个年轻人从 out of work 那边走出来，走进 in work 的门，对里面的人说：我找到工作了！in work 这边的人欢呼着把他拉进来。镇长说：in work 这扇门不是天生的——你得自己走进来。",
+  "moral": "in work 不是状态标签，而是有工作、在就业中的意思，和 out of work（失业）相对。",
+  "memoryHook": "in（在……里面）+ work（工作）= 在就业状态里。和 at work 的区别：at work 强调在工作场所/正在工作；in work 强调有工作/在职这个状态。反义词：out of work（失业的）。",
+  "anchorSentence": "More people are in work now than five years ago.",
+  "collocations": [
+    "be in work",
+    "people in work",
+    "stay in work",
+    "get back into work",
+    "those in work vs those out of work"
+  ],
+  "personalExample": "The government's new policy aims to help more people get back into work.",
+  "notes": "in work vs at work：in work = 有工作/在职（就业状态）；at work = 在工作场所/正在工作。\n注意：这是英式英语用法。美式英语更常用 employed 或 working。\n反义词：out of work（失业的），比 unemployed 更口语化。",
+  "recallQuestions": [
+    "小镇上两扇门——in work 和 out of work——分别代表什么状态？",
+    "in work 和 at work 有什么区别？",
+    "用 More people are in work now than ... 这个句型造一句英文句子。"
+  ]
+}

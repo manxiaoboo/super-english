@@ -1,0 +1,28 @@
+{
+  "type": "word",
+  "id": "find out",
+  "meaning": "to discover information by searching, asking, or investigating",
+  "pronunciation": "/faɪnd aʊt/",
+  "partOfSpeech": "phrasal verb",
+  "coreMeaning": "to discover information by searching, asking, or investigating",
+  "coreImage": "主动去挖出不知道的信息",
+  "chineseMeaning": "查明；发现；弄清楚",
+  "fable": "一只地鼠听说森林里埋着一颗金色橡果，但没人知道在哪里。别的动物说：可能不存在啦。地鼠不说话，每天挖三条隧道。兔子问：你在干嘛？地鼠边挖边说：大家等着猜，我选择 find out。第七天，它在树根下一米处碰到了那颗金色橡果。",
+  "moral": "find out 不是等答案出现，而是主动去发现和查明。",
+  "memoryHook": "find（找）+ out（出来）= 把信息找出来。和 look up 的区别：look up 是查已知来源（词典/网站）；find out 是通过询问、调查、实验来发现。",
+  "anchorSentence": "I need to find out what time the meeting starts.",
+  "collocations": [
+    "find out what happened",
+    "find out why the build failed",
+    "find out whether the change is safe",
+    "find out about the new policy",
+    "find out the hard way"
+  ],
+  "personalExample": "I ran the tests to find out why the deployment failed.",
+  "notes": "find vs find out：find 是找到（物理上或偶然发现）；find out 是查明（通过主动获取信息）。\nfind out vs figure out：find out 偏获取信息；figure out 偏思考后理解或解决。\nfind out vs look up：look up 查参考资料（词典、文档）；find out 范围更广，包括问人、做实验等。\n注意：find out 后不用 that 引导的从句作简单宾语时，通常接疑问词或 about。",
+  "recallQuestions": [
+    "那只不听别人说可能不存在、每天挖隧道去找金色橡果的地鼠，对应哪个英文短语？",
+    "find out 和 figure out 有什么区别？",
+    "用 I need to find out why... 这个句型造一句和你工作有关的英文句子。"
+  ]
+}

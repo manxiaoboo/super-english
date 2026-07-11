@@ -1,0 +1,29 @@
+{
+  "type": "word",
+  "id": "whole",
+  "meaning": "entire; complete; all of something",
+  "pronunciation": "/hoʊl/",
+  "partOfSpeech": "adjective / noun",
+  "coreMeaning": "entire; complete; all of something",
+  "coreImage": "一个完整的圆，没有被切掉任何一块",
+  "chineseMeaning": "整个的；全部的；完整的",
+  "fable": "一只猫买了一个巨大的披萨，准备一个人吃完。第一分钟它吃了一片，第二分钟又吃了一片……吃到第六片的时候，它看着剩下的披萨说：我已经吃不下了。这时一只老鼠路过问：我能吃剩下的吗？猫说：可以。老鼠把剩下的六片拼回一个完整的圆形，说：你看，虽然被你咬了六口，但它还是一个 whole 披萨。猫说：不对，那是剩下的。whole 的意思是还没有被分开过。老鼠说：好吧，那你一开始的那个才叫 whole。",
+  "moral": "whole 强调完整的整体，没有被分割。剩下再拼回去的叫 reassembled，不是 whole。",
+  "memoryHook": "whole 和 hole 发音一样 /hoʊl/，但意思完全不同——whole = 完整的整体；hole = 洞/缺口。注意拼写：whole（wh-开头）和 hole（h-开头）。",
+  "anchorSentence": "I spent the whole day debugging a single issue.",
+  "collocations": [
+    "the whole day / week / year",
+    "the whole team",
+    "the whole project",
+    "the whole thing",
+    "as a whole",
+    "the whole point"
+  ],
+  "personalExample": "I spent the whole afternoon refactoring the authentication module.",
+  "notes": "whole vs all：whole 强调完整的整体；all 强调每一个个体。位置不同：the whole + 名词；all + the + 名词。\nwhole vs every：every 只能修饰单数可数名词；whole 可以修饰单数名词。\nwhole vs entire：基本同义，entire 更正式。\n注意冠词：whole 前面通常要有 the 或 a（the whole team / a whole week）。",
+  "recallQuestions": [
+    "猫吃了一大半的披萨，老鼠把剩下的拼回去——这个披萨还能叫 whole 吗？为什么？",
+    "the whole team 和 all the team members 有什么区别？",
+    "用 I spent the whole ... doing ... 这个句型造一句英文句子。"
+  ]
+}

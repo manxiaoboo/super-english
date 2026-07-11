@@ -54,6 +54,7 @@ Keeping a study log improves my awareness of repeated mistakes.
 
 ## 复习记录
 
+- 2026-07-11：hard，词义偏了，句子有 the awareness of 的冠词问题。下次复习：2026-07-14。
 - 2026-07-08：hard，Recalled the word and meaning, but sentence needed noun-vs-verb and pattern correction.。下次复习：2026-07-11。
 - 2026-07-08：hard，Recalled the word and meaning, but sentence production needed collocation and wording correction.。下次复习：2026-07-11。
 - 2026-07-07：forgot，Could not recall the word from the image.。下次复习：2026-07-08。

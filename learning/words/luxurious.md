@@ -52,5 +52,6 @@ luxury 通常是名词，表示奢侈或奢华享受；luxurious 是形容词，
 
 ## 复习记录
 
+- 2026-07-11：hard，拼写成了 luxuriouse，句子有拼写错误。下次复习：2026-07-14。
 - 2026-07-07：hard，Recalled meaning, but sentence had tense, number, and sentence-structure issues.。下次复习：2026-07-10。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

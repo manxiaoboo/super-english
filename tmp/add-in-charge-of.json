@@ -1,0 +1,27 @@
+{
+  "type": "word",
+  "id": "in charge of",
+  "meaning": "responsible for something or someone; having control or authority over",
+  "pronunciation": "/ɪn tʃɑːrdʒ əv/",
+  "partOfSpeech": "prepositional phrase",
+  "coreMeaning": "responsible for something or someone; having control or authority over",
+  "coreImage": "手里握着指挥棒，站在某个任务或团队的正中央",
+  "chineseMeaning": "负责；主管；掌管",
+  "fable": "一家餐厅的后厨乱成一锅粥——厨师切菜切到手指，传菜员迷路走进仓库，洗碗机喷出一地泡沫。老板大喊：谁能管管这里？一只戴着厨师帽的章鱼从冰箱后面走出来，八只手同时抓起八个锅铲，边炒菜边指挥：你切菜、你传菜、你擦地——一个一个来！所有员工都愣住了。老板感动地说：终于有人 in charge of 这个厨房了。",
+  "moral": "in charge of 不是帮忙，而是对这件事有决定权和最终责任。",
+  "memoryHook": "charge 有负责/掌管的意思。in charge of = 处在负责这个任务的状态中。比 responsible for 更强调有管理权和指挥权。",
+  "anchorSentence": "Who is in charge of this project?",
+  "collocations": [
+    "be in charge of the project",
+    "the team lead in charge of development",
+    "put me in charge of testing",
+    "who is in charge of deployment"
+  ],
+  "personalExample": "I am in charge of reviewing code before every release.",
+  "notes": "in charge of vs responsible for：in charge of 强调管理和指挥权；responsible for 范围更广，包括对结果负责，不一定有管理权。\nin charge of vs take charge of：in charge of 是状态（正在负责）；take charge of 是动作（主动接管）。\n注意：in charge of 后面接名词或动名词，不接 that 从句。",
+  "recallQuestions": [
+    "后厨乱成一锅粥时，那只戴着厨师帽、八只手抓起八个锅铲指挥全场的章鱼，对应哪个英文短语？",
+    "in charge of 和 responsible for 有什么区别？",
+    "用 I am in charge of ... 这个句型造一句和你工作有关的英文句子。"
+  ]
+}

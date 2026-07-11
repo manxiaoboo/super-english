@@ -1,0 +1,29 @@
+{
+  "type": "word",
+  "id": "coordination",
+  "meaning": "the ability to organize people or things so that they work together well",
+  "pronunciation": "/koʊˌɔːrdɪˈneɪʃən/",
+  "partOfSpeech": "noun (uncountable)",
+  "coreMeaning": "the ability to organize people or things so that they work together well",
+  "coreImage": "每个人各吹各的号，你先让他们看同一张乐谱，然后一起演奏",
+  "chineseMeaning": "协调；配合；协作",
+  "fable": "十只企鹅决定一起造一艘木船。第一只锯木头，第二只钉钉子，第三只刷油漆……但它们各干各的，锯木头的把木板锯成了三角形，钉钉子的把钉子钉在了船底外侧，刷油漆的刷完才发现刷的是船的内壁。太阳下山了，船还是一堆烂木板。这时一只老企鹅走过来，拿出一张图纸，说：你锯这块、你钉这里、你刷外面——按顺序来。第二天傍晚，一艘完整的木船下水了。小企鹅问：为什么昨天不行，今天就行？老企鹅说：因为昨天只有动作，今天有了 coordination。",
+  "moral": "coordination 不是每个人更努力，而是每个人做对的事、在合适的顺序里配合。",
+  "memoryHook": "co-（共同）+ ordin（顺序/排列）+ -ation（名词后缀）= 让所有人排到同一个顺序里 → 协调。和 cooperation 的区别：cooperation 是愿意配合；coordination 是被组织起来正确配合。",
+  "anchorSentence": "Good coordination between teams is essential for a successful release.",
+  "collocations": [
+    "team coordination",
+    "project coordination",
+    "lack of coordination",
+    "improve coordination",
+    "coordination between departments",
+    "coordination skills"
+  ],
+  "personalExample": "Smooth deployment requires close coordination between the development and operations teams.",
+  "notes": "coordination vs cooperation：cooperation 是愿意配合的态度；coordination 是被有效组织、正确配合的过程。\ncoordination vs collaboration：collaboration 是一起合作创作/解决问题；coordination 是安排各自的工作使不冲突。\n动词形式：coordinate — to organize people or things to work together.",
+  "recallQuestions": [
+    "十只各自为政造不出船的企鹅，和老企鹅拿出图纸后一天就造好了船，这个差别对应哪个英文单词？",
+    "coordination 和 cooperation 有什么区别？",
+    "用 Good coordination between ... and ... is essential for ... 这个句型造一句和工作有关的英文句子。"
+  ]
+}

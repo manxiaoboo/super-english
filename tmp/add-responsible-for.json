@@ -1,0 +1,29 @@
+{
+  "type": "word",
+  "id": "responsible for",
+  "meaning": "having a duty to take care of something or being the cause of something",
+  "pronunciation": "/rɪˈspɑːnsəbəl fɔːr/",
+  "partOfSpeech": "adjective phrase",
+  "coreMeaning": "having a duty to take care of something or being the cause of something",
+  "coreImage": "责任像一根绳子绑在你和那件事之间——出了事第一个被拉到的就是你",
+  "chineseMeaning": "对……负责；是……的原因",
+  "fable": "一艘潜水艇的警报突然响了——船舱漏水。船长把五个船员叫来，指着漏水口说：谁负责修这个？四个船员同时后退一步，指向第五个。船长问第五个：你叫什么名字？他说：我叫 responsible for。船长说：好，responsible for，去修。整个航程中，所有漏水口、故障、迷路，船长都喊 responsible for 去解决。最后船员抱怨：为什么每次都是你？他叹气说：因为无论好事坏事，只要和我有关，我就是 responsible for。",
+  "moral": "responsible for 不一定是主管，而是这件事出了问题，你应该负责/你是原因。",
+  "memoryHook": "response（回应）+ -ible（能够……的）= 能够回应的 → 对这件事有责任回应/处理。和 in charge of 的区别：in charge of 强调管理权；responsible for 范围更广，可以是原因是……或我有义务做……。",
+  "anchorSentence": "I am responsible for reviewing code before every release.",
+  "collocations": [
+    "be responsible for code review",
+    "responsible for the bug / issue / failure",
+    "hold someone responsible for",
+    "partly responsible for",
+    "directly responsible for",
+    "who is responsible for this feature?"
+  ],
+  "personalExample": "I am responsible for reviewing pull requests in my team.",
+  "notes": "responsible for vs in charge of（趁热对比）：in charge of 强调有管理权和指挥权；responsible for 强调有责任/是原因，不一定要管人。\nresponsible for vs accountable to：responsible for + 任务/结果；accountable to + 人（向谁负责）。\n注意：responsible for 后接名词或动名词，不接动词原形。",
+  "recallQuestions": [
+    "那艘潜水艇上所有故障都被叫去解决的船员，对应哪个英文短语？",
+    "responsible for 和 in charge of 有什么区别？",
+    "用 I am responsible for ... 这个句型造一句和你工作有关的英文句子。"
+  ]
+}
