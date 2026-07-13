@@ -5,13 +5,13 @@
 | mixed-language | 1 | 2026-07-06 | 句子中保留了中文词语：效率、系统性的。 | 把核心概念先替换成固定英文表达，如 efficiency 和 systematically。 |
 | word-order | 4 | 2026-07-09 | 'tomorrow right here' → 'right here tomorrow'; English adverb order: place comes before time | Remember: place → time. 'I'll see you right here tomorrow' / 'Meet me downstairs at 3pm' |
 | incomplete-sentence | 10 | 2026-07-08 | is it can ... 不自然，这里更完整的是 is that it can ...。 | 把 is that it can ... 当成一个小骨架整体记住。 |
-| natural-collocation | 24 | 2026-07-09 | 'mind system' is a direct Chinese translation and not a natural English phrase; say 'review system', 'learning system', or 'mental framework' | When tempted to say 'mind system', think: what type of system is it? → review system / learning system / planning system |
+| natural-collocation | 31 | 2026-07-13 | 'the key point in a whole sentence' → 'key points in complex sentences'; plural is more natural, 'a whole sentence' is odd in this context |  |
 | spelling | 15 | 2026-07-08 | approch 拼写错误，应为 approach。 | approach = ap-proach，注意中间是 -proach。 |
-| article-usage | 20 | 2026-07-09 | 'the mind system' → 'a review system'; use 'a' when introducing something not yet established or first mentioned | Use 'a' for something being set up for the first time; 'the' for something already known/established |
-| word-choice | 20 | 2026-07-09 | 'common server' → 'shared server'; 'common' can mean ordinary/frequent; for something used by multiple people, say 'shared' | shared server / shared drive / shared resource — use 'shared' for things multiple people use together |
-| noun-number | 9 | 2026-07-09 | 'from user' → 'from users'; when referring to a group of users in general, always use plural | users (plural), customers, employees — group nouns are almost always plural when no article is used |
+| article-usage | 22 | 2026-07-13 | 'a stretching' → 'some stretching'; stretching as an activity is uncountable. A single movement = 'a stretch'. |  |
+| word-choice | 22 | 2026-07-13 | 'throuth' → 'through' (spelling typo) |  |
+| noun-number | 10 | 2026-07-13 | 'has been' + plural noun 'customers' is structurally wrong; 'has been a loyal customer' (singular) or 'has had loyal customers' |  |
 | literal-translation | 2 | 2026-07-06 | brands are verified by peoples in so many years 很像直译。 | 改写成 have been tested over many years 或 have proven their value over time。 |
-| verb-tense | 5 | 2026-07-09 | 'the company adopt' → 'the company adopted'; when-clause referring to a past event requires past tense | When describing a past trigger/event in a when-clause, use simple past: 'when they adopted / launched / introduced' |
+| verb-tense | 6 | 2026-07-13 | 'give' → 'gave' or use 'praised me' directly |  |
 | subject-verb-agreement | 4 | 2026-07-09 | 'the company require' → 'the company requires'; singular noun subject needs -s on the verb | The company / the team / the manager + requires / decides / expects — always add -s |
 | preposition-choice | 4 | 2026-07-09 | 'resistance of change' → 'resistance to change'; the fixed collocation is always 'resistance TO', never 'resistance OF' | Drill the full chunk as a unit: resistance TO change — the preposition is part of the chunk |
 | sentence-pattern | 10 | 2026-07-08 | need 后面要接不定式 to + 动词，不能直接跟动词原形：I need to put，不是 I need put。 | 把 need to do 当成一个固定骨架整体记住。 |

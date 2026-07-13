@@ -1,0 +1,11 @@
+{
+  "date": "2026-07-13",
+  "userText": "The teamleader give praise to me because performance is well.",
+  "corrected": "My team leader praised me for my strong performance.",
+  "issues": [
+    { "category": "verb-tense", "note": "'give' → 'gave' or use 'praised me' directly" },
+    { "category": "natural-collocation", "note": "'give praise to me' → 'praised me' or 'gave me praise for'; 'praise sb for sth' is the natural pattern" },
+    { "category": "natural-collocation", "note": "'performance is well' → 'my performance was good/strong'; 'well' is an adverb and cannot modify a noun; also missing possessive 'my'" }
+  ],
+  "suggestions": "Use 'praised me for my [adjective] performance'. Avoid 'give praise to me' — say 'praised me'. 'Well' modifies verbs; for nouns use 'good' or 'strong'."
+}

@@ -1,0 +1,18 @@
+{
+  "type": "chunk",
+  "id": "praised-me-for-my",
+  "intention": "上司/老师表扬我某方面的表现",
+  "naturalChunk": "praised me for my ___",
+  "avoidSaying": "give praise to me because performance is well",
+  "sentencePatterns": [
+    "My [manager/teacher] praised me for my ___ performance.",
+    "[Someone] praised me for [doing sth]."
+  ],
+  "realLifeExamples": [
+    "My team leader praised me for my strong performance in the last sprint.",
+    "The teacher praised her for her clear explanation."
+  ],
+  "productionPrompts": [
+    "你怎么描述被人表扬？用 praised me for my ___ 说出来。"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "date": "2026-07-13",
+  "userText": "My opinion on learn English is the phrasis is most important.",
+  "corrected": "In my opinion, phrases are the most important part of learning English.",
+  "issues": [
+    { "category": "word-choice", "note": "phrasis → phrases (spelling error)" },
+    { "category": "natural-collocation", "note": "'My opinion on learn English is...' is unnatural; use 'In my opinion, ...'" },
+    { "category": "article-usage", "note": "missing 'the' before 'most important'" }
+  ],
+  "suggestions": "Use 'In my opinion, ...' as a sentence starter. After a preposition, use the -ing form. 'The most important' always needs 'the'."
+}

@@ -1,0 +1,18 @@
+{
+  "type": "chunk",
+  "id": "a-long-day-at-work",
+  "intention": "漫长的工作日，形容工作了很久很累",
+  "naturalChunk": "a long day at work",
+  "avoidSaying": "the long time work",
+  "sentencePatterns": [
+    "I need some ___ after a long day at work.",
+    "After a long day at work, I usually ___."
+  ],
+  "realLifeExamples": [
+    "I need some stretching after a long day at work.",
+    "After a long day at work, I usually take a short walk to clear my head."
+  ],
+  "productionPrompts": [
+    "你怎么形容工作了很长时间很累？用 a long day at work 说出来。"
+  ]
+}

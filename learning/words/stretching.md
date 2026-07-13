@@ -54,5 +54,6 @@ I do some stretching before I sit down to study English.
 
 ## 复习记录
 
+- 2026-07-13：good，recalled correctly; article: a stretching → some stretching; collocation: the long time work → a long day at work。下次复习：2026-07-20。
 - 2026-07-07：hard，Recalled meaning, but sentence used stretching with an unnatural pattern.。下次复习：2026-07-10。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

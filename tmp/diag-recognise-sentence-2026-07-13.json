@@ -1,0 +1,11 @@
+{
+  "date": "2026-07-13",
+  "userText": "I can recognize the key point in a whole sentence throuth learning English hard.",
+  "corrected": "By studying English hard, I can now recognize key points in complex sentences.",
+  "issues": [
+    { "category": "word-choice", "note": "'throuth' → 'through' (spelling typo)" },
+    { "category": "natural-collocation", "note": "'learning English hard' is unnatural; say 'studying English hard' or 'through hard study'" },
+    { "category": "natural-collocation", "note": "'the key point in a whole sentence' → 'key points in complex sentences'; plural is more natural, 'a whole sentence' is odd in this context" }
+  ],
+  "suggestions": "Use 'By studying ___ hard, I can now...' as a pattern. Prefer plural 'key points' when speaking generally."
+}

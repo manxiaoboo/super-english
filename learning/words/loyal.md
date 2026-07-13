@@ -54,5 +54,6 @@ Good learners stay loyal to their review routine.
 
 ## 复习记录
 
+- 2026-07-13：hard，recalled word; sentence: subject-object role confused, CASIO cannot be loyal customers。下次复习：2026-07-16。
 - 2026-07-07：hard，Recalled meaning, but sentence had preposition and spelling problems.。下次复习：2026-07-10。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

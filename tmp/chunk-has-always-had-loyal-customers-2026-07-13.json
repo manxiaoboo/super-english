@@ -1,0 +1,18 @@
+{
+  "type": "chunk",
+  "id": "has-always-had-loyal-customers",
+  "intention": "某品牌/公司一直拥有忠诚的顾客群",
+  "naturalChunk": "___ has always had loyal customers",
+  "avoidSaying": "___ has always been loyal customers",
+  "sentencePatterns": [
+    "___ has always had loyal customers because ___.",
+    "I have always been a loyal ___ customer."
+  ],
+  "realLifeExamples": [
+    "CASIO has always had loyal customers because of its reliable and affordable designs.",
+    "I have always been a loyal Apple customer."
+  ],
+  "productionPrompts": [
+    "你怎么描述一个品牌拥有忠实用户？用 has always had loyal customers 说出来。"
+  ]
+}

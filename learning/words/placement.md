@@ -54,6 +54,7 @@ Good placement of study time helps me learn more efficiently.
 
 ## 复习记录
 
+- 2026-07-13：good，recalled correctly, used scaffold well; minor: in right department → in the right department。下次复习：2026-07-20。
 - 2026-07-08：hard，Recalled the word and meaning, but sentence production needed article and sentence-pattern correction.。下次复习：2026-07-11。
 - 2026-07-07：forgot，Could not recall the word from the image.。下次复习：2026-07-08。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

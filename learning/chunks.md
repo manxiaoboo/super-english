@@ -55,3 +55,8 @@
 | give feedback on | 就某事给出反馈或评价 | Can you give me feedback on ...? | reviewing | 2026-07-09 | 2026-07-18 | 1 | good |
 | styles were forcibly overridden | 样式被强制覆盖了（前端/CSS 场景） | The [element] styles were forcibly overridden by [something]. | new | 2026-07-10 | 2026-07-11 | 0 | learned |
 | have been forcibly modified | 某东西被强制修改了（通用技术场景） | [Something] have been forcibly modified without [authorization / notice]. | reviewing | 2026-07-10 | 2026-07-14 | 1 | hard |
+| work-hard-to-build-my | 努力做某事（持续付出努力去提升或建立某项能力） | I'm working hard to build my ___. | new | 2026-07-13 | 2026-07-14 | 0 | learned |
+| has-always-had-loyal-customers | 某品牌/公司一直拥有忠诚的顾客群 | ___ has always had loyal customers because ___. | new | 2026-07-13 | 2026-07-14 | 0 | learned |
+| a-long-day-at-work | 漫长的工作日，形容工作了很久很累 | I need some ___ after a long day at work. | new | 2026-07-13 | 2026-07-14 | 0 | learned |
+| praised-me-for-my | 上司/老师表扬我某方面的表现 | My [manager/teacher] praised me for my ___ performance. | new | 2026-07-13 | 2026-07-14 | 0 | learned |
+| by-studying-hard-i-can-now | 通过努力学习，现在我能做到某事了 | By studying ___ hard, I can now ___. | new | 2026-07-13 | 2026-07-14 | 0 | learned |

@@ -1,0 +1,18 @@
+{
+  "type": "chunk",
+  "id": "work-hard-to-build-my",
+  "intention": "努力做某事（持续付出努力去提升或建立某项能力）",
+  "naturalChunk": "work hard to build my ___",
+  "avoidSaying": "build my ___ very hard",
+  "sentencePatterns": [
+    "I'm working hard to build my ___.",
+    "She's been working hard to build her ___ in ___."
+  ],
+  "realLifeExamples": [
+    "I'm working hard to build my vocabulary.",
+    "He's working hard to build his reputation as a reliable engineer."
+  ],
+  "productionPrompts": [
+    "你怎么描述自己在努力提升某项能力？用 work hard to build 说出来。"
+  ]
+}

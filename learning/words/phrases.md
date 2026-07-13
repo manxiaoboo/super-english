@@ -61,5 +61,6 @@ sentence: I look after my little brother.
 
 ## 复习记录
 
+- 2026-07-13：hard，spelling: phrasis; preposition+gerund missing; article: the most important。下次复习：2026-07-16。
 - 2026-07-07：hard，Recalled meaning, but sentence had collocation, spelling, and number issues.。下次复习：2026-07-10。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

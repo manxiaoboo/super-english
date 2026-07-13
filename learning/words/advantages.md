@@ -54,6 +54,7 @@ One of the advantages of AI study tools is instant feedback.
 
 ## 复习记录
 
+- 2026-07-13：good，used scaffold well; missing 'that' after 'is': is it → is that it; typo: on of → one of; 'build up confidence' chunk used naturally。下次复习：2026-07-20。
 - 2026-07-08：hard，Recalled the word and meaning during extra review, but sentence production still needed gerund, clause, and collocation correction.。下次复习：2026-07-11。
 - 2026-07-08：hard，Recalled the word and meaning, but sentence production needed gerund, clause completion, and collocation correction.。下次复习：2026-07-11。
 - 2026-07-07：forgot，Could not fully recall the word from the image.。下次复习：2026-07-08。

@@ -1494,3 +1494,83 @@ I think we need to raise awareness of elderly people's health.
   建议：When talking about a group, say 'older people' or 'the elderly', never just 'older'
 - word-choice：'healthy' (adjective) used after preposition 'of' — should be noun 'health'
   建议：After 'of', use a noun. Remember: health/healthy, safety/safe, success/successful
+
+## 2026-07-13
+
+### production: free-practice
+
+- 时间：2026-07-13
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+I can recognize the key point in a whole sentence throuth learning English hard.
+
+#### 诊断问题
+
+- word-choice：'throuth' → 'through' (spelling typo)
+- natural-collocation：'learning English hard' is unnatural; say 'studying English hard' or 'through hard study'
+- natural-collocation：'the key point in a whole sentence' → 'key points in complex sentences'; plural is more natural, 'a whole sentence' is odd in this context
+
+### production: free-practice
+
+- 时间：2026-07-13
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+The teamleader give praise to me because performance is well.
+
+#### 诊断问题
+
+- verb-tense：'give' → 'gave' or use 'praised me' directly
+- natural-collocation：'give praise to me' → 'praised me' or 'gave me praise for'; 'praise sb for sth' is the natural pattern
+- natural-collocation：'performance is well' → 'my performance was good/strong'; 'well' is an adverb and cannot modify a noun; also missing possessive 'my'
+
+### production: free-practice
+
+- 时间：2026-07-13
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+I need a stretching after the long time work.
+
+#### 诊断问题
+
+- article-usage：'a stretching' → 'some stretching'; stretching as an activity is uncountable. A single movement = 'a stretch'.
+- natural-collocation：'the long time work' is unnatural; correct expression is 'a long day at work'
+
+### production: free-practice
+
+- 时间：2026-07-13
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+CASIO has always been loyal customers.
+
+#### 诊断问题
+
+- natural-collocation：subject-object role confusion: CASIO (brand) cannot 'be' customers; use 'has had loyal customers' or reframe the subject
+- noun-number：'has been' + plural noun 'customers' is structurally wrong; 'has been a loyal customer' (singular) or 'has had loyal customers'
+
+### production: free-practice
+
+- 时间：2026-07-13
+- 场景：review-or-production
+- 评分：unspecified
+
+#### 用户原句
+
+My opinion on learn English is the phrasis is most important.
+
+#### 诊断问题
+
+- word-choice：phrasis → phrases (spelling error)
+- natural-collocation：'My opinion on learn English is...' is unnatural; use 'In my opinion, ...'
+- article-usage：missing 'the' before 'most important'

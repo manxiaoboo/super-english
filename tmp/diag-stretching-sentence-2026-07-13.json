@@ -1,0 +1,10 @@
+{
+  "date": "2026-07-13",
+  "userText": "I need a stretching after the long time work.",
+  "corrected": "I need some stretching after a long day at work.",
+  "issues": [
+    { "category": "article-usage", "note": "'a stretching' → 'some stretching'; stretching as an activity is uncountable. A single movement = 'a stretch'." },
+    { "category": "natural-collocation", "note": "'the long time work' is unnatural; correct expression is 'a long day at work'" }
+  ],
+  "suggestions": "For activity nouns like stretching/running/reading, use 'some' not 'a'. For 'after working a long time', say 'after a long day at work'."
+}

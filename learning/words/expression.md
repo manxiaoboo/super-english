@@ -69,5 +69,6 @@ Clean code is an expression of a developer's respect for their teammates.
 
 ## 复习记录
 
+- 2026-07-13：hard，recalled word and ex-/im- direction; forgot chunk: find expression in。下次复习：2026-07-16。
 - 2026-07-07：hard，Recalled meaning, but sentence structure with expression of was weak.。下次复习：2026-07-10。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

@@ -317,3 +317,30 @@
 - reviewed word `luxurious`: hard; next review: 2026-07-14
 
 - updated word `expression`; next review: 2026-07-14
+
+## 2026-07-13
+
+- reviewed word `recognises`: good; next review: 2026-07-20
+
+- learned chunk `by-studying-hard-i-can-now`; next review: 2026-07-14
+- reviewed word `advantages`: good; next review: 2026-07-20
+
+- reviewed word `endorsement`: forgot; next review: 2026-07-14
+
+- learned chunk `praised-me-for-my`; next review: 2026-07-14
+- reviewed word `placement`: good; next review: 2026-07-20
+
+- reviewed word `stretching`: good; next review: 2026-07-20
+
+- learned chunk `a-long-day-at-work`; next review: 2026-07-14
+- reviewed word `expression`: hard; next review: 2026-07-16
+
+- reviewed word `loyal`: hard; next review: 2026-07-16
+
+- learned chunk `has-always-had-loyal-customers`; next review: 2026-07-14
+- reviewed word `timeless`: good; next review: 2026-07-20
+
+- reviewed word `phrases`: hard; next review: 2026-07-16
+
+- learned chunk `work-hard-to-build-my`; next review: 2026-07-14
+- reviewed word `vocabulary`: good; next review: 2026-07-20

@@ -1,0 +1,18 @@
+{
+  "type": "chunk",
+  "id": "by-studying-hard-i-can-now",
+  "intention": "通过努力学习，现在我能做到某事了",
+  "naturalChunk": "By studying ___ hard, I can now ___",
+  "avoidSaying": "learning ___ hard, I can ___",
+  "sentencePatterns": [
+    "By studying ___ hard, I can now ___.",
+    "Through hard study, I've started to ___."
+  ],
+  "realLifeExamples": [
+    "By studying English hard, I can now recognize key points in complex sentences.",
+    "By studying data structures hard, I can now solve most algorithm problems."
+  ],
+  "productionPrompts": [
+    "你怎么描述通过努力学习某件事，现在有了进步？用 By studying ___ hard, I can now 说出来。"
+  ]
+}

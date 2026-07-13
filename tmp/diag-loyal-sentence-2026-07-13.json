@@ -1,0 +1,10 @@
+{
+  "date": "2026-07-13",
+  "userText": "CASIO has always been loyal customers.",
+  "corrected": "CASIO has always had loyal customers. / I have always been a loyal CASIO customer.",
+  "issues": [
+    { "category": "natural-collocation", "note": "subject-object role confusion: CASIO (brand) cannot 'be' customers; use 'has had loyal customers' or reframe the subject" },
+    { "category": "noun-number", "note": "'has been' + plural noun 'customers' is structurally wrong; 'has been a loyal customer' (singular) or 'has had loyal customers'" }
+  ],
+  "suggestions": "Clarify who is loyal to whom. 'CASIO has always had loyal customers' or 'I have always been a loyal CASIO customer.'"
+}
