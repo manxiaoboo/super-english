@@ -1,0 +1,17 @@
+{
+  "type": "chunk",
+  "id": "start-your-adaptation-work-in-advance",
+  "intention": "提前开始适配工作",
+  "naturalChunk": "start your adaptation work in advance",
+  "avoidSaying": "to doing adoption work in advance",
+  "sentencePatterns": [
+    "You can refer to [sth] and start your adaptation work in advance.",
+    "We're sharing this early so you can start your adaptation work ahead of time."
+  ],
+  "realLifeExamples": [
+    "We've shared the package.json so you can refer to it and start your adaptation work in advance.",
+    "Here's the migration guide — feel free to start your adaptation work early."
+  ],
+  "usageNotes": "adaptation work = adjusting/modifying code to be compatible; adoption = deciding to use something new. After 'to' (infinitive), use base form, not -ing.",
+  "productionPrompts": "你想让团队提前开始适配新版本，怎么说？"
+}

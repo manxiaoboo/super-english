@@ -344,3 +344,14 @@
 
 - learned chunk `work-hard-to-build-my`; next review: 2026-07-14
 - reviewed word `vocabulary`: good; next review: 2026-07-20
+
+## 2026-07-14
+
+- learned chunk `start-your-adaptation-work-in-advance`; next review: 2026-07-15
+- learned phrase `the final`; next review: 2026-07-15
+- learned chunk `complete-the-final-upgrade`; next review: 2026-07-15
+- learned chunk `share-sth-with-team-in-advance`; next review: 2026-07-15
+- reviewed word `luxurious`: good; next review: 2026-07-21
+
+- learned chunk `learn-more-effectively-by-doing`; next review: 2026-07-15
+- reviewed word `fable`: hard; next review: 2026-07-17

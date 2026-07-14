@@ -1,0 +1,17 @@
+{
+  "type": "chunk",
+  "id": "share-sth-with-team-in-advance",
+  "intention": "提前将信息共享给团队",
+  "naturalChunk": "share [sth] with [team] in advance",
+  "avoidSaying": "provide [information] to [team] in advance",
+  "sentencePatterns": [
+    "We'd like to share [the new version information] with [the X team] in advance.",
+    "Let me share [the updates] with the team in advance so they can prepare."
+  ],
+  "realLifeExamples": [
+    "We'd like to share the new version information with the Trend, Mantis, and UDA teams in advance.",
+    "I'll share the release notes with the QA team in advance before the deployment."
+  ],
+  "usageNotes": "share ... with is more natural than provide ... to when proactively informing teams; provide is better for formal deliverables.",
+  "productionPrompts": "你想提前告诉某个团队一些信息，怎么说？"
+}

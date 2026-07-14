@@ -1,0 +1,16 @@
+{
+  "type": "chunk",
+  "id": "learn-more-effectively-by-doing",
+  "intention": "通过某种方式学习/做某事效果更好",
+  "naturalChunk": "learn [sth] more effectively by doing sth",
+  "avoidSaying": "get better effect in learning through read sth",
+  "sentencePatterns": [
+    "I learn [subject] more effectively by [doing sth].",
+    "I find it more effective to [do sth] than to [do sth else]."
+  ],
+  "realLifeExamples": [
+    "I learn English more effectively by reading fables.",
+    "I find it more effective to review chunks daily than to memorize word lists."
+  ],
+  "productionPrompts": "你通过什么方式学英语效果最好？"
+}

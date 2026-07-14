@@ -2,11 +2,11 @@
 
 | Word | Meaning | Status | Learned At | Next Review | Review Count | Last Result |
 |---|---|---|---|---|---:|---|
-| fable | a short story that teaches a lesson | reviewing | 2026-07-06 | 2026-07-14 | 2 | good |
+| fable | a short story that teaches a lesson | reviewing | 2026-07-06 | 2026-07-17 | 3 | hard |
 | vocabulary | all the words someone knows or uses | reviewing | 2026-07-06 | 2026-07-20 | 2 | good |
 | grammar | the rules for how words are put together in a language | reviewing | 2026-07-06 | 2026-07-15 | 2 | good |
 | phrases | groups of words that work together as a unit | reviewing | 2026-07-06 | 2026-07-16 | 2 | hard |
-| luxurious | very comfortable, expensive, and rich in quality | reviewing | 2026-07-06 | 2026-07-14 | 2 | hard |
+| luxurious | very comfortable, expensive, and rich in quality | reviewing | 2026-07-06 | 2026-07-21 | 3 | good |
 | timeless | still good, beautiful, or relevant no matter how time changes | reviewing | 2026-07-06 | 2026-07-20 | 2 | good |
 | well-made | made with good quality and care | reviewing | 2026-07-06 | 2026-07-14 | 1 | good |
 | durable | able to last a long time without breaking or wearing out | reviewing | 2026-07-06 | 2026-07-14 | 1 | good |

@@ -60,3 +60,7 @@
 | a-long-day-at-work | 漫长的工作日，形容工作了很久很累 | I need some ___ after a long day at work. | new | 2026-07-13 | 2026-07-14 | 0 | learned |
 | praised-me-for-my | 上司/老师表扬我某方面的表现 | My [manager/teacher] praised me for my ___ performance. | new | 2026-07-13 | 2026-07-14 | 0 | learned |
 | by-studying-hard-i-can-now | 通过努力学习，现在我能做到某事了 | By studying ___ hard, I can now ___. | new | 2026-07-13 | 2026-07-14 | 0 | learned |
+| learn-more-effectively-by-doing | 通过某种方式学习/做某事效果更好 | I learn [subject] more effectively by [doing sth]. | new | 2026-07-14 | 2026-07-15 | 0 | learned |
+| share-sth-with-team-in-advance | 提前将信息共享给团队 | We'd like to share [the new version information] with [the X team] in advance. | new | 2026-07-14 | 2026-07-15 | 0 | learned |
+| complete-the-final-upgrade | 完成最后一次升级/迁移/发布 | We have already completed the final [upgrade]. | new | 2026-07-14 | 2026-07-15 | 0 | learned |
+| start-your-adaptation-work-in-advance | 提前开始适配工作 | You can refer to [sth] and start your adaptation work in advance. | new | 2026-07-14 | 2026-07-15 | 0 | learned |

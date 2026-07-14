@@ -50,6 +50,7 @@ I use a fable to remember difficult English words.
 
 ## 复习记录
 
+- 2026-07-14：hard，recalled correctly; sentence had collocation and grammar errors。下次复习：2026-07-17。
 - 2026-07-07：good，Recalled meaning again and used it naturally with a small verb-pattern issue.。下次复习：2026-07-14。
 - 2026-07-07：good，Recalled meaning and wrote a natural sentence.。下次复习：2026-07-14。
 - 2026-07-06：首次学习。下次复习：2026-07-07。

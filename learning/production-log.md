@@ -1574,3 +1574,36 @@ My opinion on learn English is the phrasis is most important.
 - word-choice：phrasis → phrases (spelling error)
 - natural-collocation：'My opinion on learn English is...' is unnatural; use 'In my opinion, ...'
 - article-usage：missing 'the' before 'most important'
+
+## 2026-07-14
+
+### translation-play: app-shell-upgrade-announcement
+
+- 时间：2026-07-14
+- 场景：translation-play
+- 评分：hard
+
+#### 中文原文
+
+我们已经完成了最后一次的App-Shell升级（在V2中），我们想提前将新版本的信息提供给Trend&Mantis&UDA团队。
+
+#### 用户原句
+
+We have already completed the last time App-Shell upgrade (in V2), and we'd like to provide the new versions information to Trend&Mantis&UDA teams in advance.
+
+#### 建议表达
+
+We have already completed the final App-Shell upgrade (in V2), and we'd like to share the new version information with the Trend, Mantis, and UDA teams in advance.
+
+#### 诊断问题
+
+- natural-collocation：'last time' is adverbial and cannot directly modify a noun; use 'the final' or 'the last'
+  建议：Practice: 'the final upgrade / release / migration' for planned series endings
+- noun-number：'new versions information' should be 'new version information' (singular)
+  建议：When referring to a specific version's info, use singular: 'new version information'
+- natural-collocation：'share ... with' is more natural than 'provide ... to' when proactively informing teams
+  建议：Use 'share [updates/information] with [team]' for proactive information sharing in work contexts
+
+#### 总体建议
+
+用 final 替代 last time 修饰名词；用 share ... with 替代 provide ... to 来主动传达信息给团队。

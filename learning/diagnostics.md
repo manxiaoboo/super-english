@@ -5,11 +5,11 @@
 | mixed-language | 1 | 2026-07-06 | 句子中保留了中文词语：效率、系统性的。 | 把核心概念先替换成固定英文表达，如 efficiency 和 systematically。 |
 | word-order | 4 | 2026-07-09 | 'tomorrow right here' → 'right here tomorrow'; English adverb order: place comes before time | Remember: place → time. 'I'll see you right here tomorrow' / 'Meet me downstairs at 3pm' |
 | incomplete-sentence | 10 | 2026-07-08 | is it can ... 不自然，这里更完整的是 is that it can ...。 | 把 is that it can ... 当成一个小骨架整体记住。 |
-| natural-collocation | 31 | 2026-07-13 | 'the key point in a whole sentence' → 'key points in complex sentences'; plural is more natural, 'a whole sentence' is odd in this context |  |
+| natural-collocation | 33 | 2026-07-14 | 'share ... with' is more natural than 'provide ... to' when proactively informing teams | Use 'share [updates/information] with [team]' for proactive information sharing in work contexts |
 | spelling | 15 | 2026-07-08 | approch 拼写错误，应为 approach。 | approach = ap-proach，注意中间是 -proach。 |
 | article-usage | 22 | 2026-07-13 | 'a stretching' → 'some stretching'; stretching as an activity is uncountable. A single movement = 'a stretch'. |  |
 | word-choice | 22 | 2026-07-13 | 'throuth' → 'through' (spelling typo) |  |
-| noun-number | 10 | 2026-07-13 | 'has been' + plural noun 'customers' is structurally wrong; 'has been a loyal customer' (singular) or 'has had loyal customers' |  |
+| noun-number | 11 | 2026-07-14 | 'new versions information' should be 'new version information' (singular) | When referring to a specific version's info, use singular: 'new version information' |
 | literal-translation | 2 | 2026-07-06 | brands are verified by peoples in so many years 很像直译。 | 改写成 have been tested over many years 或 have proven their value over time。 |
 | verb-tense | 6 | 2026-07-13 | 'give' → 'gave' or use 'praised me' directly |  |
 | subject-verb-agreement | 4 | 2026-07-09 | 'the company require' → 'the company requires'; singular noun subject needs -s on the verb | The company / the team / the manager + requires / decides / expects — always add -s |
