@@ -1,0 +1,39 @@
+{
+  "type": "word",
+  "id": "reasonable time",
+  "meaning": "a period of time that is fair and appropriate given the situation",
+  "pronunciation": "/\u02c8ri\u02d0z\u0259n\u0259bl ta\u026am/",
+  "partOfSpeech": "noun phrase\uff08\u53ef\u6570\uff0c\u901a\u5e38\u7528\u5355\u6570\uff1b\u4e5f\u8bf4 a reasonable amount of time\uff09",
+  "coreMeaning": "a period of time that is fair and appropriate given the situation — not too short, not too long",
+  "coreImage": "\u5929\u5e73\u521a\u597d\u5e73\u8861\u7684\u4e00\u6bb5\u65f6\u95f4\uff0c\u4e0d\u504f\u5de6\u4e5f\u4e0d\u504f\u53f3",
+  "chineseMeaning": "\u5408\u7406\u7684\u65f6\u95f4\uff1b\u9002\u5f53\u7684\u65f6\u95f4",
+  "fable": "\u6709\u4f4d\u6cd5\u5b98\u8981\u6c42\u53cc\u65b9\u5728\u300c\u5408\u7406\u65f6\u95f4\u5185\u300d\u63d0\u4ea4\u8bc1\u636e\u3002\u7532\u65b9\u7b49\u4e86\u4e09\u5e74\u624d\u4ea4\uff0c\u6cd5\u5b98\u8bf4\uff1a\u300c\u8d85\u65f6\u4e86\u3002\u300d\u4e59\u65b9\u4e94\u5206\u949f\u540e\u9012\u4e0a\u4e00\u5f20\u767d\u7eb8\uff0c\u6cd5\u5b98\u8bf4\uff1a\u300c\u592a\u5feb\u4e86\uff0c\u8fd9\u53eb\u654f\u884d\u3002\u300d\u53ea\u6709\u4e19\u65b9\uff0c\u4e24\u5468\u540e\u4ea4\u6765\u5395\u5395\u4e00\u53e0\u6750\u6599\u3002\u6cd5\u5b98\u70b9\u5934\uff1a\u300c\u8fd9\u624d\u662f reasonable time\u3002\u300d\u4e19\u65b9\u95ee\uff1a\u300c\u5230\u5e95\u591a\u5c11\u5929\u7b97\u5408\u7406\uff1f\u300d\u6cd5\u5b98\u8bf4\uff1a\u300c\u4e0d\u591f\u8ba9\u4eba\u6000\u7591\u4f60\u5077\u61d2\uff0c\u4e5f\u4e0d\u591a\u8ba9\u4eba\u6000\u7591\u4f60\u5728\u62d6\u5ef6\u3002\u300d",
+  "moral": "reasonable time \u4e0d\u662f\u56fa\u5b9a\u7684\u6570\u5b57\uff0c\u662f\u6839\u636e\u60c5\u5883\u5224\u65ad\u7684\u300c\u521a\u597d\u5408\u9002\u300d\u3002",
+  "memoryHook": "reasonable\uff08\u5408\u7406\u7684\uff09+ time\uff08\u65f6\u95f4\uff09\u2192 \u4e00\u4e2a\u5929\u5e73\u521a\u597d\u5e73\u8861\u7684\u65f6\u95f4\u91cf\uff0c\u4e0d\u5feb\u4e0d\u6162\u3002\uff08\u89c6\u89c9\u9489\uff1a\u6cd5\u5b98\u7684\u5929\u5e73\uff09",
+  "anchorSentence": "Please allow a reasonable time for the team to review the proposal.",
+  "collocations": [
+    "within a reasonable time",
+    "a reasonable time frame / timeframe",
+    "give someone a reasonable time",
+    "a reasonable amount of time",
+    "expect a response within a reasonable time"
+  ],
+  "activeChunks": [
+    "complete the task within a reasonable time",
+    "give me a reasonable time to review this",
+    "expect a reply within a reasonable time"
+  ],
+  "sentencePatterns": [
+    "Please allow a reasonable time for ...",
+    "I need a reasonable time to ... before I can ...",
+    "It's fair to expect ... within a reasonable time."
+  ],
+  "personalExample": "I always give my team a reasonable time to review code before merging.",
+  "notes": "reasonable time\uff08\u5408\u7406\u65f6\u957f\uff0c\u60c5\u5883\u51b3\u5b9a\uff09vs. specific time\uff08\u5177\u4f53\u65f6\u95f4\u70b9\uff09\u3002in time\uff08\u8d76\u4e0a\u4e86\uff09vs. on time\uff08\u51c6\u65f6\uff09vs. within a reasonable time\uff08\u5728\u5408\u9002\u7684\u65f6\u95f4\u8303\u56f4\u5185\u5b8c\u6210\uff09\u3002\u6cd5\u5f8b\u82f1\u8bed\u4e2d\u5e38\u89c1\uff1awithin a reasonable time = \u5728\u6cd5\u9662\u8ba4\u4e3a\u5408\u7406\u7684\u671f\u9650\u5185\u3002",
+  "recallQuestions": [
+    "\u90a3\u4f4d\u7528\u5929\u5e73\u5224\u65ad\u300c\u4e0d\u5feb\u4e0d\u6162\u300d\u7684\u6cd5\u5b98\uff0c\u5bf9\u5e94\u54ea\u4e2a\u82f1\u6587\u77ed\u8bed\uff1f",
+    "reasonable time \u7684\u6838\u5fc3\u610f\u601d\u662f\u4ec0\u4e48\uff1f\u7528\u7b80\u5355\u82f1\u6587\u89e3\u91ca\u3002",
+    "\u7528 within \u6216 allow \u5199\u4e00\u53e5\u548c\u4f60\u5de5\u4f5c\u4e2d\u7b49\u5f85\u6216\u622a\u6b62\u65e5\u671f\u6709\u5173\u7684\u82f1\u6587\u53e5\u5b50\u3002"
+  ],
+  "learnedAt": "2026-07-16"
+}

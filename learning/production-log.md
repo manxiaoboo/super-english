@@ -1607,3 +1607,59 @@ We have already completed the final App-Shell upgrade (in V2), and we'd like to 
 #### 总体建议
 
 用 final 替代 last time 修饰名词；用 share ... with 替代 provide ... to 来主动传达信息给团队。
+
+## 2026-07-17
+
+### grammar-drill: relative-clause-embedded-sentences
+
+- 时间：2026-07-17
+- 场景：定语从句完整句训练
+- 评分：hard
+
+#### 用户原句
+
+We need a person who can explains the problem; People who write code every day will being stronger.
+
+#### 建议表达
+
+We need a person who can explain this problem. People who write code every day become better developers.
+
+#### 诊断问题
+
+- sentence-pattern：情态动词 can 后面误用了第三人称单数形式 explains。
+  建议：看到 can/could/will/should 后，立刻把后面的动词还原：can explain, can fix, will be。
+- verb-form：把 will 和 being 直接连用，写成 will being stronger。
+  建议：will 后面用动词原形：will be。表达习惯带来的变化，更自然用 simple present：People who ... become/get better.
+- natural-collocation：become stronger 对程序员能力提升能懂，但 become better developers 更自然具体。
+  建议：表达开发能力变强时，优先说 become better developers 或 get better at coding。
+
+#### 总体建议
+
+定语从句结构已经稳定，下一步必须清理动词链：can 后面用原形；表达长期变化优先用 become/get better，不要写 will being。
+
+### grammar-drill: relative-clause-who
+
+- 时间：2026-07-17
+- 场景：定语从句 who 训练
+- 评分：hard
+
+#### 用户原句
+
+I know that develper who fixes the bug; people who studies every day improve faster.
+
+#### 建议表达
+
+I know the developer who fixed the bug. People who study every day improve faster.
+
+#### 诊断问题
+
+- verb-tense：把已经完成的具体动作写成现在时，例如 fixes the bug，而目标意思是 fixed the bug。
+  建议：表达一个具体已经发生的动作时，优先检查是否需要过去式：fixed, wrote, reported。
+- subject-verb-agreement：people 是复数，后面的动词不能加第三人称单数 -s，例如应为 people who study。
+  建议：看到 people who ... 时，把 who 后面的动词按复数处理：people who study/work/practice。
+- spelling：developer 拼写不稳定，写成了 develper。
+  建议：技术身份词反复写准：developer, engineer, customer, teammate。
+
+#### 总体建议
+
+who 结构已经能识别，但要把动词形式锁死：can 后用原形，people 后用 study，具体过去动作优先用 fixed/wrote。

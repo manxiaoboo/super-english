@@ -49,3 +49,13 @@
 | permanent job | a job that is expected to last for a long time without a fixed end date | new | 2026-07-11 | 2026-07-12 | 0 | learned |
 | a fixed period | a specific, predetermined length of time | new | 2026-07-11 | 2026-07-12 | 0 | learned |
 | opposite | completely different; facing; on the other side | new | 2026-07-11 | 2026-07-12 | 0 | learned |
+| insurance | a system where you pay regularly to get financial protection if something bad happens | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| working hours | the period of time during which work is done | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| reasonable time | a period of time that is fair and appropriate given the situation | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| within certain limits | allowed or possible, but only up to a specific boundary | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| teleworking | working from a location outside the office using technology to stay connected | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| stimulate | to make something more active or cause it to grow and develop | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| involve | to include something as a necessary part, or to cause someone to participate | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| among | in the middle of a group; as one of several | new | 2026-07-17 | 2026-07-18 | 0 | learned |
+| even | adds emphasis; something is more extreme or surprising than expected | new | 2026-07-17 | 2026-07-18 | 0 | learned |
+| but | introduces contrast or exception | new | 2026-07-17 | 2026-07-18 | 0 | learned |

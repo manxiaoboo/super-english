@@ -1,0 +1,39 @@
+{
+  "type": "word",
+  "id": "working hours",
+  "meaning": "the period of time during which work is done",
+  "pronunciation": "/\u02c8w\u025c\u02d0rk\u026a\u014b \u02cca\u028a\u0259rz/",
+  "partOfSpeech": "noun phrase\uff08\u53ef\u6570\u590d\u6570\uff09",
+  "coreMeaning": "the period of time during which work is done",
+  "coreImage": "\u949f\u8868\u53ea\u5728\u67d0\u6bb5\u65f6\u95f4\u5185\u8f6c\u52a8\uff0c\u5176\u4f59\u65f6\u95f4\u9759\u6b62",
+  "chineseMeaning": "\u5de5\u4f5c\u65f6\u95f4\uff1b\u4e0a\u73ed\u65f6\u95f4\uff1b\u8425\u4e1a\u65f6\u95f4",
+  "fable": "\u6709\u4e00\u53ea\u949f\uff0c\u6bcf\u5929\u65e9\u4e0a\u4e5d\u70b9\u51c6\u65f6\u8df3\u52a8\uff0c\u508d\u665a\u516d\u70b9\u7acb\u523b\u505c\u644a\uff0c\u7eb9\u4e1d\u4e0d\u52a8\u3002\u4eba\u4eec\u95ee\u5b83\uff1a\u300c\u4f60\u4e3a\u4ec0\u4e48\u4e0d\u4e00\u76f4\u8d70\uff1f\u300d\u949f\u4e25\u8083\u5730\u8bf4\uff1a\u300c\u6211\u53ea\u8d1f\u8d23 working hours\uff0c\u5176\u4ed6\u65f6\u95f4\u662f\u6211\u81ea\u5df1\u7684\u3002\u300d\u8001\u677f\u6c14\u5f97\u8981\u6362\u6389\u5b83\uff0c\u7ed3\u679c\u65b0\u4e70\u7684\u949f\u4e5f\u4e00\u6837\u2014\u2014\u56e0\u4e3a\u5b83\u4eec\u90fd\u662f\u300c\u5de5\u65f6\u949f\u300d\uff0c\u51fa\u5382\u8bbe\u5b9a\u53ea\u8ba4 working hours\u3002",
+  "moral": "working hours \u662f\u6709\u660e\u786e\u8fb9\u754c\u7684\u5de5\u4f5c\u65f6\u6bb5\uff0c\u8fdb\u53bb\u5c31\u8981\u8f6c\uff0c\u51fa\u53bb\u5c31\u505c\u3002",
+  "memoryHook": "working\uff08\u5de5\u4f5c\u4e2d\uff09+ hours\uff08\u5c0f\u65f6\uff09\u2192 \u6b63\u5728\u8fd0\u8f6c\u7684\u90a3\u6bb5\u65f6\u95f4 = \u4e0a\u73ed\u65f6\u95f4\u3002\uff08\u89c6\u89c9\u9489\uff1a\u949f\u53ea\u5728 working hours \u8f6c\uff09",
+  "anchorSentence": "I usually answer emails during working hours.",
+  "collocations": [
+    "during / outside working hours",
+    "flexible / standard / regular working hours",
+    "long / extended working hours",
+    "reduce / shorten working hours",
+    "within working hours"
+  ],
+  "activeChunks": [
+    "during working hours",
+    "outside of working hours",
+    "have flexible working hours"
+  ],
+  "sentencePatterns": [
+    "I usually ... during working hours.",
+    "Please contact us within working hours.",
+    "Our team has flexible working hours, so ..."
+  ],
+  "personalExample": "I try not to check Slack messages outside of working hours.",
+  "notes": "working hours \u548c work hours \u540c\u4e49\uff0c\u540e\u8005\u66f4\u53e3\u8bed\uff1boffice hours \u6307\u529e\u516c\u5ba4\u5f00\u653e\u65f6\u95f4\u6216\u6559\u6388\u7b54\u7591\u65f6\u95f4\u3002\u6ce8\u610f hours \u5fc5\u987b\u662f\u590d\u6570\uff1a\u00d7 working hour \u2192 \u2713 working hours\u3002\u53e6\uff1aI work long hours. \u662f\u81ea\u7136\u8bf4\u6cd5\uff0c\u4e0d\u8bf4 I work long working hours.",
+  "recallQuestions": [
+    "\u90a3\u53ea\u65e9\u4e5d\u665a\u516d\u624d\u8f6c\u52a8\u3001\u5176\u4f59\u65f6\u95f4\u9759\u6b62\u7684\u949f\uff0c\u5bf9\u5e94\u54ea\u4e2a\u82f1\u6587\u77ed\u8bed\uff1f",
+    "working hours \u548c office hours \u6709\u4ec0\u4e48\u533a\u522b\uff1f",
+    "\u7528 during \u6216 outside of \u5199\u4e00\u53e5\u548c\u4f60\u81ea\u5df1\u5de5\u4f5c\u4e60\u60ef\u6709\u5173\u7684\u82f1\u6587\u53e5\u5b50\u3002"
+  ],
+  "learnedAt": "2026-07-16"
+}

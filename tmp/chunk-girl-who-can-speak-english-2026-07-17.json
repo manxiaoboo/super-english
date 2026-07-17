@@ -1,0 +1,22 @@
+{
+  "type": "chunk",
+  "id": "the girl who can speak English",
+  "intention": "会说英语的女孩",
+  "naturalChunk": "the girl who can speak English",
+  "avoidSaying": [
+    "the girl who can speaks English",
+    "the girl who can speaking English"
+  ],
+  "sentencePatterns": [
+    "The girl who can ... is ...",
+    "I know a girl who can ..."
+  ],
+  "realLifeExamples": [
+    "I know a girl who can speak English very well."
+  ],
+  "usageNotes": "After can, use the base verb: can speak, not can speaks.",
+  "productionPrompts": [
+    "用 I know a girl who can ... 写一句英文，注意 can 后面用动词原形。"
+  ],
+  "reviewInDays": 1
+}

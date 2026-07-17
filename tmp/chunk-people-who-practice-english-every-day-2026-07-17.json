@@ -1,0 +1,22 @@
+{
+  "type": "chunk",
+  "id": "people who practice English every day",
+  "intention": "每天练习英语的人",
+  "naturalChunk": "people who practice English every day",
+  "avoidSaying": [
+    "people who practices English every day",
+    "people who practice English everyday"
+  ],
+  "sentencePatterns": [
+    "People who ... improve faster.",
+    "People who ... are more likely to ..."
+  ],
+  "realLifeExamples": [
+    "People who practice English every day improve faster."
+  ],
+  "usageNotes": "Use people who practice, not people who practices. Use every day as two words when it means each day.",
+  "productionPrompts": [
+    "用 People who ... improve faster. 写一句关于英语练习习惯的英文。"
+  ],
+  "reviewInDays": 1
+}

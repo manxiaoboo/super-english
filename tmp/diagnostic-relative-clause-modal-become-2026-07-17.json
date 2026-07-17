@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-17",
+  "sourceType": "grammar-drill",
+  "sourceId": "relative-clause-embedded-sentences",
+  "context": "定语从句完整句训练",
+  "result": "hard",
+  "userText": "We need a person who can explains the problem; People who write code every day will being stronger.",
+  "correctedText": "We need a person who can explain this problem. People who write code every day become better developers.",
+  "generalAdvice": "定语从句结构已经稳定，下一步必须清理动词链：can 后面用原形；表达长期变化优先用 become/get better，不要写 will being。",
+  "issues": [
+    {
+      "category": "sentence-pattern",
+      "note": "情态动词 can 后面误用了第三人称单数形式 explains。",
+      "suggestion": "看到 can/could/will/should 后，立刻把后面的动词还原：can explain, can fix, will be。"
+    },
+    {
+      "category": "verb-form",
+      "note": "把 will 和 being 直接连用，写成 will being stronger。",
+      "suggestion": "will 后面用动词原形：will be。表达习惯带来的变化，更自然用 simple present：People who ... become/get better."
+    },
+    {
+      "category": "natural-collocation",
+      "note": "become stronger 对程序员能力提升能懂，但 become better developers 更自然具体。",
+      "suggestion": "表达开发能力变强时，优先说 become better developers 或 get better at coding。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "chunk",
+  "id": "a person who understands the system",
+  "intention": "理解这个系统的人",
+  "naturalChunk": "a person who understands the system",
+  "avoidSaying": [
+    "a person who understand the system",
+    "a people who understands the system"
+  ],
+  "sentencePatterns": [
+    "I need a person who ...",
+    "We need someone who ..."
+  ],
+  "realLifeExamples": [
+    "I need a person who understands the system."
+  ],
+  "usageNotes": "With a person who, use understands because person is singular. For people who, use understand.",
+  "productionPrompts": [
+    "用 I need a person who ... 写一句关于项目协作的英文。"
+  ],
+  "reviewInDays": 1
+}

@@ -1,0 +1,40 @@
+{
+  "type": "word",
+  "id": "but",
+  "pronunciation": "/bʌt/",
+  "partOfSpeech": "conjunction / preposition / adverb",
+  "coreMeaning": "introduces contrast or exception",
+  "coreImage": "前半句前进时遇到一堵转折小墙",
+  "chineseMeaning": "但是；然而；除了；只有",
+  "meaning": "introduces contrast or exception",
+  "fable": "有台机器人厨师以为自己能复制所有美食，蛋糕、分子料理都成功了。but，它遇到一碗奶奶的手擀面后突然关机。那碗面像一堵小墙，挡住了它的自信，也推出了另一面：技术强，但温度难复制。",
+  "moral": "but 用来转向相反的一面，或指出例外和限制。",
+  "memoryHook": "but 像一堵小墙：前半句往前冲，撞到 but 后，意思转向另一边。这是视觉记忆钩子。",
+  "anchorSentence": "I wanted to skip the meeting, but it turned out to be the most useful one all week.",
+  "collocations": [
+    "have no choice but to do something",
+    "can't help but notice",
+    "nothing but excuses",
+    "everyone but the manager",
+    "but for your help"
+  ],
+  "activeChunks": [
+    "have no choice but to restart",
+    "can't help but notice",
+    "nothing but excuses",
+    "everyone but the manager knew"
+  ],
+  "sentencePatterns": [
+    "I had no choice but to ...",
+    "I can't help but feel ...",
+    "It's nothing but ...",
+    "I wanted to ..., but ..."
+  ],
+  "personalExample": "I wanted to finish quickly, but I had to slow down and make the sentence sound natural.",
+  "notes": "but most often introduces contrast. In fixed chunks, use have no choice but to + verb and can't help but + bare verb. Do not say can't help but to do something. nothing but means only; everyone but X means everyone except X.",
+  "recallQuestions": [
+    "机器人遇到手擀面后意思突然转向，这堵转折小墙对应哪个词？",
+    "nothing but excuses 是什么意思？",
+    "用 have no choice but to 写一句和工作有关的英文句子。"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "chunk",
+  "id": "the engineer who can fix bugs",
+  "intention": "会修 bug 的工程师",
+  "naturalChunk": "the engineer who can fix bugs",
+  "avoidSaying": [
+    "the engineer who can fixes bugs",
+    "the engineer who can fixing bugs"
+  ],
+  "sentencePatterns": [
+    "The engineer who can ... is ...",
+    "We need an engineer who can ..."
+  ],
+  "realLifeExamples": [
+    "We need an engineer who can fix bugs quickly."
+  ],
+  "usageNotes": "After can, use the base verb: can fix, not can fixes.",
+  "productionPrompts": [
+    "用 We need an engineer who can ... 写一句关于团队招聘或协作的英文。"
+  ],
+  "reviewInDays": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "chunk",
+  "id": "people who study every day",
+  "intention": "每天学习的人",
+  "naturalChunk": "people who study every day",
+  "avoidSaying": [
+    "the people who studies every day",
+    "people who studies every day",
+    "people who study everyday"
+  ],
+  "sentencePatterns": [
+    "People who ... improve faster.",
+    "People who ... are more likely to ..."
+  ],
+  "realLifeExamples": [
+    "People who study every day improve faster."
+  ],
+  "usageNotes": "Use people who study, not people who studies. Use every day as two words when it means each day.",
+  "productionPrompts": [
+    "用 People who ... improve faster. 写一句关于学习习惯的英文。"
+  ],
+  "reviewInDays": 1
+}

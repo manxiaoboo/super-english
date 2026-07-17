@@ -1,0 +1,39 @@
+{
+  "type": "word",
+  "id": "even",
+  "pronunciation": "/ˈiːvən/",
+  "partOfSpeech": "adverb",
+  "coreMeaning": "adds emphasis; something is more extreme or surprising than expected",
+  "coreImage": "把结果再抬高一级的强调杠杆",
+  "chineseMeaning": "甚至；连……都；更加",
+  "meaning": "adds emphasis; something is more extreme or surprising than expected",
+  "fable": "有台机器人厨师挑战所有料理，八层蛋糕都做成功了，even 连最难的分子料理也掌握了。观众刚要鼓掌，它又把一粒米雕成城堡。大家终于明白：even 是把惊讶再往上推一格。",
+  "moral": "even 用来强调超出预期的程度，让事情显得更强、更极端或更意外。",
+  "memoryHook": "even 本意像一条平线；作强调副词时，可以想象它把原来的水平线再往上推一格。这是记忆钩子，不是词源解释。",
+  "anchorSentence": "This approach is even more efficient than I expected.",
+  "collocations": [
+    "even better / even worse / even faster",
+    "even more useful",
+    "even though it was difficult",
+    "even if it takes longer",
+    "not even close"
+  ],
+  "activeChunks": [
+    "even better than expected",
+    "not even close",
+    "even though the deadline was tight",
+    "even if it takes longer"
+  ],
+  "sentencePatterns": [
+    "... is even [comparative] than ...",
+    "Even though ..., I still ...",
+    "I didn't even ..."
+  ],
+  "personalExample": "This review method is even more useful when I turn each word into a reusable sentence pattern.",
+  "notes": "even as an emphasizing adverb usually goes before the word or phrase it modifies: She didn't even reply. Use even + comparative for stronger comparison: even better, even more efficient. even though means although; even if means whether or not.",
+  "recallQuestions": [
+    "机器人连最难的分子料理也掌握了，这个把惊讶再往上推一格的词是什么？",
+    "even more efficient 中 even 修饰的是哪个部分？",
+    "用 even though 写一句和工作或学习有关的英文句子。"
+  ]
+}

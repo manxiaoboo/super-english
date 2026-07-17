@@ -64,3 +64,41 @@
 | share-sth-with-team-in-advance | 提前将信息共享给团队 | We'd like to share [the new version information] with [the X team] in advance. | new | 2026-07-14 | 2026-07-15 | 0 | learned |
 | complete-the-final-upgrade | 完成最后一次升级/迁移/发布 | We have already completed the final [upgrade]. | new | 2026-07-14 | 2026-07-15 | 0 | learned |
 | start-your-adaptation-work-in-advance | 提前开始适配工作 | You can refer to [sth] and start your adaptation work in advance. | new | 2026-07-14 | 2026-07-15 | 0 | learned |
+| tell-sb-that-clause | 告诉某人某件事（宾语从句报告结构） | I told him that [his code had a bug / the deploy failed]. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| has-a-bug | 某处有bug（开发高频表达） | I found that this function has a bug. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| not-sure-whether-clause | 不确定某件事是否发生（宾语从句）| I'm not sure whether [the pipeline has passed / the fix works]. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| the-pipeline-has-passed | CI流水线已通过 | I need to check whether the pipeline has passed before merging. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| dont-know-how-clause | 不知道某事是怎么做的（宾语从句） | I don't know how [the API is implemented / this works]. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| is-implemented | 某东西是如何被实现的（被动） | I don't know how this feature is implemented. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| resigned-without-any-warning | 毫无预兆地辞职 | Why he resigned without any warning shocked the whole team. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| shocked-the-whole-team | 让整个团队震惊 | What he said in the meeting shocked the whole team. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| the-reason-is-that | 原因是……（表语从句） | The reason is that [the third-party APIs are unstable / we ran out of time]. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| third-party-apis-are-unstable | 第三方接口不稳定 | The reason is that the third-party APIs are unstable. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| the-requirement-that-clause | 某项要求是……（同位语从句） | The requirement that [all code must pass code review] has been announced. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| must-be-reviewed-before-being-merged | 在被合并之前必须经过审查 | The code must be reviewed before being merged. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| have-been-announced | 已被宣布/通知 | The new policy has been announced to all teams. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| doesnt-know-that-clause | 他不知道某件事（宾语从句） | He doesn't know that [his code will lead to a race condition]. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| lead-to-a-race-condition | 导致竞争条件/并发bug | Using shared state without locks can lead to a race condition. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| the-biggest-lesson-is-that | 最大的教训是……（表语从句） | The biggest lesson is that we [underestimated the complexity]. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| underestimated-the-complexity-of | 低估了某事的复杂度 | The team underestimated the complexity of the data migration. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| that-clause-is-the-root-cause-of | 某事是……的根本原因（主语从句） | That you hardcoded the configuration is the root cause of issues in this release. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| hardcoded-the-core-configuration | 把核心配置写死在代码里 | That you hardcoded the core configuration caused the deployment failure. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| root-cause-of-issues-in-this-release | 这次发布出问题的根本原因 | We need to find the root cause of issues in this release before the next sprint. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| have-a-concern-that | 有一个担忧，就是……（同位语从句） | I have a concern that not all edge cases have been covered. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| not-all-edge-cases-have-been-covered | 不是所有边界情况都被覆盖了 | I have a concern that not all edge cases have been covered before the release. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| it-is-concerning-that | 令人担忧的是……（it形式主语从句） | It is concerning that we split microservices too granularly. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| split-microservices-too-granularly | 把微服务拆得粒度太细 | It is risky to split microservices too granularly without a clear boundary. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| led-to-increased-maintenance-costs | 导致维护成本上升 | Over-splitting the architecture led to increased maintenance costs over time. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| depends-on-whether-clause | 取决于是否……（whether做介词宾语） | Whether it works depends on whether the configuration is correct. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| under-high-concurrency | 在高并发情况下 | The system must remain stable under high concurrency. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| configuration-of-the-database-connection-pool | 数据库连接池的配置 | The stability depends on whether the configuration of the database connection pool is reasonable. | new | 2026-07-16 | 2026-07-17 | 0 | learned |
+| the person who understands this problem | 理解这个问题的人 | The person who ... can ... | new | 2026-07-17 | 2026-07-18 | 0 | learned |
+| the developer who fixed the bug | 修复了这个 bug 的开发者 | I know the developer who ... | reviewing | 2026-07-17 | 2026-07-24 | 2 | good |
+| people who study every day | 每天学习的人 | People who ... improve faster. | reviewing | 2026-07-17 | 2026-07-24 | 1 | good |
+| the girl who can speak English | 会说英语的女孩 | The girl who can ... is ... | reviewing | 2026-07-17 | 2026-07-24 | 1 | good |
+| the engineer who wrote this code | 写这段代码的工程师 | The engineer who ... is ... | reviewing | 2026-07-17 | 2026-07-20 | 1 | hard |
+| the engineer who can fix bugs | 会修 bug 的工程师 | The engineer who can ... is ... | reviewing | 2026-07-17 | 2026-07-24 | 1 | good |
+| people who practice English every day | 每天练习英语的人 | People who ... improve faster. | reviewing | 2026-07-17 | 2026-07-24 | 1 | good |
+| a person who understands the system | 理解这个系统的人 | I need a person who ... | reviewing | 2026-07-17 | 2026-07-24 | 1 | good |
+| a person who can explain this problem | 能解释这个问题的人 | We need a person who can ... | reviewing | 2026-07-17 | 2026-07-24 | 1 | good |
+| people who write code every day become better developers | 每天写代码的人会变得更强 | People who ... become better ... | reviewing | 2026-07-17 | 2026-07-24 | 1 | good |

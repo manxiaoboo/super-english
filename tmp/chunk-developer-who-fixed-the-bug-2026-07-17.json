@@ -1,0 +1,22 @@
+{
+  "type": "chunk",
+  "id": "the developer who fixed the bug",
+  "intention": "修复了这个 bug 的开发者",
+  "naturalChunk": "the developer who fixed the bug",
+  "avoidSaying": [
+    "the developer who fixes bugs",
+    "that developer who fixed bugs"
+  ],
+  "sentencePatterns": [
+    "I know the developer who ...",
+    "The developer who ... is ..."
+  ],
+  "realLifeExamples": [
+    "I know the developer who fixed the bug."
+  ],
+  "usageNotes": "Use the developer who fixed the bug when talking about one specific past bug. Use fixed, not fixes, for a completed action.",
+  "productionPrompts": [
+    "用 I know the developer who ... 写一句关于一个具体开发者的英文。"
+  ],
+  "reviewInDays": 1
+}

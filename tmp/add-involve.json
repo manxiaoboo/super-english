@@ -1,0 +1,39 @@
+{
+  "type": "word",
+  "id": "involve",
+  "meaning": "to include something as a necessary part, or to cause someone to participate",
+  "pronunciation": "/\u026an\u02c8v\u0252lv/",
+  "partOfSpeech": "verb\uff08\u53ca\u7269\uff09",
+  "coreMeaning": "to include something as a necessary part, or to cause someone to participate",
+  "coreImage": "\u4e00\u4e2a\u8d3a\u65cb\u9ed1\u6d1e\uff0c\u9760\u8fd1\u5c31\u88ab\u5377\u8fdb\u53bb\u2014\u2014\u6210\u4e3a\u5176\u4e2d\u4e0d\u53ef\u5206\u5272\u7684\u4e00\u90e8\u5206",
+  "chineseMeaning": "\u5305\u542b\uff1b\u6d89\u53ca\uff1b\u4f7f\u53c2\u4e0e\uff1b\u5377\u5165",
+  "fable": "\u6709\u4e00\u4e2a\u8d3a\u65cb\u5f62\u9ed1\u6d1e\u7acb\u5728\u8def\u4e2d\u95f4\uff0c\u544a\u793a\u724c\u5199\u7740\uff1a\u300c\u53ea\u662f\u8def\u8fc7\uff0c\u4e0d\u4f1a\u88ab\u5377\u5165\u3002\u300d\u4e00\u4e2a\u5de5\u7a0b\u5e08\u597d\u5947\u5730\u5f80\u91cc\u770b\u4e86\u4e00\u773c\uff0c\u53d1\u73b0\u81ea\u5df1\u5df2\u7ecf\u51fa\u73b0\u5728\u9879\u76ee\u4f1a\u8bae\u5ba4\u91cc\u3002\u4ed6\u5927\u53eb\uff1a\u300c\u6211\u53ea\u662f\u770b\u4e86\u4e00\u773c\uff01\u300d\u9ed1\u6d1e\u5e73\u9759\u5730\u8bf4\uff1a\u300cThis project involves everyone who gets close.\u300d\u5de5\u7a0b\u5e08\u53f9\u6c14\uff0c\u6253\u5f00\u7535\u8111\uff0c\u5f00\u59cb\u5199\u4ee3\u7801\u3002",
+  "moral": "involve = \u8ba9\u67d0\u4eba\u6216\u67d0\u4e8b\u6210\u4e3a\u4e0d\u53ef\u5206\u5272\u7684\u4e00\u90e8\u5206\uff0c\u4e00\u65e6\u8fdb\u53bb\u5c31\u8131\u4e0d\u4e86\u8eab\u3002",
+  "memoryHook": "in + volve \u2192 volve \u6765\u81ea\u62c9\u4e01\u8bed volvere\uff08\u65cb\u8f6c\u3001\u6eda\u52a8\uff09\u2192 involve = \u628a\u67d0\u7269\u6eda\u5377\u8fdb\u53bb\uff0c\u6210\u4e3a\u5176\u4e2d\u4e00\u90e8\u5206\u3002\uff08\u771f\u5b9e\u8bcd\u6e90\uff1bevolve = \u6eda\u51fa\u6765\uff0cinvolve = \u6eda\u8fdb\u53bb\uff09",
+  "anchorSentence": "This project involves a lot of cross-team coordination.",
+  "collocations": [
+    "involve doing sth",
+    "be involved in a project / accident / discussion",
+    "get involved in / get the team involved",
+    "deeply / heavily / directly involved",
+    "involve a lot of / involve some risk"
+  ],
+  "activeChunks": [
+    "be involved in the decision-making process",
+    "involve a lot of cross-team coordination",
+    "get everyone involved from the start"
+  ],
+  "sentencePatterns": [
+    "The role involves ...",
+    "I'm currently involved in ...",
+    "We need to involve ... in this process."
+  ],
+  "personalExample": "My current project involves coordinating with three different teams across time zones.",
+  "notes": "involve doing\uff08\u6b63\u786e\uff09\u2192 The job involves traveling. \u2713\u3002involve to do\uff08\u9519\u8bef\uff09\u2192 \u00d7 The job involves to travel.\u3002involve vs. include\uff1ainclude = \u5217\u5165\u5176\u4e2d\uff08\u9759\u6001\uff09\uff1binvolve = \u5305\u542b\u4f5c\u4e3a\u5fc5\u8981\u90e8\u5206\u6216\u540e\u679c\uff08\u52a8\u6001\uff09\u3002be involved in \u4e5f\u53ef\u6697\u793a\u300c\u7275\u8fde\u3001\u5377\u5165\u300d\u8d1f\u9762\u4e8b\u4ef6\uff1abe involved in a scandal\u3002",
+  "recallQuestions": [
+    "\u90a3\u4e2a\u53ea\u8981\u9760\u8fd1\u5c31\u628a\u4eba\u5377\u8fdb\u9879\u76ee\u4f1a\u8bae\u5ba4\u7684\u8d3a\u65cb\u9ed1\u6d1e\uff0c\u5bf9\u5e94\u54ea\u4e2a\u82f1\u6587\u5355\u8bcd\uff1f",
+    "involve \u540e\u9762\u63a5\u4ec0\u4e48\u5f62\u5f0f\uff1fto do \u8fd8\u662f doing\uff1f",
+    "\u7528 involve \u6216 be involved in \u5199\u4e00\u53e5\u548c\u4f60\u5f53\u524d\u5de5\u4f5c\u6216\u9879\u76ee\u6709\u5173\u7684\u82f1\u6587\u53e5\u5b50\u3002"
+  ],
+  "learnedAt": "2026-07-16"
+}

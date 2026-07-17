@@ -1,0 +1,22 @@
+{
+  "type": "chunk",
+  "id": "the engineer who wrote this code",
+  "intention": "写这段代码的工程师",
+  "naturalChunk": "the engineer who wrote this code",
+  "avoidSaying": [
+    "the engineer who wrotes this code",
+    "the engineer who writes this code"
+  ],
+  "sentencePatterns": [
+    "The engineer who ... is ...",
+    "I need to talk to the engineer who ..."
+  ],
+  "realLifeExamples": [
+    "The engineer who wrote this code is very smart."
+  ],
+  "usageNotes": "Use wrote for a specific completed action in the past. Do not add -s to wrote.",
+  "productionPrompts": [
+    "用 The engineer who ... is ... 写一句关于代码作者的英文。"
+  ],
+  "reviewInDays": 1
+}

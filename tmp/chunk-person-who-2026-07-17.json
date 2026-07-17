@@ -1,0 +1,21 @@
+{
+  "type": "chunk",
+  "id": "the person who understands this problem",
+  "intention": "理解这个问题的人",
+  "naturalChunk": "the person who understands this problem",
+  "avoidSaying": [
+    "the person who understands this question"
+  ],
+  "sentencePatterns": [
+    "The person who ... can ...",
+    "I need someone who ..."
+  ],
+  "realLifeExamples": [
+    "The person who understands this problem can fix it quickly."
+  ],
+  "usageNotes": "Use problem for a bug, difficulty, or technical issue; question is usually something you ask or answer.",
+  "productionPrompts": [
+    "用 The person who ... can ... 写一句关于解决技术问题的英文。"
+  ],
+  "reviewInDays": 1
+}

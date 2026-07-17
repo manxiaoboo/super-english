@@ -1,0 +1,22 @@
+{
+  "type": "chunk",
+  "id": "people who write code every day become better developers",
+  "intention": "每天写代码的人会变得更强",
+  "naturalChunk": "people who write code every day become better developers",
+  "avoidSaying": [
+    "people who write code every day will being stronger",
+    "people who writes code every day become stronger"
+  ],
+  "sentencePatterns": [
+    "People who ... become better ...",
+    "People who ... get better at ..."
+  ],
+  "realLifeExamples": [
+    "People who write code every day become better developers."
+  ],
+  "usageNotes": "After will, use be, not being. But for habits and general truths, simple present is more natural: people who ... become ...",
+  "productionPrompts": [
+    "用 People who ... become better ... 写一句关于长期练习的英文。"
+  ],
+  "reviewInDays": 1
+}

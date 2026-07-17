@@ -355,3 +355,55 @@
 
 - learned chunk `learn-more-effectively-by-doing`; next review: 2026-07-15
 - reviewed word `fable`: hard; next review: 2026-07-17
+
+## 2026-07-16
+
+- updated word `involve`; next review: 2026-07-17
+- learned word `involve`; next review: 2026-07-17
+- updated word `stimulate`; next review: 2026-07-17
+- learned word `stimulate`; next review: 2026-07-17
+- updated word `teleworking`; next review: 2026-07-17
+- learned word `teleworking`; next review: 2026-07-17
+- updated word `within certain limits`; next review: 2026-07-17
+- learned word `within certain limits`; next review: 2026-07-17
+- updated word `reasonable time`; next review: 2026-07-17
+- learned word `reasonable time`; next review: 2026-07-17
+- updated word `working hours`; next review: 2026-07-17
+- learned word `working hours`; next review: 2026-07-17
+- learned word `insurance`; next review: 2026-07-17
+
+## 2026-07-17
+
+- reviewed chunk `people who write code every day become better developers`: good; next review: 2026-07-24
+
+- reviewed chunk `a person who can explain this problem`: good; next review: 2026-07-24
+
+- reviewed chunk `a person who understands the system`: good; next review: 2026-07-24
+
+- reviewed chunk `people who practice English every day`: good; next review: 2026-07-24
+
+- reviewed chunk `the engineer who can fix bugs`: good; next review: 2026-07-24
+
+- learned chunk `people who write code every day become better developers`; next review: 2026-07-18
+- learned chunk `a person who can explain this problem`; next review: 2026-07-18
+- reviewed chunk `the engineer who wrote this code`: hard; next review: 2026-07-20
+
+- reviewed chunk `the girl who can speak English`: good; next review: 2026-07-24
+
+- learned chunk `a person who understands the system`; next review: 2026-07-18
+- learned chunk `people who practice English every day`; next review: 2026-07-18
+- learned chunk `the engineer who can fix bugs`; next review: 2026-07-18
+- reviewed chunk `people who study every day`: good; next review: 2026-07-24
+
+- reviewed chunk `the developer who fixed the bug`: good; next review: 2026-07-24
+
+- learned chunk `the engineer who wrote this code`; next review: 2026-07-18
+- learned chunk `the girl who can speak English`; next review: 2026-07-18
+- reviewed chunk `the developer who fixed the bug`: hard; next review: 2026-07-20
+
+- learned chunk `people who study every day`; next review: 2026-07-18
+- learned chunk `the developer who fixed the bug`; next review: 2026-07-18
+- learned chunk `the person who understands this problem`; next review: 2026-07-18
+- learned word `but`; next review: 2026-07-18
+- learned word `even`; next review: 2026-07-18
+- learned word `among`; next review: 2026-07-18

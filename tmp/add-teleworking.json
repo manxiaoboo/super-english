@@ -1,0 +1,39 @@
+{
+  "type": "word",
+  "id": "teleworking",
+  "meaning": "working from a location outside the office using technology to stay connected",
+  "pronunciation": "/\u02c8tel\u026a\u02ccw\u025c\u02d0rk\u026a\u014b/",
+  "partOfSpeech": "noun\uff08\u4e0d\u53ef\u6570\uff09/ gerund\uff1b\u4e5f\u7528\u4f5c\u5f62\u5bb9\u8bcd\uff08teleworking policy\uff09",
+  "coreMeaning": "working from a location outside the office using technology to stay connected",
+  "coreImage": "\u732b\u5750\u5728\u5bb6\u91cc\u7528\u722a\u5b50\u6572\u952e\u76d8\uff0c\u628a\u6587\u4ef6\u53d1\u5230\u516c\u53f8",
+  "chineseMeaning": "\u8fdc\u7a0b\u529e\u516c\uff1b\u5c45\u5bb6\u529e\u516c\uff08\u8f83\u6b63\u5f0f\u7528\u8bcd\uff09",
+  "fable": "\u516c\u53f8\u96c7\u4e86\u4e00\u53ea\u9e1f\u4e13\u95e8\u9001\u6587\u4ef6\uff0c\u6bcf\u5929\u98de\u51e0\u5341\u516c\u91cc\u5f80\u8fd4\uff0c\u7d2f\u5f97\u7fbd\u6bdb\u6389\u5149\u3002\u6709\u4e00\u5929\uff0c\u5b83\u53d1\u73b0\u9694\u58c1\u7684\u732b\u5750\u5728\u5bb6\u91cc\uff0c\u722a\u5b50\u6572\u952e\u76d8\uff0c\u540c\u6837\u7684\u6587\u4ef6\u77ac\u95f4\u53d1\u51fa\u53bb\u4e86\u3002\u9e1f\u6c14\u5f97\u5927\u53eb\uff1a\u300c\u4f60\u8fd9\u53eb\u4ec0\u4e48\u4e0a\u73ed\u65b9\u5f0f\uff1f\u300d\u732b\u61d2\u6d0b\u6d0b\u5730\u8bf4\uff1a\u300cTeleworking\u3002\u300d\u9e1f\u4f4e\u5934\u770b\u4e86\u770b\u81ea\u5df1\u4ec5\u5269\u7684\u51e0\u6839\u7fbd\u6bdb\uff0c\u7b2c\u4e8c\u5929\u4e5f\u7533\u8bf7\u4e86 teleworking\u3002",
+  "moral": "teleworking \u662f\u7528\u6280\u672f\u4ee3\u66ff\u901a\u52e4\u3001\u5728\u8fdc\u7a0b\u9ad8\u6548\u5b8c\u6210\u5de5\u4f5c\u7684\u65b9\u5f0f\u3002",
+  "memoryHook": "tele\uff08\u6765\u81ea\u5e0c\u814a\u8bed\uff0c\u610f\u601d\u662f far\uff0c\u8fdc\u8ddd\u79bb\uff09+ working\uff08\u5de5\u4f5c\uff09\u2192 \u5728\u8fdc\u5904\u5b8c\u6210\u5de5\u4f5c\u3002tele \u662f\u771f\u5b9e\u8bcd\u6839\uff0c\u5982 telephone\u3001television\u3002",
+  "anchorSentence": "Our company introduced a flexible teleworking policy after the pandemic.",
+  "collocations": [
+    "teleworking policy / arrangement / schedule",
+    "adopt / introduce / allow teleworking",
+    "full-time / part-time teleworking",
+    "a teleworking day",
+    "be eligible for teleworking"
+  ],
+  "activeChunks": [
+    "apply for a teleworking arrangement",
+    "work under a flexible teleworking policy",
+    "switch to full-time teleworking"
+  ],
+  "sentencePatterns": [
+    "Our team has been on teleworking since ...",
+    "The company allows ... days of teleworking per week.",
+    "Teleworking works well for ... but makes ... harder."
+  ],
+  "personalExample": "I find teleworking more productive for deep work, but I still prefer the office for team meetings.",
+  "notes": "teleworking\uff08\u8f83\u6b63\u5f0f\uff0c\u591a\u89c1\u4e8e\u6b27\u6d32/\u82f1\u5f0f\u82f1\u8bed\u3001HR \u653f\u7b56\u6587\u4ef6\uff09\u3002remote work\uff08\u66f4\u901a\u7528\uff0c\u7f8e\u5f0f\u82f1\u8bed\u5e38\u7528\uff09\u3002work from home / WFH\uff08\u6700\u53e3\u8bed\uff0c\u7279\u6307\u5728\u5bb6\u529e\u516c\uff09\u3002\u4e09\u8005\u610f\u601d\u57fa\u672c\u76f8\u540c\uff0cteleworking \u5199\u5728\u5408\u540c\u91cc\uff0cWFH \u8bf4\u5728\u65e5\u5e38\u5bf9\u8bdd\u4e2d\u3002",
+  "recallQuestions": [
+    "\u90a3\u53ea\u5750\u5728\u5bb6\u91cc\u6572\u952e\u76d8\u3001\u8ba9\u9001\u6587\u4ef6\u7684\u9e1f\u5931\u4e1a\u7684\u732b\uff0c\u5bf9\u5e94\u54ea\u4e2a\u82f1\u6587\u5355\u8bcd\uff1f",
+    "teleworking \u548c work from home \u6709\u4ec0\u4e48\u533a\u522b\uff1f\u5404\u9002\u5408\u4ec0\u4e48\u573a\u5408\uff1f",
+    "\u7528 teleworking policy \u6216 teleworking arrangement \u5199\u4e00\u53e5\u548c\u4f60\u516c\u53f8\u6709\u5173\u7684\u82f1\u6587\u53e5\u5b50\u3002"
+  ],
+  "learnedAt": "2026-07-16"
+}

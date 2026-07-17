@@ -1,0 +1,22 @@
+{
+  "type": "chunk",
+  "id": "a person who can explain this problem",
+  "intention": "能解释这个问题的人",
+  "naturalChunk": "a person who can explain this problem",
+  "avoidSaying": [
+    "a person who can explains the problem",
+    "a person who can explaining this problem"
+  ],
+  "sentencePatterns": [
+    "We need a person who can ...",
+    "I need someone who can ..."
+  ],
+  "realLifeExamples": [
+    "We need a person who can explain this problem clearly."
+  ],
+  "usageNotes": "After can, use the base verb: can explain, not can explains.",
+  "productionPrompts": [
+    "用 We need a person who can ... 写一句关于解释技术问题的英文。"
+  ],
+  "reviewInDays": 1
+}
