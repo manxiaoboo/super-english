@@ -14,3 +14,6 @@
 | five sentence components | 英语句子五成分：S(主语)+V(谓语)+O(宾语)+C(补语)+A(状语)，S和V必选 | new | 2026-07-20 | 2026-07-21 | 0 | learned |
 | experience with or in not for | 表达在某方面/某事物上有经验时用 experience + with/in, 不能用 experience + for | new | 2026-07-20 | 2026-07-21 | 0 | learned |
 | noun classification countability three worldviews | 英语名词按三种世界观分类: 个体/物质/抽象, 同一词可跨界切换可数性 | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| f to ves plural nouns | 以 -f 或 -fe 结尾的名词变复数时, 将 f/fe 变为 ves (knife→knives, wife→wives) | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| most vs most of vs the most of | 区分 most + 名词(泛指) / most of the + 名词(特指) / the most of 不成立 | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| countable noun plurals | 可数名词复数的本质: 英语对"多个独立个体"显式标记, 而非死记 -s 规则; 关键在于发音三分 /s/ /z/ /ɪz/ | new | 2026-07-20 | 2026-07-21 | 0 | learned |

@@ -2,6 +2,9 @@
 
 ## 2026-07-20
 
+- learned grammar `countable noun plurals`; next review: 2026-07-21
+- learned grammar `most vs most of vs the most of`; next review: 2026-07-21
+- learned grammar `f to ves plural nouns`; next review: 2026-07-21
 - learned grammar `noun classification countability three worldviews`; next review: 2026-07-21
 - learned grammar `experience with or in not for`; next review: 2026-07-21
 - learned grammar `five sentence components`; next review: 2026-07-21
