@@ -17,3 +17,7 @@
 | f to ves plural nouns | 以 -f 或 -fe 结尾的名词变复数时, 将 f/fe 变为 ves (knife→knives, wife→wives) | new | 2026-07-20 | 2026-07-21 | 0 | learned |
 | most vs most of vs the most of | 区分 most + 名词(泛指) / most of the + 名词(特指) / the most of 不成立 | new | 2026-07-20 | 2026-07-21 | 0 | learned |
 | countable noun plurals | 可数名词复数的本质: 英语对"多个独立个体"显式标记, 而非死记 -s 规则; 关键在于发音三分 /s/ /z/ /ɪz/ | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| uncountable nouns | 不可数名词代表'连续整体'，一旦'切分'就变成了可数 | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| a-an thinking | a/an 不是'一个'，而是'从类别中挑出一个代表' | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| the thinking | the 表示'你我知道我指的是哪一个'——共有知识标记 | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| zero article thinking | 不用冠词本身就是一种冠词选择，表达'类别/抽象/泛指' | new | 2026-07-20 | 2026-07-21 | 0 | learned |

@@ -2,6 +2,10 @@
 
 ## 2026-07-20
 
+- learned grammar `zero article thinking`; next review: 2026-07-21
+- learned grammar `the thinking`; next review: 2026-07-21
+- learned grammar `a-an thinking`; next review: 2026-07-21
+- learned grammar `uncountable nouns`; next review: 2026-07-21
 - learned grammar `countable noun plurals`; next review: 2026-07-21
 - learned grammar `most vs most of vs the most of`; next review: 2026-07-21
 - learned grammar `f to ves plural nouns`; next review: 2026-07-21
