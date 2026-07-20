@@ -10,3 +10,7 @@
 | would as future-in-past | 用 would 表示从过去时间点看向将来的预期或推测（过去视角的将来） | new | 2026-07-09 | 2026-07-10 | 0 | learned |
 | forcibly vs force as adverb before past participle | force 是名词/动词，不能直接当副词；修饰动词时必须用副词形式 forcibly | new | 2026-07-10 | 2026-07-11 | 0 | learned |
 | indirect question word order | 疑问句作名词从句时，从句内部不用倒装，保持陈述语序（主语 + 谓语） | new | 2026-07-11 | 2026-07-12 | 0 | learned |
+| noun phrase left two right six | 名词短语的左二右六规律：限定词+形容词左置，介词短语/从句等六种修饰右置 | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| five sentence components | 英语句子五成分：S(主语)+V(谓语)+O(宾语)+C(补语)+A(状语)，S和V必选 | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| experience with or in not for | 表达在某方面/某事物上有经验时用 experience + with/in, 不能用 experience + for | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| noun classification countability three worldviews | 英语名词按三种世界观分类: 个体/物质/抽象, 同一词可跨界切换可数性 | new | 2026-07-20 | 2026-07-21 | 0 | learned |
