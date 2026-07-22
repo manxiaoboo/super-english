@@ -21,3 +21,13 @@
 | a-an thinking | a/an 不是'一个'，而是'从类别中挑出一个代表' | new | 2026-07-20 | 2026-07-21 | 0 | learned |
 | the thinking | the 表示'你我知道我指的是哪一个'——共有知识标记 | new | 2026-07-20 | 2026-07-21 | 0 | learned |
 | zero article thinking | 不用冠词本身就是一种冠词选择，表达'类别/抽象/泛指' | new | 2026-07-20 | 2026-07-21 | 0 | learned |
+| pronouns person and reference | 代词是英语"不重复"原则的体现，同一实体在不同句法位置换格（主格/宾格/所有格），关键在于所指必须清晰 | new | 2026-07-21 | 2026-07-22 | 0 | learned |
+| adjective order subjective to objective | 多个形容词排序 = 主观→客观认知规律：观点 > 大小 > 性质 > 形状 > 年龄 > 颜色 > 来源 > 材料 > 用途 > 名词；用途/类型死死贴着名词 | new | 2026-07-21 | 2026-07-22 | 0 | learned |
+| adverb position determines meaning | 副词的位置不是随意的——放哪就修饰哪，同一词不同位置意思可能完全不同（clearly=评注 vs clearly=方式） | new | 2026-07-21 | 2026-07-22 | 0 | learned |
+| subject linking verb complement | 主系表 = S + V(系动词) + C(补语)，系动词是连接主语和补语的等号桥，四类：be/感官/变化/保持·似乎，后面跟形容词不跟副词 | new | 2026-07-21 | 2026-07-22 | 0 | learned |
+| transitive-intransitive-verbs | 动词自带及物/不及物属性，决定句子要不要宾语；同一动词可在S+V和S+V+O之间切换 | new | 2026-07-22 | 2026-07-23 | 0 | learned |
+| ditransitive-object-complement | 双宾(S+V+IO+DO)把东西给他人(IO≠DO)；宾补(S+V+O+C)让宾语变成/看成某状态(O=C)。区分诀窍：O和后面成分之间插be，能通则宾补，不通则双宾 | new | 2026-07-22 | 2026-07-23 | 0 | learned |
+| tense-overview-time-perspective | 英语时态=时间(过去/现在/将来)×状态(一般/进行/完成/完成进行)，表达说话者对事件的观察视角而非简单记录时间 | new | 2026-07-22 | 2026-07-23 | 0 | learned |
+| present-perfect-backward-look | 现在完成时 = 站在现在回望过去，关心\\\"留下了什么\\\"——三种用法：过去→现在结果 / 人生经历 / 持续至今 | new | 2026-07-22 | 2026-07-23 | 0 | learned |
+| past-future-perfect | 过去完成=站在过去回望更早；将来完成=站在将来回望过往。had done / will have done，本质是回望站的位置不同 | new | 2026-07-22 | 2026-07-23 | 0 | learned |
+| perfect-continuous | 完成进行时=回望+持续杂交：have been doing 强调动作从过去持续到现在，重在过程而非结果。by+将来→will have been doing | new | 2026-07-22 | 2026-07-23 | 0 | learned |
