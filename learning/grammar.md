@@ -31,3 +31,9 @@
 | present-perfect-backward-look | 现在完成时 = 站在现在回望过去，关心\\\"留下了什么\\\"——三种用法：过去→现在结果 / 人生经历 / 持续至今 | new | 2026-07-22 | 2026-07-23 | 0 | learned |
 | past-future-perfect | 过去完成=站在过去回望更早；将来完成=站在将来回望过往。had done / will have done，本质是回望站的位置不同 | new | 2026-07-22 | 2026-07-23 | 0 | learned |
 | perfect-continuous | 完成进行时=回望+持续杂交：have been doing 强调动作从过去持续到现在，重在过程而非结果。by+将来→will have been doing | new | 2026-07-22 | 2026-07-23 | 0 | learned |
+| subjunctive-conditionals | 虚拟语气条件句：英语用"时态后退"标记反事实假设——If+过去式, would+原形。真实 vs 虚拟的本质区别在于说话者对可能性的判断 | new | 2026-07-24 | 2026-07-25 | 0 | learned |
+| subjunctive-noun-clauses | 名词从句虚拟：建议/要求/必要性词汇触发that从句动词原形（suggest that he go）。否定用not+原形 | new | 2026-07-24 | 2026-07-25 | 0 | learned |
+| modal-verbs-ability-permission-obligation | 情态动词(一)：can=能力+随意许可，may=正式许可+可能性，must=义务。核心区分Can I请求 vs You can给予 | new | 2026-07-24 | 2026-07-25 | 0 | learned |
+| modal-verbs-speculation | 情态动词(二)：推测用法的确定度量尺。must/may/can't + be/原形（对现在）；+ have done（对过去）。can't have done=不可能发生过 | new | 2026-07-24 | 2026-07-25 | 0 | learned |
+| modal-verbs-should-would-could | 情态动词(三)：should/would/could=软化器。建议/委婉/过去习惯。核心：should have done(本应)/would have done(本会)/could have done(本可) | new | 2026-07-24 | 2026-07-25 | 0 | learned |
+| intermediate-review-test | 中级综合测试(第25章)：7题3对。强项虚拟名词从句/推测造句。薄弱：must have done=推测、完成vs完成进行、虚拟动词形式 | new | 2026-07-24 | 2026-07-25 | 0 | learned |

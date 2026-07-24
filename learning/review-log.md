@@ -1,5 +1,14 @@
 # Review Log
 
+## 2026-07-24
+
+- learned grammar `subjunctive-conditionals`; next review: 2026-07-25
+- learned grammar `subjunctive-noun-clauses`; next review: 2026-07-25
+- learned grammar `modal-verbs-ability-permission-obligation`; next review: 2026-07-25
+- learned grammar `modal-verbs-speculation`; next review: 2026-07-25
+- learned grammar `modal-verbs-should-would-could`; next review: 2026-07-25
+- learned grammar `intermediate-review-test`; next review: 2026-07-25
+
 ## 2026-07-20
 
 - learned grammar `zero article thinking`; next review: 2026-07-21
