@@ -37,3 +37,8 @@
 | modal-verbs-speculation | 情态动词(二)：推测用法的确定度量尺。must/may/can't + be/原形（对现在）；+ have done（对过去）。can't have done=不可能发生过 | new | 2026-07-24 | 2026-07-25 | 0 | learned |
 | modal-verbs-should-would-could | 情态动词(三)：should/would/could=软化器。建议/委婉/过去习惯。核心：should have done(本应)/would have done(本会)/could have done(本可) | new | 2026-07-24 | 2026-07-25 | 0 | learned |
 | intermediate-review-test | 中级综合测试(第25章)：7题3对。强项虚拟名词从句/推测造句。薄弱：must have done=推测、完成vs完成进行、虚拟动词形式 | new | 2026-07-24 | 2026-07-25 | 0 | learned |
+| noun-clauses-three-types-four-roles | 用三种句子（陈述/疑问/祈使）充当四种名词成分（主语/宾语/表语/同位语），核心规则：疑问句变名词从句必须恢复陈述语序 | new | 2026-07-28 | 2026-07-29 | 0 | learned |
+| relative-clauses-relational-word-logic | 用关系词(who/whom/whose/which/that/where/when/why)把两个句子焊接成一个名词的定语，关系词=代词+连接词二合一 | new | 2026-07-28 | 2026-07-29 | 0 | learned |
+| adverbial-clauses-time-cause-condition | 用状语从句给主句搭背景舞台——交代事件的时间/原因/条件。核心规则：时间从句和条件从句用一般现在时代替将来时（主将从现） | new | 2026-07-28 | 2026-07-29 | 0 | learned |
+| non-finite-verbs-to-do-doing-done | 英语一个句子只能有一个谓语动词，其他动词必须变非谓语：to do=将来指向，doing=主动进行，done=被动完成。同一动词+to do/doing意思完全不同 | new | 2026-07-28 | 2026-07-29 | 0 | learned |
+| advanced-review-and-course-summary | 回顾第26-29章(名词从句/定语从句/状语从句/非谓语动词)核心内容并完成综合诊断测试，总结全程学习成果 | new | 2026-07-28 | 2026-07-29 | 0 | learned |
