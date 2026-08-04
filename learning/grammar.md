@@ -42,3 +42,4 @@
 | adverbial-clauses-time-cause-condition | 用状语从句给主句搭背景舞台——交代事件的时间/原因/条件。核心规则：时间从句和条件从句用一般现在时代替将来时（主将从现） | new | 2026-07-28 | 2026-07-29 | 0 | learned |
 | non-finite-verbs-to-do-doing-done | 英语一个句子只能有一个谓语动词，其他动词必须变非谓语：to do=将来指向，doing=主动进行，done=被动完成。同一动词+to do/doing意思完全不同 | new | 2026-07-28 | 2026-07-29 | 0 | learned |
 | advanced-review-and-course-summary | 回顾第26-29章(名词从句/定语从句/状语从句/非谓语动词)核心内容并完成综合诊断测试，总结全程学习成果 | new | 2026-07-28 | 2026-07-29 | 0 | learned |
+| how easy it is for sb to do sth | 用间接问句结构表达做某事的难易程度，整体作名词从句 | new | 2026-08-04 | 2026-08-05 | 0 | learned |

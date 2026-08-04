@@ -5,10 +5,10 @@
 | mixed-language | 1 | 2026-07-06 | 句子中保留了中文词语：效率、系统性的。 | 把核心概念先替换成固定英文表达，如 efficiency 和 systematically。 |
 | word-order | 4 | 2026-07-09 | 'tomorrow right here' → 'right here tomorrow'; English adverb order: place comes before time | Remember: place → time. 'I'll see you right here tomorrow' / 'Meet me downstairs at 3pm' |
 | incomplete-sentence | 10 | 2026-07-08 | is it can ... 不自然，这里更完整的是 is that it can ...。 | 把 is that it can ... 当成一个小骨架整体记住。 |
-| natural-collocation | 34 | 2026-07-17 | become stronger 对程序员能力提升能懂，但 become better developers 更自然具体。 | 表达开发能力变强时，优先说 become better developers 或 get better at coding。 |
+| natural-collocation | 35 | 2026-08-03 | I'm going to merge 语法正确但口语偏重，I'll start merging 更自然简洁 | sequential task 表达用 once I finish X, I'll start Y |
 | spelling | 16 | 2026-07-17 | developer 拼写不稳定，写成了 develper。 | 技术身份词反复写准：developer, engineer, customer, teammate。 |
 | article-usage | 22 | 2026-07-13 | 'a stretching' → 'some stretching'; stretching as an activity is uncountable. A single movement = 'a stretch'. |  |
-| word-choice | 22 | 2026-07-13 | 'throuth' → 'through' (spelling typo) |  |
+| word-choice | 23 | 2026-08-03 | analyzation 不是标准词，正确形式是 analysis | 记住 analyze（动词）→ analysis（名词），搭配 memory leak analysis |
 | noun-number | 11 | 2026-07-14 | 'new versions information' should be 'new version information' (singular) | When referring to a specific version's info, use singular: 'new version information' |
 | literal-translation | 2 | 2026-07-06 | brands are verified by peoples in so many years 很像直译。 | 改写成 have been tested over many years 或 have proven their value over time。 |
 | verb-tense | 7 | 2026-07-17 | 把已经完成的具体动作写成现在时，例如 fixes the bug，而目标意思是 fixed the bug。 | 表达一个具体已经发生的动作时，优先检查是否需要过去式：fixed, wrote, reported。 |

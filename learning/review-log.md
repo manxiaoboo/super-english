@@ -454,3 +454,50 @@
 - learned grammar `adverbial-clauses-time-cause-condition`; next review: 2026-07-29
 - learned grammar `relative-clauses-relational-word-logic`; next review: 2026-07-29
 - learned grammar `noun-clauses-three-types-four-roles`; next review: 2026-07-29
+
+## 2026-08-03
+
+- learned word `analysis`; next review: 2026-08-04
+- learned chunk `once-i-finish-x-ill-start-y`; next review: 2026-08-04
+
+## 2026-08-04
+
+- learned grammar `how easy it is for sb to do sth`; next review: 2026-08-05
+- learned word `underlying`; next review: 2026-08-05
+- learned word `differentiated`; next review: 2026-08-05
+- learned word `substitutes`; next review: 2026-08-05
+- learned word `economies of scale`; next review: 2026-08-05
+- learned word `fragmented`; next review: 2026-08-05
+- learned word `profitability`; next review: 2026-08-05
+- updated chunk `concentrate on a narrow segment of the market`; next review: 2026-08-05
+- updated chunk `charge a premium price for`; next review: 2026-08-05
+- updated chunk `gain a price advantage over`; next review: 2026-08-05
+- updated chunk `take market share away from`; next review: 2026-08-05
+- updated chunk `in terms of time or money`; next review: 2026-08-05
+- updated chunk `which, in turn, would`; next review: 2026-08-05
+- updated chunk `assess and analyse`; next review: 2026-08-05
+- updated chunk `barriers to entry`; next review: 2026-08-05
+- updated chunk `concentrate on a narrow segment of the market`; next review: 2026-08-05
+- updated chunk `charge a premium price for`; next review: 2026-08-05
+- updated chunk `gain a price advantage over`; next review: 2026-08-05
+- updated chunk `take market share away from`; next review: 2026-08-05
+- updated chunk `in terms of time or money`; next review: 2026-08-05
+- updated chunk `which, in turn, would`; next review: 2026-08-05
+- updated chunk `assess and analyse`; next review: 2026-08-05
+- updated chunk `barriers to entry`; next review: 2026-08-05
+- updated chunk `barriers to entry`; next review: 2026-08-05
+- updated chunk `charge a premium price for`; next review: 2026-08-05
+- updated chunk `gain a price advantage over`; next review: 2026-08-05
+- updated chunk `take market share away from`; next review: 2026-08-05
+- updated chunk `in terms of time or money`; next review: 2026-08-05
+- updated chunk `which, in turn, would`; next review: 2026-08-05
+- updated chunk `assess and analyse`; next review: 2026-08-05
+- updated chunk `barriers to entry`; next review: 2026-08-05
+- learned chunk `concentrate on a narrow segment of the market`; next review: 2026-08-05
+- learned chunk `charge a premium price for`; next review: 2026-08-05
+- learned chunk `gain a price advantage over`; next review: 2026-08-05
+- learned chunk `take market share away from`; next review: 2026-08-05
+- learned chunk `in terms of time or money`; next review: 2026-08-05
+- learned chunk `barriers to entry`; next review: 2026-08-05
+- learned chunk `which, in turn, would`; next review: 2026-08-05
+- learned chunk `assess and analyse`; next review: 2026-08-05

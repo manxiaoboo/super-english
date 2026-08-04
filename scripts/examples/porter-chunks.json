@@ -1,0 +1,114 @@
+[
+  {
+    "type": "chunk",
+    "id": "barriers to entry",
+    "intention": "进入壁垒（阻止新竞争者进入市场的障碍）",
+    "pattern": "Barriers to entry include well-recognised brands.",
+    "sentencePatterns": [
+      "Barriers to entry include...",
+      "High barriers to entry make it difficult for new players to compete."
+    ],
+    "realLifeExamples": [
+      "Barriers to entry in the pharma industry include patents and high R&D costs."
+    ],
+    "usageNotes": "Business term. Always plural: 'barriers to entry'. Common barriers: brand, capital, regulation, distribution."
+  },
+  {
+    "type": "chunk",
+    "id": "assess and analyse",
+    "intention": "评估并分析（商业写作标配组合）",
+    "pattern": "assess and analyse the competitive forces",
+    "sentencePatterns": [
+      "We need to assess and analyse...",
+      "This report aims to assess and analyse the risks before..."
+    ],
+    "realLifeExamples": [
+      "We need to assess and analyse the risks before launching the product."
+    ],
+    "usageNotes": "assess = judge value/degree; analyse = break structure down. These two are often paired in formal writing."
+  },
+  {
+    "type": "chunk",
+    "id": "which, in turn, would",
+    "intention": "进而会……（链式因果中间连接）",
+    "pattern": "..., which, in turn, would lower your profitability.",
+    "sentencePatterns": [
+      "..., which, in turn, would lower profitability.",
+      "..., which, in turn, would increase costs significantly."
+    ],
+    "realLifeExamples": [
+      "Higher raw material prices, which, in turn, would reduce our profit margins."
+    ],
+    "usageNotes": "'in turn' inserted as adverb phrase between 'which' and the verb. Signals a chain reaction: A causes B, which in turn causes C."
+  },
+  {
+    "type": "chunk",
+    "id": "in terms of time or money",
+    "intention": "就时间或金钱而言",
+    "pattern": "It costs little in terms of time or money to...",
+    "sentencePatterns": [
+      "If it costs little in terms of time or money to...",
+      "We need to evaluate this in terms of time or money."
+    ],
+    "realLifeExamples": [
+      "In terms of time or money, this approach is far more efficient."
+    ],
+    "usageNotes": "'in terms of' specifies the dimension. Can extend: in terms of quality, risk, efficiency, cost, etc."
+  },
+  {
+    "type": "chunk",
+    "id": "take market share away from",
+    "intention": "从……手中夺走市场份额",
+    "pattern": "It is easy for competitors to take market share away from you.",
+    "sentencePatterns": [
+      "Competitors can take market share away from you if...",
+      "We need to prevent rivals from taking market share away from us."
+    ],
+    "realLifeExamples": [
+      "Cheaper alternatives took significant market share away from the brand."
+    ],
+    "usageNotes": "'take sth away from sb' = remove from someone's possession. Market share is uncountable here."
+  },
+  {
+    "type": "chunk",
+    "id": "gain a price advantage over",
+    "intention": "在价格上胜过对手，取得价格优势",
+    "pattern": "Reduce costs to gain a price advantage over competitors.",
+    "sentencePatterns": [
+      "...to gain a price advantage over your competitors.",
+      "If we cut costs, we can gain a price advantage over rivals."
+    ],
+    "realLifeExamples": [
+      "The company adopted automation to gain a price advantage over its competitors."
+    ],
+    "usageNotes": "'gain an advantage over' is fixed. Extends to: competitive / cost / technological advantage over sb."
+  },
+  {
+    "type": "chunk",
+    "id": "charge a premium price for",
+    "intention": "对……收取高价或溢价",
+    "pattern": "The brand can charge a premium price for its products.",
+    "sentencePatterns": [
+      "...allows companies to charge a premium price for it.",
+      "A strong brand lets you charge a premium price for your service."
+    ],
+    "realLifeExamples": [
+      "Apple charges a premium price for its products because of strong brand loyalty."
+    ],
+    "usageNotes": "'charge a price for sth' is the structure. premium = above-average price reflecting perceived extra value."
+  },
+  {
+    "type": "chunk",
+    "id": "concentrate on a narrow segment of the market",
+    "intention": "聚焦于细分市场的某一小领域",
+    "pattern": "concentrate on a narrow segment of the market and satisfy unique needs",
+    "sentencePatterns": [
+      "...concentrate on a narrow segment of the market.",
+      "By concentrating on a narrow segment, a company can enjoy high customer loyalty."
+    ],
+    "realLifeExamples": [
+      "Our startup concentrates on a narrow segment of the market: enterprise security tools for SMBs."
+    ],
+    "usageNotes": "'segment of the market' = distinct customer subgroup. 'narrow' emphasises focused scope of the focus strategy."
+  }
+]

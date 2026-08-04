@@ -59,3 +59,10 @@
 | among | in the middle of a group; as one of several | new | 2026-07-17 | 2026-07-18 | 0 | learned |
 | even | adds emphasis; something is more extreme or surprising than expected | new | 2026-07-17 | 2026-07-18 | 0 | learned |
 | but | introduces contrast or exception | new | 2026-07-17 | 2026-07-18 | 0 | learned |
+| analysis | 分析（名词） | new | 2026-08-03 | 2026-08-04 | 0 | learned |
+| profitability | the ability of a business to generate profit | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| fragmented | broken into many small, disconnected pieces | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| economies of scale | cost advantages a business gains as it increases production volume | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| substitutes | products or services that can replace another | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| differentiated | made clearly different or distinct from others | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| underlying | existing beneath the surface; being the real or fundamental cause | new | 2026-08-04 | 2026-08-05 | 0 | learned |

@@ -1,0 +1,13 @@
+{
+  "type": "word",
+  "id": "analysis",
+  "word": "analysis",
+  "meaning": "分析（名词）",
+  "pronunciation": "/əˈnæl.ɪ.sɪs/",
+  "usageNotes": "analyze（动词）的名词形式是 analysis，不是 analyzation（非标准）；复数 analyses",
+  "examples": [
+    "We need to finish the memory leak analysis before the release.",
+    "The root cause analysis took the whole afternoon."
+  ],
+  "confusedWith": "analyzation（错误形式，避免使用）"
+}

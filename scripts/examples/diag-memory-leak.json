@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-03",
+  "sourceType": "translation-play",
+  "sourceId": "memory-leak-analysis-merge",
+  "context": "translation-play",
+  "result": "good",
+  "sourceText": "Paddy，等我做完内存泄漏问题分析之后，就开始做version 3的代码合并",
+  "userText": "Paddy, Once I finish the memory leak analyzation, I'm going to merge the version 3 code.",
+  "correctedText": "Paddy, once I finish the memory leak analysis, I'll start merging the version 3 code.",
+  "generalAdvice": "句子结构和时态思维都对，注意 analysis 是正确名词形式，analyzation 不是标准英文词",
+  "issues": [
+    {
+      "category": "word-choice",
+      "note": "analyzation 不是标准词，正确形式是 analysis",
+      "suggestion": "记住 analyze（动词）→ analysis（名词），搭配 memory leak analysis"
+    },
+    {
+      "category": "natural-collocation",
+      "note": "I'm going to merge 语法正确但口语偏重，I'll start merging 更自然简洁",
+      "suggestion": "sequential task 表达用 once I finish X, I'll start Y"
+    }
+  ]
+}

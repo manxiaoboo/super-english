@@ -1663,3 +1663,34 @@ I know the developer who fixed the bug. People who study every day improve faste
 #### 总体建议
 
 who 结构已经能识别，但要把动词形式锁死：can 后用原形，people 后用 study，具体过去动作优先用 fixed/wrote。
+
+## 2026-08-03
+
+### translation-play: memory-leak-analysis-merge
+
+- 时间：2026-08-03
+- 场景：translation-play
+- 评分：good
+
+#### 中文原文
+
+Paddy，等我做完内存泄漏问题分析之后，就开始做version 3的代码合并
+
+#### 用户原句
+
+Paddy, Once I finish the memory leak analyzation, I'm going to merge the version 3 code.
+
+#### 建议表达
+
+Paddy, once I finish the memory leak analysis, I'll start merging the version 3 code.
+
+#### 诊断问题
+
+- word-choice：analyzation 不是标准词，正确形式是 analysis
+  建议：记住 analyze（动词）→ analysis（名词），搭配 memory leak analysis
+- natural-collocation：I'm going to merge 语法正确但口语偏重，I'll start merging 更自然简洁
+  建议：sequential task 表达用 once I finish X, I'll start Y
+
+#### 总体建议
+
+句子结构和时态思维都对，注意 analysis 是正确名词形式，analyzation 不是标准英文词

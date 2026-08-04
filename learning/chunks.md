@@ -102,3 +102,12 @@
 | a person who understands the system | 理解这个系统的人 | I need a person who ... | reviewing | 2026-07-17 | 2026-07-24 | 1 | good |
 | a person who can explain this problem | 能解释这个问题的人 | We need a person who can ... | reviewing | 2026-07-17 | 2026-07-24 | 1 | good |
 | people who write code every day become better developers | 每天写代码的人会变得更强 | People who ... become better ... | reviewing | 2026-07-17 | 2026-07-24 | 1 | good |
+| once-i-finish-x-ill-start-y | 告诉对方等完成A任务后就开始B任务 | Once I finish the [analysis/review/deployment], I'll start [merging/testing/...]. | new | 2026-08-03 | 2026-08-04 | 0 | learned |
+| assess and analyse | 评估并分析（商业写作标配组合） | assess and analyse the competitive forces | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| which, in turn, would | 进而会……（链式因果连接） | ..., which, in turn, would lower your profitability. | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| barriers to entry | 进入壁垒 | Barriers to entry include well-recognised brands. | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| in terms of time or money | 就时间或金钱而言 | It costs little in terms of time or money to... | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| take market share away from | 从……手中夺走市场份额 | It is easy for competitors to take market share away from you. | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| gain a price advantage over | 在价格上胜过对手，取得价格优势 | Reduce costs to gain a price advantage over competitors. | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| charge a premium price for | 对……收取高价或溢价 | The brand can charge a premium price for its products. | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| concentrate on a narrow segment of the market | 聚焦于细分市场的某一小领域 | concentrate on a narrow segment of the market and satisfy unique needs | new | 2026-08-04 | 2026-08-05 | 0 | learned |
