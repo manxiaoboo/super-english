@@ -501,3 +501,11 @@
 - learned chunk `barriers to entry`; next review: 2026-08-05
 - learned chunk `which, in turn, would`; next review: 2026-08-05
 - learned chunk `assess and analyse`; next review: 2026-08-05
+
+## 2026-08-07
+
+- learned chunk `when you hear from them`; next review: 2026-08-08
+- learned chunk `what I'm trying to confirm is whether`; next review: 2026-08-08
+- learned chunk `take sth. down from`; next review: 2026-08-08
+- learned chunk `additional context`; next review: 2026-08-08
+- learned chunk `keep sb. updated`; next review: 2026-08-08

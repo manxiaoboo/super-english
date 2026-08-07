@@ -1,0 +1,16 @@
+{
+  "type": "chunk",
+  "id": "take sth. down from",
+  "intention": "从某处撤除／下架某物",
+  "pattern": "X has been taken down from Y.",
+  "sentencePatterns": [
+    "X has been taken down from Y.",
+    "The compromised versions were taken down from the registry.",
+    "They took the page down from the site immediately."
+  ],
+  "realLifeExamples": [
+    "The compromised versions have been taken down from the npm registry.",
+    "The malicious package was taken down from the registry within hours."
+  ],
+  "usageNotes": "take down (phrasal verb) = 删除、撤销、下架。被动式 be taken down from 最常见于技术/安全语境。"
+}

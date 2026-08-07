@@ -4,6 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "desktop": "npm --prefix apps/desktop run desktop",
+    "desktop:build": "npm --prefix apps/desktop run build",
+    "desktop:dist": "npm --prefix apps/desktop run dist:win",
     "add-item": "node scripts/add-item.mjs",
     "diagnostic-summary": "node scripts/diagnostic-summary.mjs",
     "due": "node scripts/due-items.mjs",

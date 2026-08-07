@@ -1,0 +1,16 @@
+{
+  "type": "chunk",
+  "id": "keep sb. updated",
+  "intention": "随时告知某人最新进展",
+  "pattern": "Please keep me updated about X.",
+  "sentencePatterns": [
+    "Please keep me updated about X.",
+    "I'll keep you updated as things develop.",
+    "Keep the team updated on any changes."
+  ],
+  "realLifeExamples": [
+    "Please keep me updated about the CCW team when you hear from them.",
+    "I'll keep you updated on the deployment status."
+  ],
+  "usageNotes": "keep + 宾语 + updated：使某人持续了解进展。职场沟通中极高频表达。可换 informed 意思相近。"
+}

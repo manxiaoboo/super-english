@@ -1,0 +1,16 @@
+{
+  "type": "chunk",
+  "id": "when you hear from them",
+  "intention": "当你收到他们的消息时",
+  "pattern": "Let me know when you hear from them.",
+  "sentencePatterns": [
+    "Let me know when you hear from them.",
+    "Please update me when you hear from the team.",
+    "Reach out when you hear from the vendor."
+  ],
+  "realLifeExamples": [
+    "Please keep me updated about the CCW team when you hear from them.",
+    "Let me know when you hear from the security team."
+  ],
+  "usageNotes": "hear from sb. = 收到某人的联系（消息/邮件/电话）。区分 hear from sb. vs hear about sth.。"
+}

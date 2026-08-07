@@ -111,3 +111,8 @@
 | gain a price advantage over | 在价格上胜过对手，取得价格优势 | Reduce costs to gain a price advantage over competitors. | new | 2026-08-04 | 2026-08-05 | 0 | learned |
 | charge a premium price for | 对……收取高价或溢价 | The brand can charge a premium price for its products. | new | 2026-08-04 | 2026-08-05 | 0 | learned |
 | concentrate on a narrow segment of the market | 聚焦于细分市场的某一小领域 | concentrate on a narrow segment of the market and satisfy unique needs | new | 2026-08-04 | 2026-08-05 | 0 | learned |
+| keep sb. updated | 随时告知某人最新进展 | Please keep me updated about X. | new | 2026-08-07 | 2026-08-08 | 0 | learned |
+| additional context | 补充背景信息／说明 | additional context: here are... | new | 2026-08-07 | 2026-08-08 | 0 | learned |
+| take sth. down from | 从某处撤除／下架某物 | X has been taken down from Y. | new | 2026-08-07 | 2026-08-08 | 0 | learned |
+| what I'm trying to confirm is whether | 我想确认的是是否…（正式且礼貌的确认表达） | What I'm trying to confirm is whether... | new | 2026-08-07 | 2026-08-08 | 0 | learned |
+| when you hear from them | 当你收到他们的消息时 | Let me know when you hear from them. | new | 2026-08-07 | 2026-08-08 | 0 | learned |

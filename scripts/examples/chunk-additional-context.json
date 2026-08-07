@@ -1,0 +1,16 @@
+{
+  "type": "chunk",
+  "id": "additional context",
+  "intention": "补充背景信息／说明",
+  "pattern": "additional context: here are...",
+  "sentencePatterns": [
+    "additional context: here are the details.",
+    "For additional context, here is what happened.",
+    "I want to add some additional context."
+  ],
+  "realLifeExamples": [
+    "additional context: here are the compromised versions of each package.",
+    "For additional context, the bug was introduced in v2.3."
+  ],
+  "usageNotes": "职场沟通中引出补充说明的标准表达，尤其用于消息/邮件中追加信息。"
+}
